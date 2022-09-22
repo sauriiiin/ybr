@@ -1,0 +1,2085 @@
+﻿Entity 1,Entity 2,Weight,Network group,Network
+LCB1,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG5,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG5,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+SEC61,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+SEC61,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+SEC61,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+YBR287W,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+YBR287W,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+YBR287W,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+YBR287W,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+PHO91,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+PHO91,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+PHO91,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+PHO91,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+PHO91,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+FTR1,TPO3,0.01923077,Co-localization,Huh-O'Shea-2003
+SEY1,MNN5,0.011094388,Co-localization,Huh-O'Shea-2003
+MON2,MNN5,0.007094019,Co-localization,Huh-O'Shea-2003
+MON2,SEY1,0.007094019,Co-localization,Huh-O'Shea-2003
+SPF1,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+SPF1,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+SPF1,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+SPF1,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+SPF1,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+SPF1,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+HIP1,GNP1,0.045128178,Co-localization,Huh-O'Shea-2003
+ERG9,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG9,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+LCB2,ERG9,0.004048583,Co-localization,Huh-O'Shea-2003
+TAT1,HIP1,0.013498978,Co-localization,Huh-O'Shea-2003
+NDI1,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+GDE1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+ILV2,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+ILV2,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+VTC4,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,ERG9,0.004048583,Co-localization,Huh-O'Shea-2003
+VTC4,LCB2,0.004048583,Co-localization,Huh-O'Shea-2003
+PRO3,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRO3,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+ERG1,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,ERG9,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,LCB2,0.004048583,Co-localization,Huh-O'Shea-2003
+ERG1,VTC4,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,ERG9,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,LCB2,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,VTC4,0.004048583,Co-localization,Huh-O'Shea-2003
+OLE1,ERG1,0.004048583,Co-localization,Huh-O'Shea-2003
+DOP1,MNN5,0.007094019,Co-localization,Huh-O'Shea-2003
+DOP1,SEY1,0.007094019,Co-localization,Huh-O'Shea-2003
+DOP1,MON2,0.011720493,Co-localization,Huh-O'Shea-2003
+SER1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+SER1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+SER1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+TRP5,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+TRM3,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+TRM3,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+TRM3,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+TRM3,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+YHM2,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+YHM2,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+YHM2,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+GEA2,MON2,0.013183566,Co-localization,Huh-O'Shea-2003
+GEA2,DOP1,0.013183566,Co-localization,Huh-O'Shea-2003
+GPA1,TPO3,0.01923077,Co-localization,Huh-O'Shea-2003
+GPA1,FTR1,0.01923077,Co-localization,Huh-O'Shea-2003
+SEC18,MON2,0.008195155,Co-localization,Huh-O'Shea-2003
+SEC18,DOP1,0.008195155,Co-localization,Huh-O'Shea-2003
+SEC18,GEA2,0.014842713,Co-localization,Huh-O'Shea-2003
+MSN5,NUP188,0.01651371,Co-localization,Huh-O'Shea-2003
+NUP133,NUP188,0.017041905,Co-localization,Huh-O'Shea-2003
+NUP133,MSN5,0.01651371,Co-localization,Huh-O'Shea-2003
+GYP5,HIP1,0.007447344,Co-localization,Huh-O'Shea-2003
+GYP5,TAT1,0.012133392,Co-localization,Huh-O'Shea-2003
+"ADE5,7",ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+"ADE5,7",GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+"ADE5,7",PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+"ADE5,7",SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+"ADE5,7",TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+QRI1,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+QRI1,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+YPK1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+YPK1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+YPK1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+YPK1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+YPK1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+YPK1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+ILV1,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+ILV1,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+ILV1,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+ILV1,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+NPA3,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+NPA3,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+NUP192,NUP188,0.017041905,Co-localization,Huh-O'Shea-2003
+NUP192,MSN5,0.01651371,Co-localization,Huh-O'Shea-2003
+NUP192,NUP133,0.017041905,Co-localization,Huh-O'Shea-2003
+UFD4,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+UFD4,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+UFD4,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+GET3,ERG3,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,LCB1,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,ERG5,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,SEC61,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,YBR287W,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,PHO91,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,SPF1,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,ERG9,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,LCB2,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,VTC4,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,ERG1,0.004048583,Co-localization,Huh-O'Shea-2003
+GET3,OLE1,0.004048583,Co-localization,Huh-O'Shea-2003
+TIF1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+TIF1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS5,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+FAS1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+TCB3,TPO3,0.01923077,Co-localization,Huh-O'Shea-2003
+TCB3,FTR1,0.01923077,Co-localization,Huh-O'Shea-2003
+TCB3,GPA1,0.01923077,Co-localization,Huh-O'Shea-2003
+WRS1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+WRS1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RNA1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+IDH2,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+IDH2,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+IDH2,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+IDH2,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+IDH2,ILV1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,ILV1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP3,IDH2,0.002141328,Co-localization,Huh-O'Shea-2003
+CDC60,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CDC60,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA2,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+OLA1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+URA7,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PDR12,TPO3,0.01923077,Co-localization,Huh-O'Shea-2003
+PDR12,FTR1,0.01923077,Co-localization,Huh-O'Shea-2003
+PDR12,GPA1,0.01923077,Co-localization,Huh-O'Shea-2003
+PDR12,TCB3,0.01923077,Co-localization,Huh-O'Shea-2003
+CHC1,GGA2,0.024971124,Co-localization,Huh-O'Shea-2003
+GCD1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCD1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+MDN1,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+MDN1,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+MDN1,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+MDN1,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+ATP2,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,ILV1,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,IDH2,0.002141328,Co-localization,Huh-O'Shea-2003
+ATP2,ATP3,0.002141328,Co-localization,Huh-O'Shea-2003
+RNR2,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+RNR2,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+RNR2,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+RNR2,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+RNR2,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+VMA6,VAC8,0.018037723,Co-localization,Huh-O'Shea-2003
+VMA1,VAC8,0.018037723,Co-localization,Huh-O'Shea-2003
+VMA1,VMA6,0.018037723,Co-localization,Huh-O'Shea-2003
+PDC1,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+PDC1,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+PDC1,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+PDC1,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+PDC1,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+PDC1,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+PHO81,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPG1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+RPG1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+URA2,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+PSA1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+FKS1,CCC1,0.00862069,Co-localization,Huh-O'Shea-2003
+NEW1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+NEW1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ENO2,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+GCN1,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+VMA2,VAC8,0.018037723,Co-localization,Huh-O'Shea-2003
+VMA2,VMA6,0.018037723,Co-localization,Huh-O'Shea-2003
+VMA2,VMA1,0.018037723,Co-localization,Huh-O'Shea-2003
+RPL4A,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+RPL4A,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+KAP95,NUP188,0.013057217,Co-localization,Huh-O'Shea-2003
+KAP95,MSN5,0.014154498,Co-localization,Huh-O'Shea-2003
+KAP95,NUP133,0.013057217,Co-localization,Huh-O'Shea-2003
+KAP95,NUP192,0.013057217,Co-localization,Huh-O'Shea-2003
+KAP95,TUB1,0.005692894,Co-localization,Huh-O'Shea-2003
+BMH2,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+BMH2,PHO81,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,PHO81,0.001277139,Co-localization,Huh-O'Shea-2003
+RPB2,BMH2,0.001277139,Co-localization,Huh-O'Shea-2003
+HSC82,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSC82,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+SSZ1,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+SSE1,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPT5,ACS2,0.002159827,Co-localization,Huh-O'Shea-2003
+RVB1,ACS2,0.002159827,Co-localization,Huh-O'Shea-2003
+RVB1,RPT5,0.002159827,Co-localization,Huh-O'Shea-2003
+TOM1,DBP6,0.014492754,Co-localization,Huh-O'Shea-2003
+RPN11,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,PHO81,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,BMH2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN11,RPB2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,PHO81,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,BMH2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,RPB2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN1,RPN11,0.001277139,Co-localization,Huh-O'Shea-2003
+PRS3,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+PRS3,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+RPN10,MCM6,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,TRP5,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,QRI1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,UFD4,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,MDN1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,RNR2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,PDC1,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,PHO81,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,BMH2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,RPB2,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,RPN11,0.001277139,Co-localization,Huh-O'Shea-2003
+RPN10,RPN1,0.001277139,Co-localization,Huh-O'Shea-2003
+CRM1,ACS2,0.002159827,Co-localization,Huh-O'Shea-2003
+CRM1,RPT5,0.002159827,Co-localization,Huh-O'Shea-2003
+CRM1,RVB1,0.002159827,Co-localization,Huh-O'Shea-2003
+CPA1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+CPA1,PRS3,0.001261034,Co-localization,Huh-O'Shea-2003
+MIR1,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,ILV1,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,IDH2,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,ATP3,0.002141328,Co-localization,Huh-O'Shea-2003
+MIR1,ATP2,0.002141328,Co-localization,Huh-O'Shea-2003
+ILS1,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,PRS3,0.001261034,Co-localization,Huh-O'Shea-2003
+ILS1,CPA1,0.001261034,Co-localization,Huh-O'Shea-2003
+FMP21,MDL1,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,NDI1,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,ILV2,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,YHM2,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,ILV1,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,IDH2,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,ATP3,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,ATP2,0.002141328,Co-localization,Huh-O'Shea-2003
+FMP21,MIR1,0.002141328,Co-localization,Huh-O'Shea-2003
+TEF4,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,PRS3,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,CPA1,0.001261034,Co-localization,Huh-O'Shea-2003
+TEF4,ILS1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,PRS3,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,CPA1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,ILS1,0.001261034,Co-localization,Huh-O'Shea-2003
+VID27,TEF4,0.001261034,Co-localization,Huh-O'Shea-2003
+NCE102,MNN5,0.011094388,Co-localization,Huh-O'Shea-2003
+NCE102,SEY1,0.011094388,Co-localization,Huh-O'Shea-2003
+NCE102,MON2,0.007094019,Co-localization,Huh-O'Shea-2003
+NCE102,DOP1,0.007094019,Co-localization,Huh-O'Shea-2003
+DRS2,MON2,0.007786445,Co-localization,Huh-O'Shea-2003
+DRS2,DOP1,0.007786445,Co-localization,Huh-O'Shea-2003
+DRS2,GGA2,0.015000548,Co-localization,Huh-O'Shea-2003
+DRS2,GEA2,0.014102395,Co-localization,Huh-O'Shea-2003
+DRS2,SEC18,0.008764884,Co-localization,Huh-O'Shea-2003
+DRS2,CHC1,0.015000548,Co-localization,Huh-O'Shea-2003
+CLC1,GGA2,0.024971124,Co-localization,Huh-O'Shea-2003
+CLC1,CHC1,0.024971124,Co-localization,Huh-O'Shea-2003
+CLC1,DRS2,0.015000548,Co-localization,Huh-O'Shea-2003
+SUR7,MNN5,0.011094388,Co-localization,Huh-O'Shea-2003
+SUR7,SEY1,0.011094388,Co-localization,Huh-O'Shea-2003
+SUR7,MON2,0.007094019,Co-localization,Huh-O'Shea-2003
+SUR7,DOP1,0.007094019,Co-localization,Huh-O'Shea-2003
+SUR7,NCE102,0.011094388,Co-localization,Huh-O'Shea-2003
+HSP82,ARO2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,GDE1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,PRO3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,SER1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,TRM3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,"ADE5,7",0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,YPK1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,NPA3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,TIF1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,PRS5,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,FAS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,WRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,PRS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,RNA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,CDC60,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,CPA2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,OLA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,URA7,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,GCD1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,RPG1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,URA2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,PSA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,NEW1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,ENO2,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,GCN1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,RPL4A,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,HSC82,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,SSZ1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,SSE1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,PRS3,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,CPA1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,ILS1,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,TEF4,0.001261034,Co-localization,Huh-O'Shea-2003
+HSP82,VID27,0.001261034,Co-localization,Huh-O'Shea-2003
+RVB1,TCP1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,CCT5,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,SER1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,ARP3,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,TRP5,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,PGK1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,SEC18,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,GPD1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,TUB2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,"ADE5,7",0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,ILV1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,NPA3,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,GET3,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,TIF1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,PRS5,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,FAS1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,IDH2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,CDC60,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,OLA1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,CHC1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,GCD1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,MDN1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,ATP2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,ACS2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,VMA6,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,VMA1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,PDC1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,URA2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,TUB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,PSA1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,NEW1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,ENO2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,GCN1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,VMA2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,KAP95,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,RPB2,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,HSC82,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,SSZ1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,CCT6,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,SSE1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB1,RPT5,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RPN1,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,TCP1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,CCT5,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,MCM6,0.06683685,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,TRP5,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,PGK1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,YHM2,0.06683685,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,TUB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,CDC39,0.06683685,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,"ADE5,7",0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,ILV1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,NPA3,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,TIF1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,FAS1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,IDH2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,OLA1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,MDN1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,ATP2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,ACS2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,VMA1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,PDC1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,URA2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,TUB1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,PSA1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,NEW1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,ENO2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,GCN1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,VMA2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,RPB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,HSC82,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,SSZ1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,SSE1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,RPT5,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,RVB1,0.000195023,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RVB2,RPN1,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+CCT3,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+CCT3,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RPN10,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+RPN10,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+MIR1,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+MIR1,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+ILS1,RVB1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+TEF4,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+TEF4,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+VID27,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+VID27,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+SAM2,RVB1,0.054163776,Physical Interactions,Lakshminarasimhan-Washburn-2016
+GFA1,RVB1,0.030818855,Physical Interactions,Lakshminarasimhan-Washburn-2016
+GFA1,RVB2,0.041382365,Physical Interactions,Lakshminarasimhan-Washburn-2016
+TOM1,GNP1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,ARO2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,CCT5,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SPF1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SUI3,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,VTC4,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,CCT2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,PGK1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,YHM2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SEC18,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,TIF1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,FAS1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,TCB3,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SAC6,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,CDC60,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,OLA1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,CHC1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,GCD1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,ATP2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,VMA1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,PDC1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,RPG1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,URA2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,PSA1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,FKS1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,NEW1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,ENO2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,GCN1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,VMA2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,RPL4A,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,KAP95,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,BMH2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,RPB2,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,HSC82,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SSZ1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,CCT6,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SSE1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,SSC1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,RPT5,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TOM1,RVB1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+RPN11,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+RPN1,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+RVB2,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+CCT3,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+MIR1,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+ILS1,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+TEF4,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+CLC1,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+HSP82,TOM1,0.04360207,Physical Interactions,Sung-Deshaies-2016
+RPT5,YRB1,0.05642585,Physical Interactions,Guerrero-Huang-2008
+RPT5,TCP1,0.041942894,Physical Interactions,Guerrero-Huang-2008
+RPT5,YHR020W,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,TRP5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,PGK1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,GPD1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,TUB2,0.041942894,Physical Interactions,Guerrero-Huang-2008
+RPT5,"ADE5,7",0.041942894,Physical Interactions,Guerrero-Huang-2008
+RPT5,GET3,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,FAS1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,SAC6,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,CDC60,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,CPA2,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,OLA1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,ACS2,0.041942894,Physical Interactions,Guerrero-Huang-2008
+RPT5,RNR2,0.04132281,Physical Interactions,Guerrero-Huang-2008
+RPT5,VMA1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,PDC1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,URA2,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,TUB1,0.05642585,Physical Interactions,Guerrero-Huang-2008
+RPT5,PSA1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,NEW1,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,ENO2,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,VMA2,0.04184231,Physical Interactions,Guerrero-Huang-2008
+RPT5,RPL4A,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,BMH2,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,HSC82,0.033869494,Physical Interactions,Guerrero-Huang-2008
+RPT5,SSE1,0.04184231,Physical Interactions,Guerrero-Huang-2008
+RPN11,YMC1,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,YRB1,0.03639717,Physical Interactions,Guerrero-Huang-2008
+RPN11,TCP1,0.027055023,Physical Interactions,Guerrero-Huang-2008
+RPN11,ARO2,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,SPF1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,YHR020W,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,ERG9,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,ILV2,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,PRO3,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,OLE1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,CCT2,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,GGA2,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,SEC23,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,SER1,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,ARP3,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,TRP5,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,PGK1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,SEC18,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,GPD1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,TUB2,0.027055023,Physical Interactions,Guerrero-Huang-2008
+RPN11,VAC8,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,"ADE5,7",0.027055023,Physical Interactions,Guerrero-Huang-2008
+RPN11,NPA3,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,GET3,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,PRS5,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,FAS1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,TCB3,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,WRS1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,PRS1,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,RNA1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,SAC6,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,CDC60,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,CPA2,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,OLA1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,URA7,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,ATP2,0.037990425,Physical Interactions,Guerrero-Huang-2008
+RPN11,ACS2,0.027055023,Physical Interactions,Guerrero-Huang-2008
+RPN11,VMA1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,PDC1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,URA2,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,TUB1,0.03639717,Physical Interactions,Guerrero-Huang-2008
+RPN11,PSA1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,FKS1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,NEW1,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,ENO2,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,GCN1,0.027768932,Physical Interactions,Guerrero-Huang-2008
+RPN11,VMA2,0.026990142,Physical Interactions,Guerrero-Huang-2008
+RPN11,RPL4A,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,BMH2,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,RPB2,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN11,HSC82,0.02184732,Physical Interactions,Guerrero-Huang-2008
+RPN11,SSZ1,0.037844073,Physical Interactions,Guerrero-Huang-2008
+RPN11,SSE1,0.026990142,Physical Interactions,Guerrero-Huang-2008
+RPN11,RVB1,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RPN1,YMC1,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,TCP1,0.031462394,Physical Interactions,Guerrero-Huang-2008
+RPN1,SPF1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,YHR020W,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,ERG9,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,PRO3,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,OLE1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,SEC23,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,SER1,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,ARP3,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,TRP5,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,PGK1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,YHM2,0.072824866,Physical Interactions,Guerrero-Huang-2008
+RPN1,SEC18,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,GPD1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,TUB2,0.031462394,Physical Interactions,Guerrero-Huang-2008
+RPN1,"ADE5,7",0.031462394,Physical Interactions,Guerrero-Huang-2008
+RPN1,NPA3,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,GET3,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,PRS5,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,FAS1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,WRS1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,RNA1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,SAC6,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,CDC60,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,CPA2,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,OLA1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,URA7,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,ATP2,0.04417922,Physical Interactions,Guerrero-Huang-2008
+RPN1,ACS2,0.031462394,Physical Interactions,Guerrero-Huang-2008
+RPN1,RNR2,0.03099725,Physical Interactions,Guerrero-Huang-2008
+RPN1,VMA6,0.072824866,Physical Interactions,Guerrero-Huang-2008
+RPN1,VMA1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,PDC1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,RPG1,0.072824866,Physical Interactions,Guerrero-Huang-2008
+RPN1,URA2,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,PSA1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,FKS1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,NEW1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,ENO2,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,GCN1,0.0322926,Physical Interactions,Guerrero-Huang-2008
+RPN1,RPL4A,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,BMH2,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,HSC82,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN1,CCT6,0.043141637,Physical Interactions,Guerrero-Huang-2008
+PRS3,RPN11,0.06524114,Physical Interactions,Guerrero-Huang-2008
+RVB2,RPN11,0.06524114,Physical Interactions,Guerrero-Huang-2008
+CCT3,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+CCT3,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+CCT3,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+RPN10,SPF1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,YHR020W,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,ERG9,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,SUI3,0.07389511,Physical Interactions,Guerrero-Huang-2008
+RPN10,OLE1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,SEC23,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,ARP3,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,TRP5,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,PGK1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,SEC18,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,GPD1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,GET3,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,FAS1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,WRS1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,RNA1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,SAC6,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,CDC60,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,CPA2,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,OLA1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,CHC1,0.07389511,Physical Interactions,Guerrero-Huang-2008
+RPN10,RNR2,0.031686082,Physical Interactions,Guerrero-Huang-2008
+RPN10,VMA1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,PDC1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,URA2,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,PSA1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,FKS1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,NEW1,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,ENO2,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,GCN1,0.03301022,Physical Interactions,Guerrero-Huang-2008
+RPN10,VMA2,0.032084435,Physical Interactions,Guerrero-Huang-2008
+RPN10,RPL4A,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,BMH2,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,HSC82,0.025970923,Physical Interactions,Guerrero-Huang-2008
+RPN10,SSZ1,0.044987008,Physical Interactions,Guerrero-Huang-2008
+RPN10,CCT6,0.04410034,Physical Interactions,Guerrero-Huang-2008
+RPN10,SSE1,0.032084435,Physical Interactions,Guerrero-Huang-2008
+RPN10,CCT3,0.025970923,Physical Interactions,Guerrero-Huang-2008
+CPA1,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+CPA1,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+CPA1,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+CPA1,RPN10,0.025970923,Physical Interactions,Guerrero-Huang-2008
+MIR1,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+MIR1,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+MIR1,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+MIR1,RPN10,0.025970923,Physical Interactions,Guerrero-Huang-2008
+ILS1,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+ILS1,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+ILS1,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+ILS1,RPN10,0.025970923,Physical Interactions,Guerrero-Huang-2008
+TEF4,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+TEF4,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+TEF4,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+TEF4,RPN10,0.025970923,Physical Interactions,Guerrero-Huang-2008
+SAM2,RPT5,0.033869494,Physical Interactions,Guerrero-Huang-2008
+SAM2,RPN11,0.02184732,Physical Interactions,Guerrero-Huang-2008
+SAM2,RPN1,0.025406338,Physical Interactions,Guerrero-Huang-2008
+SAM2,RPN10,0.025970923,Physical Interactions,Guerrero-Huang-2008
+HSP82,RPT5,0.04184231,Physical Interactions,Guerrero-Huang-2008
+HSP82,RPN11,0.026990142,Physical Interactions,Guerrero-Huang-2008
+HSP82,RPN10,0.032084435,Physical Interactions,Guerrero-Huang-2008
+GFA1,RPT5,0.041942894,Physical Interactions,Guerrero-Huang-2008
+GFA1,RPN11,0.027055023,Physical Interactions,Guerrero-Huang-2008
+GFA1,RPN1,0.031462394,Physical Interactions,Guerrero-Huang-2008
+CCT6,TCP1,0.092636675,Physical Interactions,Dekker-Willison-2008
+CCT6,CCT5,0.092636675,Physical Interactions,Dekker-Willison-2008
+CCT6,CCT2,0.092636675,Physical Interactions,Dekker-Willison-2008
+CCT6,PGK1,0.15192977,Physical Interactions,Dekker-Willison-2008
+CCT6,ENO2,0.15192977,Physical Interactions,Dekker-Willison-2008
+SSE1,CCT6,0.15192977,Physical Interactions,Dekker-Willison-2008
+CCT3,TCP1,0.078558035,Physical Interactions,Dekker-Willison-2008
+CCT3,SEY1,0.13566045,Physical Interactions,Dekker-Willison-2008
+CCT3,CCT5,0.078558035,Physical Interactions,Dekker-Willison-2008
+CCT3,CCC1,0.13566045,Physical Interactions,Dekker-Willison-2008
+CCT3,DOP1,0.13566045,Physical Interactions,Dekker-Willison-2008
+CCT3,CCT2,0.078558035,Physical Interactions,Dekker-Willison-2008
+CCT3,TUB2,0.13566045,Physical Interactions,Dekker-Willison-2008
+CCT3,RPG1,0.13566045,Physical Interactions,Dekker-Willison-2008
+CCT3,CCT6,0.002825354,Physical Interactions,Dekker-Willison-2008
+VID27,CCT6,0.092636675,Physical Interactions,Dekker-Willison-2008
+VID27,CCT3,0.078558035,Physical Interactions,Dekker-Willison-2008
+HSP82,CCT6,0.15192977,Physical Interactions,Dekker-Willison-2008
+NEW1,CCT2,0.8356926,Physical Interactions,Gong-Houry-2009
+HSC82,SEC23,0.35025212,Physical Interactions,Gong-Houry-2009
+SSZ1,GDE1,0.20770189,Physical Interactions,Gong-Houry-2009
+SSE1,QRI1,0.11137417,Physical Interactions,Gong-Houry-2009
+SSE1,ACS2,0.15670522,Physical Interactions,Gong-Houry-2009
+SSE1,KAP95,0.11137417,Physical Interactions,Gong-Houry-2009
+TEF4,HSC82,0.35025212,Physical Interactions,Gong-Houry-2009
+HSP82,HSC82,0.11651152,Physical Interactions,Gong-Houry-2009
+HSP82,SSZ1,0.12285371,Physical Interactions,Gong-Houry-2009
+HSP82,SSE1,0.03634685,Physical Interactions,Gong-Houry-2009
+CCT5,TCP1,0.16060579,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+LCB2,LCB1,1,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ERG1,YHR020W,0.052464567,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+DOP1,MON2,0.67861336,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+DOP1,YHR020W,0.021131992,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT2,TCP1,0.085843675,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT2,CCT5,0.11695332,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ARP3,CCT5,0.035336405,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GEA2,YHR020W,0.017191269,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GEA2,DOP1,0.044294808,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SEC18,SEC23,0.012060056,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MSN5,TCP1,0.040212628,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MSN5,DOP1,0.06137667,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MSN5,GEA2,0.027007803,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB2,YHR020W,0.007979879,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB2,SUI3,0.010475559,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB2,CCT2,0.010505984,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB2,GEA2,0.012745048,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB2,MSN5,0.011418997,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VAC8,VTC4,0.18277974,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+"ADE5,7",YHR020W,0.040202666,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILV1,YHR020W,0.012538013,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILV1,ILV2,0.042400442,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILV1,TUB2,0.013116387,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NPA3,CCT2,0.055630893,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+UFD4,YHR020W,0.017329914,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+UFD4,ILV2,0.091008686,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+UFD4,GEA2,0.024487702,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+UFD4,TUB2,0.014402196,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GET3,TAT1,0.2656475,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TIF1,TUB2,0.01202474,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,YHR020W,0.01210754,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,GEA2,0.01145906,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,MSN5,0.015074024,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,TUB2,0.008976136,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,ILV1,0.013531743,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FAS1,UFD4,0.018560331,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RNA1,YRB1,0.08974143,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAC6,ARP3,0.028335359,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAC6,YPK1,0.122698836,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+IDH2,YHR020W,0.012481217,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+IDH2,TUB2,0.01840953,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+IDH2,ILV1,0.023901932,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP3,ILV2,0.095962174,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA2,TUB2,0.018513126,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA2,"ADE5,7",0.08905129,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA2,ILV1,0.026430948,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA2,ATP3,0.025841938,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,YHR020W,0.012181037,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,ERG1,0.05210218,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,TUB2,0.010367219,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,ILV1,0.010092285,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,FAS1,0.008054865,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+OLA1,IDH2,0.018921241,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA7,TCP1,0.080752976,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CHC1,GGA2,0.51710737,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCD1,SUI3,0.10736278,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,YHR020W,0.007066486,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,GEA2,0.013100327,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,MSN5,0.010987207,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,TUB2,0.008102669,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,ILV1,0.008469062,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,UFD4,0.013582654,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MDN1,FAS1,0.008649414,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP2,YHR020W,0.013849818,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP2,TUB2,0.010267804,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP2,FAS1,0.012148432,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP2,ATP3,0.004593008,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ATP2,OLA1,0.01799327,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ACS2,FAS1,0.012452615,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ACS2,OLA1,0.020193756,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RNR2,OLA1,0.020285873,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA6,YHR020W,0.014957037,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA6,GEA2,0.025257988,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA6,VAC8,0.0701068,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA6,FAS1,0.015339886,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA6,ATP2,0.018549222,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,YHR020W,0.00804762,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,ERG1,0.034371182,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,MSN5,0.013316013,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,TUB2,0.007512101,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,FAS1,0.01033221,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,OLA1,0.013164181,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,ATP2,0.013037946,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA1,VMA6,0.013994088,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,YHR020W,0.012055458,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,ERG1,0.038124833,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,SEC23,0.016090123,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,PGK1,0.0416596,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,TUB2,0.008937524,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,FAS1,0.013560534,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,WRS1,0.048046492,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,OLA1,0.011754641,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,ATP2,0.012035118,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,ACS2,0.01234317,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,VMA6,0.021364024,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PDC1,VMA1,0.009710926,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPG1,SUI3,0.020205257,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPG1,GCD1,0.007674658,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,YHR020W,0.006165303,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,SUI3,0.011613874,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,GEA2,0.007103228,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,TUB2,0.004570755,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,ILV1,0.008390388,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,UFD4,0.006749133,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,TIF1,0.013349613,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,FAS1,0.006935018,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,IDH2,0.011571283,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,CPA2,0.01662246,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,OLA1,0.008009777,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,GCD1,0.011486585,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,MDN1,0.006260172,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,ATP2,0.007932969,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+URA2,VMA1,0.005803895,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,YHR020W,0.008639218,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,TRP5,0.061545085,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,GEA2,0.01379811,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,MSN5,0.01668378,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,TUB2,0.007703839,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,ILV1,0.009316305,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,UFD4,0.012365764,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,FAS1,0.009717791,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,IDH2,0.019930622,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,OLA1,0.011223814,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,MDN1,0.008772154,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,ATP2,0.011116185,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,VMA1,0.00813279,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,PDC1,0.00967599,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TUB1,URA2,0.004948415,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,YHR020W,0.007870067,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,GEA2,0.009321205,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,MSN5,0.009527247,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,TUB2,0.005834612,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,ILV1,0.010710408,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,NUP192,0.043853223,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,UFD4,0.00893571,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,TIF1,0.012676256,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,FAS1,0.008852615,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,IDH2,0.018156193,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,CPA2,0.011973047,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,OLA1,0.010224556,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,MDN1,0.006346937,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,ATP2,0.010126509,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,VMA1,0.007408727,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,PDC1,0.008814534,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,URA2,0.004507856,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PSA1,TUB1,0.006316698,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,YHR020W,0.008391195,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,OLE1,0.032381065,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,PGK1,0.02315395,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,GEA2,0.013057309,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,TUB2,0.007750344,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,TCB3,0.02241963,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,ATP2,0.007749125,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,PDC1,0.007503546,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,URA2,0.003485535,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FKS1,TUB1,0.008390717,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,ILV1,0.021116372,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,FAS1,0.018748807,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,IDH2,0.03769056,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,OLA1,0.016490648,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,ACS2,0.039989583,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,PDC1,0.018598069,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,URA2,0.009043633,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NEW1,PSA1,0.011849822,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ENO2,PGK1,0.17318895,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ENO2,TIF1,0.04683193,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ENO2,PDC1,0.045657728,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,YHR020W,0.008891621,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,GEA2,0.014201235,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,MSN5,0.015003534,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,TUB2,0.006591959,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,CDC39,0.010405981,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,ILV1,0.010207845,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,UFD4,0.01598576,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,TIF1,0.010798157,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,FAS1,0.010001706,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,IDH2,0.016718984,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,OLA1,0.010760324,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,MDN1,0.009028441,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,ATP2,0.011440955,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,VMA1,0.008370398,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,PDC1,0.005999249,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,URA2,0.005092988,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,TUB1,0.007136621,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GCN1,PSA1,0.006501246,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,YHR020W,0.005752603,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,GEA2,0.009187759,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,MSN5,0.008021524,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,TUB2,0.004861082,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,CDC39,0.007330919,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,ILV1,0.007828742,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,UFD4,0.008327365,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,TIF1,0.006296429,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,FAS1,0.006470793,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,IDH2,0.013271218,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,CPA2,0.009487323,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,OLA1,0.00747361,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,GCD1,0.009333914,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,MDN1,0.005841122,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,ATP2,0.007401943,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,VMA6,0.009830302,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,VMA1,0.007294678,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,PDC1,0.006442959,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,URA2,0.003295005,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,TUB1,0.005716904,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,PSA1,0.004206105,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,FKS1,0.005587134,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VMA2,GCN1,0.004752067,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,YHR020W,0.002632696,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,GEA2,0.004574498,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,TUB2,0.003805073,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,TIF1,0.005376093,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,TCB3,0.007275946,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,MDN1,0.002739587,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,ACS2,0.005732352,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,RPG1,0.005253832,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,URA2,0.002939823,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,TUB1,0.004119468,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,PSA1,0.003752712,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,FKS1,0.006019029,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,GCN1,0.004239823,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPL4A,VMA2,0.002743034,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+BMH2,PDC1,0.012945113,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,YHR020W,0.008350582,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,GEA2,0.010297696,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,MSN5,0.011092365,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,TUB2,0.007851653,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,ILV1,0.010985261,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,UFD4,0.013643084,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,FAS1,0.011912989,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,CPA2,0.012102886,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,URA7,0.023964677,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,MDN1,0.010753738,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,URA2,0.006066236,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,TUB1,0.009745401,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,PSA1,0.005703607,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,GCN1,0.006604589,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPB2,VMA2,0.006503845,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,YHR020W,0.007813158,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,SEC23,0.010002037,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,TRM3,0.033168633,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,MSN5,0.006131715,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,TUB2,0.005792421,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,ILV1,0.010674476,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,TIF1,0.008170618,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,FAS1,0.008788601,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,ATP2,0.008748433,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,VMA1,0.004283269,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,PDC1,0.008750796,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,RPG1,0.008485219,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,URA2,0.003632635,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,TUB1,0.006271021,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,PSA1,0.005712712,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,GCN1,0.00720944,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,VMA2,0.004175691,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSC82,RPB2,0.005111878,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSZ1,ACS2,0.021048455,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSZ1,BMH2,0.014884387,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSZ1,HSC82,0.009981235,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,TCP1,0.077255726,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,CCT5,0.082605995,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,YHR020W,0.012368191,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,CCT2,0.053330116,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,TUB2,0.010424664,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,FAS1,0.015628332,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,OLA1,0.017635427,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,MDN1,0.011251215,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,ATP2,0.020401005,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,VMA1,0.013705931,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,URA2,0.00603325,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,TUB1,0.014651085,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,PSA1,0.009496382,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,GCN1,0.013195248,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT6,VMA2,0.005763636,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,YHR020W,0.010266366,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,TUB2,0.00934812,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,FAS1,0.01523698,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,CHC1,0.06275113,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,ATP2,0.019639758,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,VMA1,0.011414325,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,URA2,0.006396567,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,TUB1,0.010325362,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,PSA1,0.008211402,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,VMA2,0.005912908,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSE1,RPB2,0.011126529,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSC1,RPG1,0.023356609,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSC1,SSE1,0.026126552,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPT5,SEC18,0.01817002,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPT5,MDN1,0.012676714,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPT5,VMA1,0.010514001,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPT5,URA2,0.006479294,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,TUB2,0.00347361,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,OLA1,0.005874291,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,URA2,0.005220498,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,TUB1,0.005322637,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,PSA1,0.006664014,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,FKS1,0.005582557,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,VMA2,0.004871042,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB1,RPL4A,0.003154061,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,TCP1,0.036535818,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,MSN5,0.025461365,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,FAS1,0.010905873,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,URA7,0.028626366,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,MDN1,0.014398589,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,VMA1,0.009562722,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,GCN1,0.007387945,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,RPB2,0.011196432,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,HSC82,0.010533141,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TOM1,SSZ1,0.010009558,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN11,SEC18,0.022566836,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN11,CPA2,0.01930921,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN11,RPT5,0.027902065,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,YHR020W,0.007160704,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,GEA2,0.009052295,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,SEC18,0.014475019,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,TUB2,0.005308713,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,CDC39,0.009249442,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,ILV1,0.009745033,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,UFD4,0.00581247,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,TIF1,0.011326646,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,FAS1,0.00805469,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,IDH2,0.014968822,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,CPA2,0.013903182,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,OLA1,0.011336092,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,MDN1,0.008656614,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,ATP2,0.007682813,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,VMA1,0.006740946,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,URA2,0.004101544,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,TUB1,0.005747347,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,PSA1,0.005235659,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,GCN1,0.005915261,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,VMA2,0.00382699,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,RPB2,0.007045642,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,HSC82,0.004378339,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,CCT6,0.009907921,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,SSE1,0.012540652,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,RPT5,0.013490872,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN1,RPN11,0.013558222,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PRS3,TCP1,0.10717205,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PRS3,PRS5,0.14945087,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PRS3,PRS1,0.67347705,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PRS3,URA7,0.08202938,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+PRS3,TOM1,0.037991744,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,TUB2,0.005073753,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,IDH2,0.01849515,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,URA2,0.005857531,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,TUB1,0.006615409,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,PSA1,0.007477194,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,VMA2,0.005465434,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RVB2,RVB1,0.011758373,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT3,TCP1,0.13337563,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT3,CCT5,0.15032849,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT3,CCT2,0.100866646,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT3,NPA3,0.10219387,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CCT3,CCT6,0.072312064,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,SEC18,0.021372441,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,UFD4,0.004594715,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,CPA2,0.015023002,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,URA7,0.0293604,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,RPB2,0.008919504,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,RPT5,0.023560526,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,RPN11,0.024473537,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+RPN10,RPN1,0.01178806,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,YHR020W,0.018993309,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,NUP188,0.06952167,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,GEA2,0.030335128,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,MSN5,0.022013303,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,TUB2,0.01691077,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,FAS1,0.012323569,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,RNA1,0.027909148,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,OLA1,0.017564423,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,URA2,0.010879084,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,TUB1,0.01524447,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,PSA1,0.013887253,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,GCN1,0.013235622,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,VMA2,0.010150847,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CRM1,RPN1,0.01517323,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA1,TCB3,0.15855592,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA1,CPA2,0.40177834,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CPA1,URA2,0.018081427,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,YHR020W,0.015900757,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,TAT1,0.05285911,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,DOP1,0.03786296,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,GEA2,0.025395863,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,MSN5,0.016830616,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,TUB2,0.011788303,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,FAS1,0.014848118,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,ATP2,0.005813301,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,PDC1,0.014740234,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,URA2,0.007305915,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,TUB1,0.012762315,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,PSA1,0.011626083,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,FKS1,0.015443383,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,GCN1,0.011002068,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,VMA2,0.008498053,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,RPL4A,0.0060859,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,HSC82,0.009032601,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,RPN1,0.005871835,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+MIR1,CRM1,0.028057931,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,TCP1,0.025295248,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,GEA2,0.012563288,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,MSN5,0.018321933,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,TUB2,0.005079303,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,ILV1,0.016203748,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,FAS1,0.009253033,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,CDC60,0.03431131,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,URA7,0.018062692,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,MDN1,0.009999597,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,ACS2,0.02132688,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,VMA6,0.016818082,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,URA2,0.002385083,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,TUB1,0.005498982,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,NEW1,0.009817842,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,GCN1,0.008126721,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,VMA2,0.005616965,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,RPB2,0.009906274,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,SSZ1,0.015366003,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,TOM1,0.016256122,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,RPN1,0.005043079,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,RPN10,0.008444392,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+ILS1,CRM1,0.013691366,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+FMP21,QRI1,1,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,YHR020W,0.011427454,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,OLA1,0.019739488,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,VMA1,0.010428013,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,PDC1,0.008708739,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,PSA1,0.005548992,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,VMA2,0.00734886,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,HSC82,0.010068424,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,SSZ1,0.014771162,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+TEF4,RPN1,0.006674031,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VID27,CCT2,0.16692011,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+VID27,CCT6,0.113148674,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NCE102,VTC4,0.22122432,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NCE102,VAC8,0.192282,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+NCE102,VMA6,0.08485256,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+DRS2,UFD4,0.09317266,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+DRS2,TCB3,0.094157524,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,YHR020W,0.025257956,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,GEA2,0.029183328,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,TUB2,0.015955105,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,FAS1,0.02149392,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,OLA1,0.028802508,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,MDN1,0.015613519,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,ACS2,0.04755317,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,URA2,0.00951289,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,TUB1,0.020516125,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,PSA1,0.016334474,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,GCN1,0.02186626,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,VMA2,0.010580739,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,RPB2,0.015842356,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SAM2,RPN1,0.015482652,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+CLC1,CHC1,0.31046835,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SUR7,PDR12,0.84447587,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,ILV1,0.003156256,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,TIF1,0.028840464,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,MDN1,0.007918642,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,ATP2,0.011853829,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,URA2,0.007457208,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,PSA1,0.005884502,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,GCN1,0.007027604,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,RPB2,0.008075076,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,HSC82,0.016059497,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,SSZ1,0.00879897,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,TOM1,0.010367369,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+HSP82,TEF4,0.012631559,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,YHR020W,0.010537385,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,MSN5,0.020349458,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,TUB2,0.004586809,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,ILV1,0.014340372,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,TIF1,0.012160016,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,FAS1,0.009060933,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,IDH2,0.02430968,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,CPA2,0.016796423,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,OLA1,0.013689855,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,MDN1,0.01069953,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,ATP2,0.012424129,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,VMA1,0.009919686,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,PDC1,0.006501813,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,URA2,0.003513807,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,TUB1,0.004965795,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,PSA1,0.004485886,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,NEW1,0.014269898,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,GCN1,0.006049027,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,VMA2,0.00327775,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,RPB2,0.010368064,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,HSC82,0.006398322,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,CCT6,0.01787015,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,SSE1,0.012096385,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,RPT5,0.010676737,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,RVB1,0.00477644,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,TOM1,0.008515353,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,RPN1,0.004986452,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,RPN10,0.013147577,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,CRM1,0.01390018,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,MIR1,0.007600242,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,ILS1,0.009433922,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,TEF4,0.011419528,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,SAM2,0.01597956,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+GFA1,HSP82,0.013637261,Physical Interactions,Lee-Marcotte-2007 Protein complexes
+SSC1,NDI1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,ILV2,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,VTC4,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,YHM2,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,GPD1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,VAC8,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,YPK1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,ILV1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,TCB3,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,IDH2,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,ATP3,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,ATP2,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+SSC1,VMA1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+MIR1,SSC1,0.04508348,Physical Interactions,B√∂ttinger-Becker-2015
+FAS1,YPK1,0.60709834,Physical Interactions,Fasolo-Snyder-2011
+RPL4A,PRS5,0.10743692,Physical Interactions,Fasolo-Snyder-2011
+PDR12,TUB2,0.42982626,Physical Interactions,Snider-Stagljar-2013
+TUB1,TUB2,0.3848431,Physical Interactions,Wong-Hazbun-2007
+LCB2,LCB1,0.3548638,Physical Interactions,Gavin-Superti-Furga-2006
+ERG1,YHR020W,0.27326554,Physical Interactions,Gavin-Superti-Furga-2006
+DOP1,MON2,0.9228935,Physical Interactions,Gavin-Superti-Furga-2006
+GEA2,LCB2,0.17312512,Physical Interactions,Gavin-Superti-Furga-2006
+TUB2,MSN5,0.084758945,Physical Interactions,Gavin-Superti-Furga-2006
+UFD4,TUB2,0.047036387,Physical Interactions,Gavin-Superti-Furga-2006
+TIF1,UFD4,0.11300703,Physical Interactions,Gavin-Superti-Furga-2006
+FAS1,TRM3,0.19730881,Physical Interactions,Gavin-Superti-Furga-2006
+TCB3,PGK1,0.12793866,Physical Interactions,Gavin-Superti-Furga-2006
+IDH2,TUB2,0.043145746,Physical Interactions,Gavin-Superti-Furga-2006
+CPA2,ILV1,0.11647333,Physical Interactions,Gavin-Superti-Furga-2006
+CPA2,FAS1,0.09518133,Physical Interactions,Gavin-Superti-Furga-2006
+URA7,TIF1,0.06475472,Physical Interactions,Gavin-Superti-Furga-2006
+GCD1,SUI3,0.14943202,Physical Interactions,Gavin-Superti-Furga-2006
+MDN1,TUB2,0.029955583,Physical Interactions,Gavin-Superti-Furga-2006
+ACS2,OLA1,0.06428622,Physical Interactions,Gavin-Superti-Furga-2006
+ACS2,MDN1,0.041226152,Physical Interactions,Gavin-Superti-Furga-2006
+PDC1,TCB3,0.18898831,Physical Interactions,Gavin-Superti-Furga-2006
+RPG1,SUI3,0.089173965,Physical Interactions,Gavin-Superti-Furga-2006
+URA2,UFD4,0.0360269,Physical Interactions,Gavin-Superti-Furga-2006
+URA2,TIF1,0.043628547,Physical Interactions,Gavin-Superti-Furga-2006
+URA2,RNA1,0.15405622,Physical Interactions,Gavin-Superti-Furga-2006
+URA2,IDH2,0.033046912,Physical Interactions,Gavin-Superti-Furga-2006
+URA2,MDN1,0.02294408,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,LCB1,0.1394655,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,LCB2,0.032310706,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,MSN5,0.06203091,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,ILV1,0.03792934,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,NUP192,0.07214556,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,UFD4,0.03442362,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,IDH2,0.031576253,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,URA7,0.019725248,Physical Interactions,Gavin-Superti-Furga-2006
+TUB1,ACS2,0.023879431,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,MSN5,0.046005607,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,TUB2,0.012868607,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,ILV1,0.028130531,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,CPA2,0.02892047,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,URA7,0.014629354,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,MDN1,0.016259342,Physical Interactions,Gavin-Superti-Furga-2006
+PSA1,ACS2,0.017710328,Physical Interactions,Gavin-Superti-Furga-2006
+NEW1,IDH2,0.08780805,Physical Interactions,Gavin-Superti-Furga-2006
+NEW1,PSA1,0.026189541,Physical Interactions,Gavin-Superti-Furga-2006
+GCN1,TUB2,0.02447686,Physical Interactions,Gavin-Superti-Furga-2006
+GCN1,IDH2,0.04454381,Physical Interactions,Gavin-Superti-Furga-2006
+GCN1,OLA1,0.048224997,Physical Interactions,Gavin-Superti-Furga-2006
+GCN1,TUB1,0.017913412,Physical Interactions,Gavin-Superti-Furga-2006
+GCN1,PSA1,0.013285593,Physical Interactions,Gavin-Superti-Furga-2006
+VMA2,VMA6,0.08941677,Physical Interactions,Gavin-Superti-Furga-2006
+VMA2,VMA1,0.060435638,Physical Interactions,Gavin-Superti-Furga-2006
+RPL4A,TCB3,0.063025236,Physical Interactions,Gavin-Superti-Furga-2006
+RPL4A,URA7,0.030868812,Physical Interactions,Gavin-Superti-Furga-2006
+RPL4A,PSA1,0.014738441,Physical Interactions,Gavin-Superti-Furga-2006
+KAP95,URA2,0.023521265,Physical Interactions,Gavin-Superti-Furga-2006
+BMH2,LCB2,0.12514122,Physical Interactions,Gavin-Superti-Furga-2006
+RPB2,URA7,0.02848662,Physical Interactions,Gavin-Superti-Furga-2006
+HSC82,ERG1,0.2181468,Physical Interactions,Gavin-Superti-Furga-2006
+SSE1,CHC1,0.1325181,Physical Interactions,Gavin-Superti-Furga-2006
+SSE1,ACS2,0.05909574,Physical Interactions,Gavin-Superti-Furga-2006
+SSE1,PSA1,0.023307001,Physical Interactions,Gavin-Superti-Furga-2006
+SSC1,TRM3,0.16537449,Physical Interactions,Gavin-Superti-Furga-2006
+RVB1,CDC39,0.06701877,Physical Interactions,Gavin-Superti-Furga-2006
+RVB1,URA2,0.021361379,Physical Interactions,Gavin-Superti-Furga-2006
+RPN11,URA7,0.044251245,Physical Interactions,Gavin-Superti-Furga-2006
+RPN1,URA7,0.025017142,Physical Interactions,Gavin-Superti-Furga-2006
+RPN1,ACS2,0.03028581,Physical Interactions,Gavin-Superti-Furga-2006
+RPN1,PSA1,0.011944537,Physical Interactions,Gavin-Superti-Furga-2006
+RPN1,RPT5,0.049837533,Physical Interactions,Gavin-Superti-Furga-2006
+RPN1,RPN11,0.03613014,Physical Interactions,Gavin-Superti-Furga-2006
+PRS3,PRS1,0.60839367,Physical Interactions,Gavin-Superti-Furga-2006
+PRS3,TUB1,0.0385532,Physical Interactions,Gavin-Superti-Furga-2006
+PRS3,PSA1,0.02859322,Physical Interactions,Gavin-Superti-Furga-2006
+PRS3,HSC82,0.11512664,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,TUB2,0.019949103,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,CDC39,0.047938388,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,ILV1,0.043608364,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,IDH2,0.03630405,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,CPA2,0.044832934,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,URA2,0.015279751,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,TUB1,0.014599768,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,PSA1,0.010828009,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,GCN1,0.02059552,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,HSC82,0.04359748,Physical Interactions,Gavin-Superti-Furga-2006
+RVB2,RVB1,0.023466777,Physical Interactions,Gavin-Superti-Furga-2006
+RPN10,URA7,0.025293572,Physical Interactions,Gavin-Superti-Furga-2006
+RPN10,RPN11,0.036529366,Physical Interactions,Gavin-Superti-Furga-2006
+RPN10,RPN1,0.020651631,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,LCB2,0.07323659,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,TUB2,0.03932879,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,TIF1,0.09448919,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,RNA1,0.33364958,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,URA2,0.030123364,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,TUB1,0.02878281,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,PSA1,0.021346949,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,GCN1,0.040603172,Physical Interactions,Gavin-Superti-Furga-2006
+CRM1,HSC82,0.08595053,Physical Interactions,Gavin-Superti-Furga-2006
+CPA1,CPA2,0.4394764,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,LCB2,0.06415251,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,GEA2,0.13509285,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,NUP192,0.14324412,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,FAS1,0.06154146,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,URA2,0.02638694,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,TUB1,0.025212662,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,GCN1,0.03556686,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,HSC82,0.07528945,Physical Interactions,Gavin-Superti-Furga-2006
+MIR1,CRM1,0.057147913,Physical Interactions,Gavin-Superti-Furga-2006
+ILS1,GET3,0.812403,Physical Interactions,Gavin-Superti-Furga-2006
+ILS1,RVB2,0.07442635,Physical Interactions,Gavin-Superti-Furga-2006
+TEF4,ILV1,0.09092171,Physical Interactions,Gavin-Superti-Furga-2006
+TEF4,OLA1,0.08194787,Physical Interactions,Gavin-Superti-Furga-2006
+TEF4,PSA1,0.02257597,Physical Interactions,Gavin-Superti-Furga-2006
+TEF4,NEW1,0.084648155,Physical Interactions,Gavin-Superti-Furga-2006
+VID27,CCT5,0.186369,Physical Interactions,Gavin-Superti-Furga-2006
+VID27,CCT2,0.20892034,Physical Interactions,Gavin-Superti-Furga-2006
+VID27,TUB2,0.05573064,Physical Interactions,Gavin-Superti-Furga-2006
+VID27,CCT6,0.1308149,Physical Interactions,Gavin-Superti-Furga-2006
+DRS2,VMA6,0.5876044,Physical Interactions,Gavin-Superti-Furga-2006
+SAM2,LCB2,0.1507702,Physical Interactions,Gavin-Superti-Furga-2006
+SAM2,ACS2,0.11142767,Physical Interactions,Gavin-Superti-Furga-2006
+SAM2,KAP95,0.10487198,Physical Interactions,Gavin-Superti-Furga-2006
+CLC1,CHC1,0.43988168,Physical Interactions,Gavin-Superti-Furga-2006
+HSP82,RVB1,0.12892453,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,MSN5,0.08606354,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,CPA2,0.054102056,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,PSA1,0.013066679,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,GCN1,0.024853604,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,RPB2,0.025443742,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,PRS3,0.053489868,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,RVB2,0.020256156,Physical Interactions,Gavin-Superti-Furga-2006
+GFA1,RPN10,0.022591772,Physical Interactions,Gavin-Superti-Furga-2006
+ERG1,YHR020W,0.4833666,Physical Interactions,Babu-Greenblatt-2012 C
+DOP1,MON2,1,Physical Interactions,Babu-Greenblatt-2012 C
+GEA2,YHR020W,0.09891233,Physical Interactions,Babu-Greenblatt-2012 C
+ILV1,YHR020W,0.06986857,Physical Interactions,Babu-Greenblatt-2012 C
+FAS1,TRM3,0.7002856,Physical Interactions,Babu-Greenblatt-2012 C
+CPA2,ILV1,0.16323331,Physical Interactions,Babu-Greenblatt-2012 C
+GCD1,SUI3,0.12881517,Physical Interactions,Babu-Greenblatt-2012 C
+ATP2,OLA1,0.34160948,Physical Interactions,Babu-Greenblatt-2012 C
+VMA1,OLA1,0.25862405,Physical Interactions,Babu-Greenblatt-2012 C
+VMA1,ATP2,0.5431552,Physical Interactions,Babu-Greenblatt-2012 C
+PDC1,FAS1,0.22597617,Physical Interactions,Babu-Greenblatt-2012 C
+RPG1,SUI3,0.068563245,Physical Interactions,Babu-Greenblatt-2012 C
+TUB1,ILV1,0.28505525,Physical Interactions,Babu-Greenblatt-2012 C
+PSA1,ILV1,0.15434274,Physical Interactions,Babu-Greenblatt-2012 C
+ENO2,PGK1,0.2811553,Physical Interactions,Babu-Greenblatt-2012 C
+GCN1,IDH2,0.1311821,Physical Interactions,Babu-Greenblatt-2012 C
+GCN1,OLA1,0.11730339,Physical Interactions,Babu-Greenblatt-2012 C
+RPB2,GGA2,0.0830403,Physical Interactions,Babu-Greenblatt-2012 C
+CCT6,YHR020W,0.07319607,Physical Interactions,Babu-Greenblatt-2012 C
+CCT6,CCT2,0.12406228,Physical Interactions,Babu-Greenblatt-2012 C
+SSE1,CHC1,1,Physical Interactions,Babu-Greenblatt-2012 C
+RPN11,RPT5,0.040635724,Physical Interactions,Babu-Greenblatt-2012 C
+RPN1,RPT5,0.045939796,Physical Interactions,Babu-Greenblatt-2012 C
+RPN1,RPN11,0.038423147,Physical Interactions,Babu-Greenblatt-2012 C
+PRS3,PRS1,1,Physical Interactions,Babu-Greenblatt-2012 C
+RVB2,IDH2,0.06427317,Physical Interactions,Babu-Greenblatt-2012 C
+RVB2,RVB1,0.021543775,Physical Interactions,Babu-Greenblatt-2012 C
+RPN10,RPT5,0.03929272,Physical Interactions,Babu-Greenblatt-2012 C
+RPN10,RPN11,0.03286366,Physical Interactions,Babu-Greenblatt-2012 C
+RPN10,RPN1,0.03715327,Physical Interactions,Babu-Greenblatt-2012 C
+CRM1,YHR020W,0.07483332,Physical Interactions,Babu-Greenblatt-2012 C
+CRM1,GEA2,0.10507236,Physical Interactions,Babu-Greenblatt-2012 C
+CRM1,TUB2,0.4883455,Physical Interactions,Babu-Greenblatt-2012 C
+CRM1,RNA1,0.4883455,Physical Interactions,Babu-Greenblatt-2012 C
+CPA1,CPA2,0.8160856,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,YHR020W,0.09304702,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,GEA2,0.13064595,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,FAS1,0.1735938,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,FKS1,0.12449829,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,GCN1,0.10196406,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,HSC82,0.109884195,Physical Interactions,Babu-Greenblatt-2012 C
+MIR1,CRM1,0.09884178,Physical Interactions,Babu-Greenblatt-2012 C
+TEF4,OLA1,0.14519317,Physical Interactions,Babu-Greenblatt-2012 C
+VID27,CCT2,0.25740656,Physical Interactions,Babu-Greenblatt-2012 C
+VID27,CCT6,0.1577969,Physical Interactions,Babu-Greenblatt-2012 C
+NCE102,VAC8,0.76536685,Physical Interactions,Babu-Greenblatt-2012 C
+DRS2,VMA6,0.76536685,Physical Interactions,Babu-Greenblatt-2012 C
+SAM2,YHR020W,0.15612273,Physical Interactions,Babu-Greenblatt-2012 C
+SAM2,ACS2,0.3345833,Physical Interactions,Babu-Greenblatt-2012 C
+HSP82,HSC82,0.25592673,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,YHR020W,0.053545374,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,MSN5,0.40964317,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,ILV1,0.053106397,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,IDH2,0.09099027,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,OLA1,0.08136374,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,GCN1,0.058676828,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,RPB2,0.030359318,Physical Interactions,Babu-Greenblatt-2012 C
+GFA1,CCT6,0.0556356,Physical Interactions,Babu-Greenblatt-2012 C
+PDC1,NUP192,0.2549227,Physical Interactions,Alber-Sali-2007
+ENO2,NUP192,0.10647106,Physical Interactions,Alber-Sali-2007
+RPB2,NPA3,0.22044756,Physical Interactions,Hierlmeier-Tschochner-2013
+ILS1,RPB2,0.22044756,Physical Interactions,Hierlmeier-Tschochner-2013
+HSP82,RPB2,0.22044756,Physical Interactions,Hierlmeier-Tschochner-2013
+SSC1,RPG1,0.35355338,Physical Interactions,IREF-INTACT
+LCB2,LCB1,0.36528698,Physical Interactions,Gavin-Superti-Furga-2002
+LCB2,YHR020W,0.1529996,Physical Interactions,Gavin-Superti-Furga-2002
+TAT1,YHR020W,0.2146395,Physical Interactions,Gavin-Superti-Furga-2002
+PGK1,SPF1,0.3664719,Physical Interactions,Gavin-Superti-Furga-2002
+GEA2,LCB2,0.19119257,Physical Interactions,Gavin-Superti-Furga-2002
+URA7,TIF1,0.08153444,Physical Interactions,Gavin-Superti-Furga-2002
+URA7,CPA2,0.23746637,Physical Interactions,Gavin-Superti-Furga-2002
+CHC1,GGA2,0.25046295,Physical Interactions,Gavin-Superti-Furga-2002
+GCD1,SUI3,0.12373696,Physical Interactions,Gavin-Superti-Furga-2002
+VMA1,MCM6,0.1721407,Physical Interactions,Gavin-Superti-Furga-2002
+PDC1,TAT1,0.08180606,Physical Interactions,Gavin-Superti-Furga-2002
+PDC1,GCD1,0.093047425,Physical Interactions,Gavin-Superti-Furga-2002
+RPG1,SUI3,0.09500731,Physical Interactions,Gavin-Superti-Furga-2002
+FKS1,LCB2,0.051197525,Physical Interactions,Gavin-Superti-Furga-2002
+ENO2,SPF1,0.28038415,Physical Interactions,Gavin-Superti-Furga-2002
+GCN1,GGA2,0.17852767,Physical Interactions,Gavin-Superti-Furga-2002
+VMA2,VMA6,0.3330611,Physical Interactions,Gavin-Superti-Furga-2002
+VMA2,VMA1,0.10381155,Physical Interactions,Gavin-Superti-Furga-2002
+BMH2,LCB2,0.049804322,Physical Interactions,Gavin-Superti-Furga-2002
+RPB2,URA7,0.06648194,Physical Interactions,Gavin-Superti-Furga-2002
+SSE1,CHC1,0.15833941,Physical Interactions,Gavin-Superti-Furga-2002
+RPT5,URA7,0.074524954,Physical Interactions,Gavin-Superti-Furga-2002
+RPN11,URA7,0.056750573,Physical Interactions,Gavin-Superti-Furga-2002
+RVB2,YBR287W,0.40358335,Physical Interactions,Gavin-Superti-Furga-2002
+RVB2,CDC39,0.054841664,Physical Interactions,Gavin-Superti-Furga-2002
+RPN10,URA7,0.025159964,Physical Interactions,Gavin-Superti-Furga-2002
+RPN10,RPN11,0.03686302,Physical Interactions,Gavin-Superti-Furga-2002
+CRM1,LCB2,0.2029386,Physical Interactions,Gavin-Superti-Furga-2002
+CRM1,TAT1,0.28469774,Physical Interactions,Gavin-Superti-Furga-2002
+MIR1,LCB2,0.12232436,Physical Interactions,Gavin-Superti-Furga-2002
+MIR1,TAT1,0.17160594,Physical Interactions,Gavin-Superti-Furga-2002
+ILS1,GET3,0.7962252,Physical Interactions,Gavin-Superti-Furga-2002
+TEF4,ILV1,0.14925435,Physical Interactions,Gavin-Superti-Furga-2002
+TEF4,OLA1,0.13882823,Physical Interactions,Gavin-Superti-Furga-2002
+TEF4,NEW1,0.37541282,Physical Interactions,Gavin-Superti-Furga-2002
+SAM2,LCB2,0.36528698,Physical Interactions,Gavin-Superti-Furga-2002
+CLC1,CHC1,0.52572966,Physical Interactions,Gavin-Superti-Furga-2002
+GFA1,LCB2,0.046740834,Physical Interactions,Gavin-Superti-Furga-2002
+GFA1,RPN10,0.03219218,Physical Interactions,Gavin-Superti-Furga-2002
+GFA1,TEF4,0.049786124,Physical Interactions,Gavin-Superti-Furga-2002
+SUI3,GNP1,0.48677677,Physical Interactions,Babu-Greenblatt-2012 A
+ENO2,TPO3,0.09733529,Physical Interactions,Babu-Greenblatt-2012 A
+VMA2,GNP1,0.04960392,Physical Interactions,Babu-Greenblatt-2012 A
+VMA2,VMA1,0.07220278,Physical Interactions,Babu-Greenblatt-2012 A
+RPL4A,GGA2,0.126519,Physical Interactions,Babu-Greenblatt-2012 A
+HSC82,NDI1,0.17678478,Physical Interactions,Babu-Greenblatt-2012 A
+SSZ1,GNP1,0.28058925,Physical Interactions,Babu-Greenblatt-2012 A
+SSE1,TPO3,0.12449706,Physical Interactions,Babu-Greenblatt-2012 A
+SSE1,GYP5,0.08747549,Physical Interactions,Babu-Greenblatt-2012 A
+RPN11,RPT5,0.121216305,Physical Interactions,Babu-Greenblatt-2012 A
+RPN1,RPT5,0.08964892,Physical Interactions,Babu-Greenblatt-2012 A
+RPN1,RPN11,0.03925629,Physical Interactions,Babu-Greenblatt-2012 A
+CLC1,CHC1,0.90681416,Physical Interactions,Babu-Greenblatt-2012 A
+HSP82,NDI1,0.36811998,Physical Interactions,Babu-Greenblatt-2012 A
+SSC1,RPG1,0.35355338,Physical Interactions,IREF-SMALL-SCALE-STUDIES
+RPB2,NPA3,0.08104425,Physical Interactions,Mosley-Washburn-2013
+FTR1,TPO3,0.042551436,Physical Interactions,Tarassov-Michnick-2008
+OLE1,ERG5,0.13377926,Physical Interactions,Tarassov-Michnick-2008
+TCB3,TPO3,0.027793493,Physical Interactions,Tarassov-Michnick-2008
+TCB3,FTR1,0.026594464,Physical Interactions,Tarassov-Michnick-2008
+PRS1,PRS5,0.3492971,Physical Interactions,Tarassov-Michnick-2008
+PDR12,FTR1,0.021440636,Physical Interactions,Tarassov-Michnick-2008
+PDR12,TCB3,0.014004467,Physical Interactions,Tarassov-Michnick-2008
+RPB2,NPA3,0.5021428,Physical Interactions,Tarassov-Michnick-2008
+RPN1,RPT5,0.24707562,Physical Interactions,Tarassov-Michnick-2008
+PRS3,PRS5,0.7962252,Physical Interactions,Tarassov-Michnick-2008
+ERG9,ERG3,0.12230506,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+LCB2,LCB1,0.2307989,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+ERG1,ERG5,0.15741077,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+DOP1,MON2,0.28623468,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT2,TCP1,0.2441272,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GGA2,MON2,0.09465609,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+SEC18,SEC17,0.03925996,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+MSN5,NUP188,0.05277232,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NUP133,NUP188,0.10756367,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NUP133,MSN5,0.047407165,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+YPK1,GPD1,0.10823189,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NPA3,NUP133,0.051538974,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GET3,GPA1,0.030063033,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+SAC6,PGK1,0.04600338,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CHC1,GGA2,0.034888342,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GCD1,SUI3,0.082846366,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+ATP2,ATP3,0.07407665,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+VMA1,VMA6,0.08291305,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPG1,SUI3,0.030789612,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+TUB1,TUB2,0.01679271,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+TUB1,RPG1,0.015484375,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+VMA2,VMA1,0.049281526,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+KAP95,RPL4A,0.017807325,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+BMH2,GDE1,0.069549814,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+BMH2,TIF1,0.022258341,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+BMH2,FAS1,0.038336415,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+BMH2,RPL4A,0.014008442,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPB2,NPA3,0.021155788,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+HSC82,URA2,0.057464547,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+SSE1,NPA3,0.047036003,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+SSC1,NPA3,0.025131678,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPT5,GYP5,0.05715043,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RVB1,HSC82,0.017086275,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN11,SEC61,0.013031962,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN11,SEC18,0.017501246,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN11,RPT5,0.011393942,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN1,SEC18,0.02186089,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN1,UFD4,0.04748083,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN1,RPT5,0.014232228,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN1,RPN11,0.011968181,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PRS3,PRS1,0.28097218,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RVB2,HSC82,0.016157985,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RVB2,RVB1,0.021664146,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT3,TCP1,0.1440815,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT3,CCT5,0.19575527,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT3,CCT2,0.14465523,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT3,TUB2,0.04200643,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CCT3,CCT6,0.28666452,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,PGK1,0.015262306,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,SEC18,0.012043282,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,PDC1,0.040159628,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,PSA1,0.042452537,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,RPT5,0.007840611,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,TOM1,0.026806196,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,RPN11,0.006593335,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RPN10,RPN1,0.008235767,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CRM1,YRB1,0.092148,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CRM1,GGA2,0.018344402,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CRM1,NPA3,0.01344637,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CRM1,RNA1,0.042228166,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+TEF4,BMH2,0.044360623,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+DRS2,GEA2,0.04550462,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+DRS2,TCB3,0.0857811,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CLC1,GGA2,0.014318811,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CLC1,CHC1,0.009763873,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+HSP82,NPA3,0.006566708,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+HSP82,SSE1,0.011235954,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+LCB2,LCB1,0.8312539,Physical Interactions,Babu-Greenblatt-2012 B
+VMA6,YHR020W,0.2973824,Physical Interactions,Babu-Greenblatt-2012 B
+VMA2,VMA1,0.10994941,Physical Interactions,Babu-Greenblatt-2012 B
+KAP95,FKS1,0.075192735,Physical Interactions,Babu-Greenblatt-2012 B
+RPB2,MDN1,1,Physical Interactions,Babu-Greenblatt-2012 B
+RPN11,SEC18,0.11044436,Physical Interactions,Babu-Greenblatt-2012 B
+RPN11,CDC39,0.22698905,Physical Interactions,Babu-Greenblatt-2012 B
+RPN1,SEC18,0.14616062,Physical Interactions,Babu-Greenblatt-2012 B
+RPN10,SEC18,0.20528886,Physical Interactions,Babu-Greenblatt-2012 B
+CLC1,CHC1,0.70710677,Physical Interactions,Babu-Greenblatt-2012 B
+PRS1,PRS5,0.70710677,Physical Interactions,Schlecht-St Onge-2012
+RPN1,RPT5,0.76536685,Physical Interactions,Schlecht-St Onge-2012

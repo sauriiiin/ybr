@@ -1,0 +1,25 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+plot(cars)
+```
+
+```{bash}
+#!/bin/bash
+filename='~/home/sbp29/R/Projects/ybr/input/longread/samples2align.txt'
+echo Start
+while read p; do
+    minimap2 -ax splice -k14 -uf /home/aar75/GCF_000146045.2_R64_genomic.fna "/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/${p}.fastq.gz"  > "/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/${p}.sam";
+    samtools view "${p}.sam" -bh -t /home/aar75/GCF_000146045.2_R64_genomic.fna -F 2308  > "${p}.bam";
+    samtools sort -@ 25 "${p}.bam" -o "${p}.bam";
+    samtools index "${p}.bam";
+    bedtools bamtobed -i "${p}.bam" > "${p}.bed";
+
+done < $filename
+```
+

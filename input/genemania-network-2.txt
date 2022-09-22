@@ -1,0 +1,71 @@
+Entity 1	Entity 2	Weight	Network group	Network
+YBR287W	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+PHO91	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+PHO91	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SER1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+TPO3	FTR1	0.01923077	Co-localization	Huh-O'Shea-2003
+LCB1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+SEY1	MNN5	0.011094388	Co-localization	Huh-O'Shea-2003
+NDI1	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+MON2	MNN5	0.007094019	Co-localization	Huh-O'Shea-2003
+MON2	SEY1	0.007094019	Co-localization	Huh-O'Shea-2003
+LCB2	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+MSN5	NUP188	0.01651371	Co-localization	Huh-O'Shea-2003
+OLE1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+TRM3	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+UFD4	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+PRS1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+GPA1	FTR1	0.01923077	Co-localization	Huh-O'Shea-2003
+GPA1	TPO3	0.01923077	Co-localization	Huh-O'Shea-2003
+PHO81	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+GYP5	HIP1	0.0074473443	Co-localization	Huh-O'Shea-2003
+TAT1	HIP1	0.013498978	Co-localization	Huh-O'Shea-2003
+TAT1	GYP5	0.012133392	Co-localization	Huh-O'Shea-2003
+LCB2	LCB1	1	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	MSN5	0.025461365	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+LCB2	LCB1	0.36528698	Physical Interactions	Gavin-Superti-Furga-2002
+LCB2	LCB1	0.8312539	Physical Interactions	Babu-Greenblatt-2012 B
+TPO3	FTR1	0.042551436	Physical Interactions	Tarassov-Michnick-2008
+OLE1	ERG5	0.13377926	Physical Interactions	Tarassov-Michnick-2008
+LCB2	LCB1	0.2307989	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+MSN5	NUP188	0.05277232	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+GGA2	MON2	0.09465609	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+LCB2	LCB1	0.3548638	Physical Interactions	Gavin-Superti-Furga-2006
+TOM1	ARO2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	SPF1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+LCB2	LCB1	0.39041686	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+MSN5	NUP188	0.071486756	Physical Interactions	Lee-Marcotte-2007 Protein interactions

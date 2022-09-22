@@ -1,0 +1,220 @@
+﻿Visible?,Starred?,Identified Proteins (219/221),Accession Number,Alternate ID,Molecular Weight,Protein Grouping Ambiguity,Taxonomy,AFO01,AFO02,AFO03,AFO04,AFO05,AFO06,AFO07,AFO08,AFO09,AFO10,AFO11,AFO12,AFO13
+TRUE,Empty,PMA1_YEAST Plasma membrane ATPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PMA1 PE=1 SV=2,P05030,,100 kDa,TRUE,unknown,12,17,14,20,9,3,3,17,15,14,4,1,34
+TRUE,Empty,PMA2_YEAST Plasma membrane ATPase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PMA2 PE=1 SV=3,P19657,,102 kDa,TRUE,unknown,0,0,0,0,0,0,0,0,1,0,0,0,2
+TRUE,Empty,KPYK1_YEAST Pyruvate kinase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CDC19 PE=1 SV=2,P00549,,55 kDa,TRUE,unknown,0,0,0,9,25,2,0,0,0,15,0,0,1
+TRUE,Empty,HSP72_YEAST Heat shock protein SSA2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSA2 PE=1 SV=3,P10592,,69 kDa,TRUE,unknown,0,0,0,6,0,0,0,0,0,5,0,0,0
+TRUE,Empty,HSP71_YEAST Heat shock protein SSA1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSA1 PE=1 SV=4,P10591,,70 kDa,TRUE,unknown,0,0,0,27,0,0,0,0,0,17,0,0,0
+TRUE,Empty,GCN1_YEAST Translational activator GCN1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GCN1 PE=1 SV=1,P33892,,297 kDa,,unknown,31,8,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,PYR1_YEAST Protein URA2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=URA2 PE=1 SV=5,P07259,,245 kDa,TRUE,unknown,0,16,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,NSR1_YEAST Nuclear localization sequence-binding protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NSR1 PE=1 SV=1,P27476,,45 kDa,,unknown,0,0,0,0,12,2,0,0,0,2,4,1,0
+TRUE,Empty,MDN1_YEAST Midasin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MDN1 PE=1 SV=1,Q12019,,559 kDa,,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,IMB4_YEAST Importin subunit beta-4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAP123 PE=1 SV=1,P40069,,123 kDa,,unknown,0,0,14,0,0,0,0,0,0,0,0,0,10
+TRUE,Empty,ADH1_YEAST Alcohol dehydrogenase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ADH1 PE=1 SV=5,P00330,,37 kDa,TRUE,unknown,0,0,0,0,0,8,0,0,0,0,5,2,0
+TRUE,Empty,EF2_YEAST Elongation factor 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=EFT1 PE=1 SV=1,P32324,,93 kDa,,unknown,0,0,0,10,0,0,0,0,0,0,0,0,13
+TRUE,Empty,"ADT2_YEAST ADP,ATP carrier protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PET9 PE=1 SV=2",P18239,,34 kDa,TRUE,unknown,0,0,0,0,0,13,0,0,0,0,0,7,0
+TRUE,Empty,HSP76_YEAST Heat shock protein SSB2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSB2 PE=1 SV=2,P40150,,67 kDa,TRUE,unknown,0,0,0,13,0,0,0,0,0,9,0,0,0
+TRUE,Empty,PDR5_YEAST Pleiotropic ABC efflux transporter of multiple drugs OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PDR5 PE=1 SV=1,P33302,,170 kDa,TRUE,unknown,0,5,6,0,0,0,0,0,7,0,0,0,0
+TRUE,Empty,BBC1_YEAST Myosin tail region-interacting protein MTI1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BBC1 PE=1 SV=2,P47068,,128 kDa,,unknown,0,7,0,0,0,0,0,5,2,0,0,0,0
+TRUE,Empty,TOM1_YEAST E3 ubiquitin-protein ligase TOM1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TOM1 PE=1 SV=1,Q03280,,374 kDa,,unknown,13,0,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,EF3A_YEAST Elongation factor 3A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YEF3 PE=1 SV=4,P16521,,116 kDa,TRUE,unknown,0,0,6,0,0,0,0,0,3,0,0,0,6
+TRUE,Empty,SEC7_YEAST Protein transport protein SEC7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC7 PE=1 SV=2,P11075,,227 kDa,,unknown,0,7,0,0,0,0,0,2,0,0,0,0,0
+TRUE,Empty,EF1A_YEAST Elongation factor 1-alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TEF1 PE=1 SV=1,P02994,,50 kDa,,unknown,0,0,0,0,10,0,0,0,0,0,4,0,0
+TRUE,Empty,RTN1_YEAST Reticulon-like protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RTN1 PE=1 SV=1,Q04947,,33 kDa,,unknown,0,0,0,0,2,7,0,0,0,0,6,3,0
+TRUE,Empty,PURA_YEAST Adenylosuccinate synthetase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ADE12 PE=1 SV=3,P80210,,48 kDa,,unknown,0,0,0,0,11,1,0,0,0,0,5,0,0
+TRUE,Empty,VATB_YEAST V-type proton ATPase subunit B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VMA2 PE=1 SV=2,P16140,,58 kDa,,unknown,0,0,0,0,14,0,0,0,0,0,0,0,0
+TRUE,Empty,CLH_YEAST Clathrin heavy chain OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CHC1 PE=1 SV=1,P22137,,187 kDa,,unknown,0,12,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,"6PGD1_YEAST 6-phosphogluconate dehydrogenase, decarboxylating 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GND1 PE=1 SV=1",P38720,,54 kDa,TRUE,unknown,0,0,0,0,10,0,0,0,0,0,3,0,0
+TRUE,Empty,VATA_YEAST V-type proton ATPase catalytic subunit A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VMA1 PE=1 SV=3,P17255,,119 kDa,,unknown,0,0,0,7,0,0,0,0,0,0,0,0,0
+TRUE,Empty,ALR1_YEAST Magnesium transporter ALR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ALR1 PE=1 SV=1,Q08269,,96 kDa,TRUE,unknown,0,0,0,0,0,0,0,0,0,1,0,0,4
+TRUE,Empty,PFKA1_YEAST ATP-dependent 6-phosphofructokinase subunit alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PFK1 PE=1 SV=1,P16861,,108 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,G3P3_YEAST Glyceraldehyde-3-phosphate dehydrogenase 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TDH3 PE=1 SV=3,P00359,,36 kDa,TRUE,unknown,0,0,0,0,0,9,0,0,0,0,0,2,0
+TRUE,Empty,RIR1_YEAST Ribonucleoside-diphosphate reductase large chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RNR1 PE=1 SV=2,P21524,,100 kDa,TRUE,unknown,0,0,0,0,0,0,0,0,0,0,0,0,9
+TRUE,Empty,"SYIC_YEAST Isoleucine--tRNA ligase, cytoplasmic OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ILS1 PE=1 SV=1",P09436,,123 kDa,,unknown,0,0,7,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,RS3_YEAST 40S ribosomal protein S3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPS3 PE=1 SV=5,P05750,,27 kDa,,unknown,0,0,0,0,0,7,0,0,0,0,0,6,0
+TRUE,Empty,HMDH1_YEAST 3-hydroxy-3-methylglutaryl-coenzyme A reductase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HMG1 PE=1 SV=1,P12683,,116 kDa,TRUE,unknown,0,0,0,0,0,0,0,0,0,0,0,1,4
+TRUE,Empty,HSC82_YEAST ATP-dependent molecular chaperone HSC82 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HSC82 PE=1 SV=4,P15108,,81 kDa,,unknown,0,0,0,6,0,0,0,0,0,0,0,0,0
+TRUE,Empty,MAS5_YEAST Mitochondrial protein import protein MAS5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YDJ1 PE=1 SV=1,P25491,,45 kDa,,unknown,0,0,0,0,9,0,0,0,0,0,1,0,0
+TRUE,Empty,"SYNC_YEAST Asparagine--tRNA ligase, cytoplasmic OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=DED81 PE=1 SV=1",P38707,,62 kDa,,unknown,0,0,0,7,2,0,0,0,0,2,0,0,0
+TRUE,Empty,UGPA1_YEAST UTP--glucose-1-phosphate uridylyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=UGP1 PE=1 SV=1,P32861,,56 kDa,,unknown,0,0,0,0,8,0,0,0,0,4,0,0,0
+TRUE,Empty,GRP78_YEAST 78 kDa glucose-regulated protein homolog OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAR2 PE=1 SV=1,P16474,,74 kDa,TRUE,unknown,0,0,0,4,0,0,0,0,0,1,0,0,0
+TRUE,Empty,EMW1_YEAST Essential for maintenance of the cell wall protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=EMW1 PE=1 SV=1,P42842,,102 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,10
+TRUE,Empty,CDC48_YEAST Cell division control protein 48 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CDC48 PE=1 SV=3,P25694,,92 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,11
+TRUE,Empty,ARO1_YEAST Pentafunctional AROM polypeptide OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ARO1 PE=1 SV=1,P08566,,175 kDa,,unknown,0,2,0,0,0,0,0,0,0,0,1,0,0
+TRUE,Empty,"HSP60_YEAST Heat shock protein 60, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HSP60 PE=1 SV=1",P19882,,61 kDa,,unknown,0,0,0,5,2,0,0,0,0,1,0,0,0
+TRUE,Empty,ATN5_YEAST Sodium transport ATPase 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ENA5 PE=1 SV=1,Q12691,,120 kDa,,unknown,0,0,3,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,EI2BE_YEAST Translation initiation factor eIF-2B subunit epsilon OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GCD6 PE=1 SV=1,P32501,,81 kDa,,unknown,0,0,0,3,0,0,0,0,0,0,0,0,1
+TRUE,Empty,MSN5_YEAST Protein MSN5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MSN5 PE=1 SV=1,P52918,,142 kDa,,unknown,0,0,4,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SNF1_YEAST Carbon catabolite-derepressing protein kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SNF1 PE=1 SV=1,P06782,,72 kDa,,unknown,0,0,0,1,0,0,0,0,0,2,0,0,0
+TRUE,Empty,EIF3C_YEAST Eukaryotic translation initiation factor 3 subunit C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NIP1 PE=1 SV=2,P32497,,93 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,8
+TRUE,Empty,NU133_YEAST Nucleoporin NUP133 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NUP133 PE=1 SV=1,P36161,,133 kDa,,unknown,0,0,6,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GUAA_YEAST GMP synthase [glutamine-hydrolyzing] OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GUA1 PE=1 SV=4,P38625,,58 kDa,,unknown,0,0,0,0,10,0,0,0,0,3,0,0,0
+TRUE,Empty,EIF3A_YEAST Eukaryotic translation initiation factor 3 subunit A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPG1 PE=1 SV=1,P38249,,110 kDa,,unknown,0,0,2,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,ATC6_YEAST Manganese-transporting ATPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SPF1 PE=1 SV=1,P39986,,135 kDa,,unknown,0,1,6,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,COPB_YEAST Coatomer subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC26 PE=1 SV=2,P41810,,109 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,8
+TRUE,Empty,IST2_YEAST Increased sodium tolerance protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=IST2 PE=1 SV=2,P38250,,106 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,6
+TRUE,Empty,MCM4_YEAST DNA replication licensing factor MCM4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MCM4 PE=1 SV=2,P30665,,105 kDa,TRUE,unknown,1,0,0,0,0,0,0,0,0,0,0,0,3
+TRUE,Empty,"FKS1_YEAST 1,3-beta-glucan synthase component FKS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FKS1 PE=1 SV=2",P38631,,215 kDa,TRUE,unknown,0,4,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GDE1_YEAST Glycerophosphodiester phosphodiesterase GDE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GDE1 PE=1 SV=1,Q02979,,138 kDa,,unknown,0,0,4,1,0,0,0,0,0,0,0,0,0
+TRUE,Empty,"NDH1_YEAST External NADH-ubiquinone oxidoreductase 1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NDE1 PE=1 SV=1",P40215,,63 kDa,TRUE,unknown,0,0,0,0,2,0,0,0,0,3,0,0,0
+TRUE,Empty,"SYLC_YEAST Leucine--tRNA ligase, cytoplasmic OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CDC60 PE=1 SV=1",P26637,,124 kDa,,unknown,0,0,2,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GEA2_YEAST ARF guanine-nucleotide exchange factor 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GEA2 PE=1 SV=1,P39993,,166 kDa,TRUE,unknown,0,5,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,ENO2_YEAST Enolase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ENO2 PE=1 SV=2,P00925,,47 kDa,TRUE,unknown,0,0,0,0,9,0,0,0,0,0,0,0,0
+TRUE,Empty,REG1_YEAST Resistance to glucose repression protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=REG1 PE=1 SV=1,Q00816,,113 kDa,,unknown,0,4,0,1,0,0,0,0,4,0,0,0,0
+TRUE,Empty,TCPQ_YEAST T-complex protein 1 subunit theta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT8 PE=1 SV=1,P47079,,62 kDa,,unknown,0,0,0,6,2,0,0,0,0,1,0,0,0
+TRUE,Empty,AP3B_YEAST AP-3 complex subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=APL6 PE=1 SV=2,P46682,,92 kDa,,unknown,0,0,0,6,0,0,0,0,0,0,0,0,1
+TRUE,Empty,PHO81_YEAST Phosphate system positive regulatory protein PHO81 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PHO81 PE=1 SV=2,P17442,,134 kDa,,unknown,0,0,6,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,MON2_YEAST Protein MON2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MON2 PE=1 SV=1,P48563,,187 kDa,,unknown,0,4,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GFA1_YEAST Glutamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GFA1 PE=1 SV=4,P14742,,80 kDa,,unknown,0,0,0,5,0,0,0,0,0,1,0,0,0
+TRUE,Empty,P5CR_YEAST Pyrroline-5-carboxylate reductase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRO3 PE=1 SV=1,P32263,,30 kDa,,unknown,0,0,0,0,0,8,0,0,0,0,0,0,0
+TRUE,Empty,MPCP_YEAST Mitochondrial phosphate carrier protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MIR1 PE=1 SV=1,P23641,,33 kDa,,unknown,0,0,0,0,0,9,0,0,0,0,0,1,0
+TRUE,Empty,PHO84_YEAST Inorganic phosphate transporter PHO84 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PHO84 PE=1 SV=2,P25297,,64 kDa,,unknown,0,0,0,0,10,0,0,0,0,1,2,0,0
+TRUE,Empty,HMCS_YEAST Hydroxymethylglutaryl-CoA synthase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERG13 PE=1 SV=1,P54839,,55 kDa,,unknown,0,0,0,0,8,0,0,0,0,0,1,0,0
+TRUE,Empty,ACT_YEAST Actin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ACT1 PE=1 SV=1,P60010,,42 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,1,0,0
+TRUE,Empty,TCPE_YEAST T-complex protein 1 subunit epsilon OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT5 PE=1 SV=3,P40413,,62 kDa,,unknown,0,0,0,3,4,0,0,0,0,0,0,0,0
+TRUE,Empty,CHO2_YEAST Phosphatidylethanolamine N-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CHO2 PE=1 SV=1,P05374,,101 kDa,,unknown,0,0,0,5,0,0,0,0,0,1,0,0,0
+TRUE,Empty,NMD5_YEAST Nonsense-mediated mRNA decay protein 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NMD5 PE=1 SV=2,P46970,,120 kDa,,unknown,0,0,3,0,0,0,0,0,0,0,0,0,6
+TRUE,Empty,"ATPB_YEAST ATP synthase subunit beta, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATP2 PE=1 SV=2",P00830,,55 kDa,,unknown,2,0,0,0,5,0,0,0,0,0,0,0,0
+TRUE,Empty,TCPH_YEAST T-complex protein 1 subunit eta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT7 PE=1 SV=1,P42943,,60 kDa,,unknown,0,0,0,0,10,0,0,0,0,1,0,0,0
+TRUE,Empty,TBB_YEAST Tubulin beta chain OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TUB2 PE=1 SV=2,P02557,,51 kDa,,unknown,0,0,0,0,10,0,0,0,0,0,0,0,0
+TRUE,Empty,NOT1_YEAST General negative regulator of transcription subunit 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CDC39 PE=1 SV=3,P25655,,240 kDa,,unknown,0,3,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,PDR12_YEAST ATP-dependent permease PDR12 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PDR12 PE=1 SV=1,Q02785,,171 kDa,,unknown,0,0,3,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,COPG_YEAST Coatomer subunit gamma OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC21 PE=1 SV=2,P32074,,105 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,GSF2_YEAST Glucose-signaling factor 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GSF2 PE=1 SV=1,Q04697,,46 kDa,,unknown,0,0,0,0,4,0,0,0,0,0,1,0,0
+TRUE,Empty,COX15_YEAST Cytochrome c oxidase assembly protein COX15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=COX15 PE=3 SV=1,P40086,,55 kDa,,unknown,0,1,0,0,0,3,0,1,1,0,0,2,0
+TRUE,Empty,SEC2_YEAST Rab guanine nucleotide exchange factor SEC2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC2 PE=1 SV=1,P17065,,85 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,RPB2_YEAST DNA-directed RNA polymerase II subunit RPB2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPB2 PE=1 SV=2,P08518,,139 kDa,TRUE,unknown,0,0,2,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,FAS1_YEAST Fatty acid synthase subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FAS1 PE=1 SV=2,P07149,,229 kDa,,unknown,0,3,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SEC18_YEAST Vesicular-fusion protein SEC18 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC18 PE=1 SV=2,P18759,,84 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,YO098_YEAST Uncharacterized protein YOL098C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YOL098C PE=1 SV=1,Q12496,,118 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,CARB_YEAST Carbamoyl-phosphate synthase arginine-specific large chain OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CPA2 PE=1 SV=1,P03965,,124 kDa,TRUE,unknown,0,0,2,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,IMB3_YEAST Importin subunit beta-3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PSE1 PE=1 SV=2,P32337,,121 kDa,,unknown,0,0,1,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,URA7_YEAST CTP synthase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=URA7 PE=1 SV=2,P28274,,65 kDa,TRUE,unknown,0,0,0,4,0,0,0,0,0,0,0,0,0
+TRUE,Empty,HXT3_YEAST Low-affinity glucose transporter HXT3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT3 PE=1 SV=1,P32466,,63 kDa,TRUE,unknown,0,0,0,1,5,0,0,0,0,0,1,0,1
+TRUE,Empty,YHI0_YEAST Putative proline--tRNA ligase YHR020W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YHR020W PE=1 SV=1,P38708,,77 kDa,,unknown,0,0,0,4,0,0,0,0,0,0,0,0,0
+TRUE,Empty,METK1_YEAST S-adenosylmethionine synthase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SAM1 PE=1 SV=2,P10659,,42 kDa,TRUE,unknown,0,0,0,0,6,0,0,0,0,0,2,0,0
+TRUE,Empty,MCM5_YEAST Minichromosome maintenance protein 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MCM5 PE=1 SV=1,P29496,,86 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,2,0,1
+TRUE,Empty,TCPG_YEAST T-complex protein 1 subunit gamma OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT3 PE=1 SV=2,P39077,,59 kDa,,unknown,0,0,0,0,5,0,0,0,0,1,0,0,0
+TRUE,Empty,TRM3_YEAST tRNA (guanosine(18)-2'-O)-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TRM3 PE=1 SV=1,Q07527,,165 kDa,,unknown,0,0,6,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,UFD4_YEAST Ubiquitin fusion degradation protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=UFD4 PE=1 SV=1,P33202,,168 kDa,,unknown,0,5,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,"PUR2_YEAST Bifunctional purine biosynthetic protein ADE5,7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ADE5,7 PE=1 SV=1",P07244,,86 kDa,,unknown,0,0,0,6,0,0,0,0,0,0,0,0,0
+TRUE,Empty,DHH1_YEAST ATP-dependent RNA helicase DHH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=DHH1 PE=1 SV=1,P39517,,58 kDa,,unknown,0,0,0,6,2,0,0,0,0,1,0,0,0
+TRUE,Empty,EMP47_YEAST Protein EMP47 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=EMP47 PE=1 SV=1,P43555,,50 kDa,,unknown,0,0,0,0,4,0,0,0,0,0,3,0,0
+TRUE,Empty,XPO1_YEAST Exportin-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CRM1 PE=1 SV=1,P30822,,124 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,6
+TRUE,Empty,COPB2_YEAST Coatomer subunit beta' OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC27 PE=1 SV=1,P41811,,99 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,7
+TRUE,Empty,TBA1_YEAST Tubulin alpha-1 chain OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TUB1 PE=1 SV=2,P09733,,50 kDa,TRUE,unknown,0,0,0,0,6,0,0,0,0,0,0,0,0
+TRUE,Empty,TCB3_YEAST Tricalbin-3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TCB3 PE=1 SV=1,Q03640,,171 kDa,,unknown,0,2,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,RPN1_YEAST 26S proteasome regulatory subunit RPN1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPN1 PE=1 SV=3,P38764,,109 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,3
+TRUE,Empty,"ILVB_YEAST Acetolactate synthase catalytic subunit, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ILV2 PE=1 SV=1",P07342,,75 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GYP5_YEAST GTPase-activating protein GYP5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GYP5 PE=1 SV=1,Q12344,,102 kDa,,unknown,0,0,2,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GPN1_YEAST GPN-loop GTPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NPA3 PE=1 SV=1,P47122,,43 kDa,,unknown,0,0,0,0,5,0,0,0,0,0,0,0,0
+TRUE,Empty,MPG1_YEAST Mannose-1-phosphate guanyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PSA1 PE=1 SV=2,P41940,,40 kDa,,unknown,0,0,0,0,0,3,0,0,0,0,0,0,0
+TRUE,Empty,IMB1_YEAST Importin subunit beta-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAP95 PE=1 SV=1,Q06142,,95 kDa,,unknown,0,0,0,4,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SXM1_YEAST Importin beta SMX1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SXM1 PE=1 SV=1,Q04175,,108 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,4
+TRUE,Empty,NMA1_YEAST Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NMA1 PE=1 SV=1,Q06178,,46 kDa,TRUE,unknown,0,0,0,0,3,0,0,0,0,0,1,0,0
+TRUE,Empty,SEC63_YEAST Protein translocation protein SEC63 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC63 PE=1 SV=2,P14906,,75 kDa,,unknown,0,0,0,4,0,0,0,0,0,2,0,0,0
+TRUE,Empty,"HSP77_YEAST Heat shock protein SSC1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSC1 PE=1 SV=1",P0CS90,,71 kDa,TRUE,unknown,0,0,0,6,0,0,0,0,0,0,0,0,0
+TRUE,Empty,TCPB_YEAST T-complex protein 1 subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT2 PE=1 SV=1,P39076,,57 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,ERG1_YEAST Squalene monooxygenase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERG1 PE=1 SV=2,P32476,,55 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,HSP7F_YEAST Heat shock protein homolog SSE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSE1 PE=1 SV=4,P32589,,77 kDa,TRUE,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,RL4A_YEAST 60S ribosomal protein L4-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPL4A PE=1 SV=4,P10664,,39 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,SSZ1_YEAST Ribosome-associated complex subunit SSZ1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSZ1 PE=1 SV=2,P38788,,58 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,ASPG1_YEAST L-asparaginase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ASP1 PE=1 SV=1,P38986,,41 kDa,,unknown,0,0,0,0,4,1,0,0,0,0,1,0,0
+TRUE,Empty,RSN1_YEAST Uncharacterized protein RSN1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RSN1 PE=1 SV=1,Q03516,,108 kDa,,unknown,0,0,0,2,0,0,0,0,1,0,0,0,1
+TRUE,Empty,MSC7_YEAST Putative aldehyde dehydrogenase-like protein YHR039C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MSC7 PE=1 SV=1,P38694,,71 kDa,,unknown,0,0,0,5,0,0,0,0,0,1,0,0,0
+TRUE,Empty,LCB2_YEAST Serine palmitoyltransferase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LCB2 PE=1 SV=1,P40970,,63 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,"SYWC_YEAST Tryptophan--tRNA ligase, cytoplasmic OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=WRS1 PE=1 SV=1",Q12109,,49 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,RLA0_YEAST 60S acidic ribosomal protein P0 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPP0 PE=1 SV=2,P05317,,34 kDa,,unknown,0,0,0,0,0,3,0,0,0,0,0,1,0
+TRUE,Empty,RNA1_YEAST Ran GTPase-activating protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RNA1 PE=1 SV=2,P11745,,46 kDa,,unknown,0,0,0,0,4,0,0,0,0,0,0,0,0
+TRUE,Empty,BMH2_YEAST Protein BMH2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BMH2 PE=1 SV=3,P34730,,31 kDa,TRUE,unknown,1,0,0,0,0,6,0,0,0,0,0,0,0
+TRUE,Empty,KA122_YEAST Importin beta-like protein KAP122 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAP122 PE=1 SV=1,P32767,,124 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,8
+TRUE,Empty,NEW1_YEAST [NU+] prion formation protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NEW1 PE=1 SV=1,Q08972,,134 kDa,,unknown,0,0,4,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,MTR10_YEAST mRNA transport regulator MTR10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MTR10 PE=1 SV=1,Q99189,,111 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,XPOT_YEAST Exportin-T OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LOS1 PE=1 SV=1,P33418,,127 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,5
+TRUE,Empty,PDC1_YEAST Pyruvate decarboxylase isozyme 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PDC1 PE=1 SV=7,P06169,,61 kDa,TRUE,unknown,1,0,0,0,4,0,0,0,0,0,0,0,0
+TRUE,Empty,LSP1_YEAST Sphingolipid long chain base-responsive protein LSP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LSP1 PE=1 SV=1,Q12230,,38 kDa,TRUE,unknown,0,0,0,0,3,0,0,0,0,0,2,0,0
+TRUE,Empty,DBP6_YEAST ATP-dependent RNA helicase DBP6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=DBP6 PE=1 SV=1,P53734,,70 kDa,,unknown,0,0,0,3,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GET3_YEAST ATPase GET3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GET3 PE=1 SV=1,Q12154,,39 kDa,,unknown,0,0,0,0,0,5,0,0,0,0,0,0,0
+TRUE,Empty,AP3M_YEAST AP-3 complex subunit mu OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=APM3 PE=1 SV=2,P38153,,55 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,1,0,0
+TRUE,Empty,KA120_YEAST Importin beta-like protein KAP120 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAP120 PE=1 SV=1,Q02932,,120 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,3
+TRUE,Empty,HRK1_YEAST Serine/threonine-protein kinase HRK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HRK1 PE=1 SV=1,Q08732,,86 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,3
+TRUE,Empty,DOP1_YEAST Protein dopey OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=DOP1 PE=1 SV=1,Q03921,,195 kDa,,unknown,0,2,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,PFKA2_YEAST ATP-dependent 6-phosphofructokinase subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PFK2 PE=1 SV=4,P16862,,105 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,5
+TRUE,Empty,PGK_YEAST Phosphoglycerate kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PGK1 PE=1 SV=2,P00560,,45 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,PMT2_YEAST Dolichyl-phosphate-mannose--protein mannosyltransferase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PMT2 PE=1 SV=2,P31382,,87 kDa,,unknown,0,0,0,2,0,0,0,0,0,1,0,0,0
+TRUE,Empty,"THDH_YEAST Threonine dehydratase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ILV1 PE=1 SV=2",P00927,,64 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,MCM6_YEAST DNA replication licensing factor MCM6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MCM6 PE=1 SV=2,P53091,,113 kDa,TRUE,unknown,0,0,3,0,1,0,0,0,0,0,0,0,0
+TRUE,Empty,ACO1_YEAST Acyl-CoA desaturase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OLE1 PE=1 SV=2,P21147,,58 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,SAC1_YEAST Phosphoinositide phosphatase SAC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SAC1 PE=1 SV=1,P32368,,71 kDa,,unknown,0,0,0,2,0,0,0,0,0,1,0,0,0
+TRUE,Empty,GNP1_YEAST High-affinity glutamine permease OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GNP1 PE=1 SV=2,P48813,,74 kDa,,unknown,0,0,0,1,2,0,0,0,0,0,0,0,0
+TRUE,Empty,FIMB_YEAST Fimbrin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SAC6 PE=1 SV=1,P32599,,72 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,TCPA_YEAST T-complex protein 1 subunit alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TCP1 PE=1 SV=2,P12612,,60 kDa,,unknown,0,0,0,0,5,0,0,0,0,0,0,0,0
+TRUE,Empty,ECM33_YEAST Cell wall protein ECM33 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ECM33 PE=1 SV=3,P38248,,44 kDa,,unknown,0,1,0,0,0,0,0,2,0,0,0,0,0
+TRUE,Empty,FHP_YEAST Flavohemoprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YHB1 PE=1 SV=2,P39676,,45 kDa,,unknown,0,0,0,0,1,0,0,0,0,0,2,0,0
+TRUE,Empty,NU188_YEAST Nucleoporin NUP188 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NUP188 PE=1 SV=1,P52593,,189 kDa,,unknown,0,6,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,"ALG9_YEAST Alpha-1,2-mannosyltransferase ALG9 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ALG9 PE=1 SV=1",P53868,,64 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,2,0,0
+TRUE,Empty,AAKG_YEAST 5'-AMP-activated protein kinase subunit gamma OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SNF4 PE=1 SV=1,P12904,,36 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,4,0
+TRUE,Empty,SS120_YEAST Protein SSP120 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SSP120 PE=1 SV=1,P39931,,27 kDa,,unknown,0,0,0,0,0,3,0,0,0,0,0,1,0
+TRUE,Empty,NU192_YEAST Nucleoporin NUP192 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NUP192 PE=1 SV=1,P47054,,192 kDa,,unknown,0,3,0,0,0,0,0,0,0,0,0,0,0
+TRUE,Empty,AROC_YEAST Chorismate synthase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ARO2 PE=1 SV=1,P28777,,41 kDa,,unknown,0,0,0,0,0,3,0,0,0,0,0,0,0
+TRUE,Empty,"SYA_YEAST Alanine--tRNA ligase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ALA1 PE=1 SV=3",P40825,,110 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,RS27A_YEAST Ubiquitin-40S ribosomal protein S31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPS31 PE=1 SV=3,P05759,,17 kDa,,unknown,0,1,1,2,1,0,0,0,0,0,0,0,1
+TRUE,Empty,PRS6A_YEAST 26S protease regulatory subunit 6A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RPT5 PE=1 SV=3,P33297,,48 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,UAP1_YEAST UDP-N-acetylglucosamine pyrophosphorylase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=QRI1 PE=1 SV=1,P43123,,53 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,HIP1_YEAST Histidine permease OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HIP1 PE=1 SV=2,P06775,,66 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,PHO91_YEAST Low-affinity phosphate transporter PHO91 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PHO91 PE=1 SV=2,P27514,,99 kDa,,unknown,0,0,0,3,0,0,0,0,0,0,0,0,0
+TRUE,Empty,LSB5_YEAST LAS seventeen-binding protein 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LSB5 PE=1 SV=3,P25369,,40 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,1,0,0
+TRUE,Empty,TCPZ_YEAST T-complex protein 1 subunit zeta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCT6 PE=1 SV=1,P39079,,60 kDa,,unknown,0,0,0,3,0,0,0,0,0,0,0,0,0
+TRUE,Empty,TRP_YEAST Tryptophan synthase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TRP5 PE=1 SV=1,P00931,,77 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SEY1_YEAST Protein SEY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEY1 PE=1 SV=1,Q99287,,89 kDa,,unknown,0,0,0,5,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SVF1_YEAST Survival factor 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SVF1 PE=1 SV=1,Q05515,,54 kDa,,unknown,0,0,0,0,0,0,0,0,0,2,0,0,1
+TRUE,Empty,ERG5_YEAST Cytochrome P450 61 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERG5 PE=1 SV=1,P54781,,61 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,PIL1_YEAST Sphingolipid long chain base-responsive protein PIL1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PIL1 PE=1 SV=1,P53252,,38 kDa,TRUE,unknown,0,0,0,0,1,0,0,0,0,0,2,0,0
+TRUE,Empty,"MDL1_YEAST ATP-dependent permease MDL1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MDL1 PE=1 SV=2",P33310,,76 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,MET18_YEAST DNA repair/transcription protein MET18/MMS19 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MET18 PE=1 SV=1,P40469,,118 kDa,,unknown,0,0,0,0,1,0,0,0,0,0,0,0,2
+TRUE,Empty,IF4A_YEAST ATP-dependent RNA helicase eIF4A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TIF1 PE=1 SV=3,P10081,,45 kDa,,unknown,0,0,0,0,5,0,0,0,0,0,0,0,0
+TRUE,Empty,GPA1_YEAST Guanine nucleotide-binding protein alpha-1 subunit OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GPA1 PE=1 SV=3,P08539,,54 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,YHM2_YEAST Citrate/oxoglutarate carrier protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YHM2 PE=1 SV=1,Q04013,,34 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,SRO9_YEAST RNA-binding protein SRO9 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SRO9 PE=1 SV=2,P25567,,48 kDa,,unknown,0,0,0,0,3,0,0,0,0,2,0,0,0
+TRUE,Empty,TPO3_YEAST Polyamine transporter 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TPO3 PE=1 SV=1,Q06451,,68 kDa,TRUE,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,VAC8_YEAST Vacuolar protein 8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VAC8 PE=1 SV=3,P39968,,63 kDa,,unknown,0,0,0,0,4,0,0,0,0,0,0,0,0
+TRUE,Empty,OLA1_YEAST Obg-like ATPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OLA1 PE=1 SV=1,P38219,,44 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,ERG3_YEAST C-5 sterol desaturase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERG3 PE=1 SV=1,P32353,,43 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,FDFT_YEAST Squalene synthase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERG9 PE=1 SV=2,P29704,,52 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,VTC3_YEAST Vacuolar transporter chaperone 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VTC3 PE=1 SV=1,Q02725,,97 kDa,TRUE,unknown,0,0,0,2,0,0,0,0,0,0,0,0,1
+TRUE,Empty,VTC4_YEAST Vacuolar transporter chaperone 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VTC4 PE=1 SV=2,P47075,,83 kDa,,unknown,0,0,0,4,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SCS2_YEAST Vesicle-associated membrane protein-associated protein SCS2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SCS2 PE=1 SV=3,P40075,,27 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,2,0,0
+TRUE,Empty,"MNN5_YEAST Alpha-1,2-mannosyltransferase MNN5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MNN5 PE=1 SV=2",P46982,,67 kDa,,unknown,0,0,0,2,0,1,0,0,0,0,0,0,0
+TRUE,Empty,TPO1_YEAST Polyamine transporter 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TPO1 PE=1 SV=1,Q07824,,64 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,2,0,0
+TRUE,Empty,"NDI1_YEAST Rotenone-insensitive NADH-ubiquinone oxidoreductase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NDI1 PE=1 SV=1",P32340,,57 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,RUVB1_YEAST RuvB-like protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RVB1 PE=1 SV=1,Q03940,,50 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,RIR2_YEAST Ribonucleoside-diphosphate reductase small chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=RNR2 PE=1 SV=2,P09938,,46 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,YKK0_YEAST Probable intramembrane protease YKL100C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YKL100C PE=1 SV=1,P34248,,68 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,TAT1_YEAST Valine/tyrosine/tryptophan amino-acid permease 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TAT1 PE=1 SV=1,P38085,,69 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,KPR5_YEAST Ribose-phosphate pyrophosphokinase 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRS5 PE=1 SV=1,Q12265,,54 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,"ATPG_YEAST ATP synthase subunit gamma, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATP3 PE=1 SV=1",P38077,,34 kDa,,unknown,0,0,0,0,0,3,0,0,0,0,0,0,0
+TRUE,Empty,ACS2_YEAST Acetyl-coenzyme A synthetase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ACS2 PE=1 SV=1,P52910,,75 kDa,,unknown,0,0,0,3,0,0,0,0,0,0,0,0,0
+TRUE,Empty,IMB2_YEAST Importin subunit beta-2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=KAP104 PE=1 SV=1,P38217,,104 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,SC61A_YEAST Protein transport protein SEC61 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC61 PE=1 SV=1,P32915,,53 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,"ATPA_YEAST ATP synthase subunit alpha, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATP1 PE=1 SV=5",P07251,,59 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,1,0,0
+TRUE,Empty,IF2B_YEAST Eukaryotic translation initiation factor 2 subunit beta OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SUI3 PE=1 SV=2,P09064,,32 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,SERC_YEAST Phosphoserine aminotransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SER1 PE=1 SV=1,P33330,,43 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,SUB2_YEAST ATP-dependent RNA helicase SUB2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SUB2 PE=1 SV=1,Q07478,,50 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,1,0,0
+TRUE,Empty,CSE1_YEAST Importin alpha re-exporter OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CSE1 PE=1 SV=2,P33307,,109 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,2
+TRUE,Empty,KPR1_YEAST Ribose-phosphate pyrophosphokinase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PRS1 PE=1 SV=1,P32895,,47 kDa,,unknown,0,0,0,0,3,0,0,0,0,0,0,0,0
+TRUE,Empty,ELO3_YEAST Elongation of fatty acids protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ELO3 PE=1 SV=1,P40319,,39 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,1,0
+TRUE,Empty,NU120_YEAST Nucleoporin NUP120 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=NUP120 PE=1 SV=1,P35729,,120 kDa,,unknown,0,0,0,0,0,0,0,0,0,0,0,0,3
+TRUE,Empty,EI2BG_YEAST Translation initiation factor eIF-2B subunit gamma OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GCD1 PE=1 SV=3,P09032,,66 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,SEC23_YEAST Protein transport protein SEC23 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC23 PE=1 SV=1,P15303,,85 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,GGA2_YEAST ADP-ribosylation factor-binding protein GGA2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GGA2 PE=1 SV=1,P38817,,64 kDa,TRUE,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,YPK1_YEAST Serine/threonine-protein kinase YPK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YPK1 PE=1 SV=2,P12688,,76 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0
+TRUE,Empty,YB8B_YEAST Uncharacterized transporter YBR287W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YBR287W PE=1 SV=1,P38355,,48 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,ARP3_YEAST Actin-related protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ARP3 PE=1 SV=1,P47117,,50 kDa,,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,CCC1_YEAST Protein CCC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=CCC1 PE=1 SV=1,P47818,,34 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,FTR1_YEAST Plasma membrane iron permease OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FTR1 PE=1 SV=1,P40088,,46 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,SEC17_YEAST Alpha-soluble NSF attachment protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC17 PE=1 SV=4,P32602,,33 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,VA0D_YEAST V-type proton ATPase subunit d OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VMA6 PE=1 SV=2,P32366,,40 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,"IDH2_YEAST Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=IDH2 PE=1 SV=1",P28241,,40 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,"YMC1_YEAST Carrier protein YMC1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YMC1 PE=3 SV=2",P32331,,33 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,YRB1_YEAST Ran-specific GTPase-activating protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YRB1 PE=1 SV=1,P41920,,23 kDa,,unknown,0,0,0,0,0,2,0,0,0,0,0,0,0
+TRUE,Empty,GPD1_YEAST Glycerol-3-phosphate dehydrogenase [NAD(+)] 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GPD1 PE=1 SV=4,Q00055,,43 kDa,TRUE,unknown,0,0,0,0,2,0,0,0,0,0,0,0,0
+TRUE,Empty,LCB1_YEAST Serine palmitoyltransferase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LCB1 PE=1 SV=2,P25045,,62 kDa,,unknown,0,0,0,2,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,472 @@
+Entity 1	Entity 2	Weight	Network group	Network
+ERG9	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SPF1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+PHO91	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+PHO91	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+PHO91	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG5	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG3	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+MON2	MNN5	0.007094019	Co-localization	Huh-O'Shea-2003
+LCB2	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+LCB2	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+TPO3	FTR1	0.01923077	Co-localization	Huh-O'Shea-2003
+SEY1	MNN5	0.011094388	Co-localization	Huh-O'Shea-2003
+SEY1	MON2	0.007094019	Co-localization	Huh-O'Shea-2003
+SEC61	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+SEC61	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+PRO3	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+SER1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+SER1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+NDI1	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+HIP1	GNP1	0.045128178	Co-localization	Huh-O'Shea-2003
+DOP1	MNN5	0.007094019	Co-localization	Huh-O'Shea-2003
+DOP1	MON2	0.0117204925	Co-localization	Huh-O'Shea-2003
+DOP1	SEY1	0.007094019	Co-localization	Huh-O'Shea-2003
+TAT1	HIP1	0.013498978	Co-localization	Huh-O'Shea-2003
+MCM6	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+OLE1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+OLE1	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+ERG1	OLE1	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	OLE1	0.004048583	Co-localization	Huh-O'Shea-2003
+VTC4	ERG1	0.004048583	Co-localization	Huh-O'Shea-2003
+NUP192	NUP188	0.017041905	Co-localization	Huh-O'Shea-2003
+NUP133	NUP188	0.017041905	Co-localization	Huh-O'Shea-2003
+NUP133	NUP192	0.017041905	Co-localization	Huh-O'Shea-2003
+YHM2	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+YHM2	NDI1	0.0021413276	Co-localization	Huh-O'Shea-2003
+QRI1	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+QRI1	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+ADE5,7	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+ADE5,7	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+ADE5,7	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+MSN5	NUP188	0.01651371	Co-localization	Huh-O'Shea-2003
+MSN5	NUP192	0.01651371	Co-localization	Huh-O'Shea-2003
+MSN5	NUP133	0.01651371	Co-localization	Huh-O'Shea-2003
+PRS5	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS5	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS5	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS5	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+YPK1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+YPK1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+YPK1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+YPK1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+YPK1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+WRS1	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+TRM3	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+PDR12	FTR1	0.01923077	Co-localization	Huh-O'Shea-2003
+PDR12	TPO3	0.01923077	Co-localization	Huh-O'Shea-2003
+RNA1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+RNA1	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+PRS1	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+ILV1	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+ILV1	NDI1	0.0021413276	Co-localization	Huh-O'Shea-2003
+ILV1	YHM2	0.0021413276	Co-localization	Huh-O'Shea-2003
+GEA2	MON2	0.013183566	Co-localization	Huh-O'Shea-2003
+GEA2	DOP1	0.013183566	Co-localization	Huh-O'Shea-2003
+GPA1	FTR1	0.01923077	Co-localization	Huh-O'Shea-2003
+GPA1	TPO3	0.01923077	Co-localization	Huh-O'Shea-2003
+GPA1	PDR12	0.01923077	Co-localization	Huh-O'Shea-2003
+SEC18	MON2	0.008195155	Co-localization	Huh-O'Shea-2003
+SEC18	DOP1	0.008195155	Co-localization	Huh-O'Shea-2003
+SEC18	GEA2	0.014842713	Co-localization	Huh-O'Shea-2003
+IDH2	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+IDH2	NDI1	0.0021413276	Co-localization	Huh-O'Shea-2003
+IDH2	YHM2	0.0021413276	Co-localization	Huh-O'Shea-2003
+IDH2	ILV1	0.0021413276	Co-localization	Huh-O'Shea-2003
+GYP5	HIP1	0.0074473443	Co-localization	Huh-O'Shea-2003
+GYP5	TAT1	0.012133392	Co-localization	Huh-O'Shea-2003
+GET3	YBR287W	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	ERG9	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	SPF1	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	PHO91	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	LCB1	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	ERG5	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	ERG3	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	LCB2	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	SEC61	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	OLE1	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	ERG1	0.004048583	Co-localization	Huh-O'Shea-2003
+GET3	VTC4	0.004048583	Co-localization	Huh-O'Shea-2003
+CPA2	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+CPA2	PRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+UFD4	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+UFD4	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+UFD4	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+OLA1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	PRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+OLA1	CPA2	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	PRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	CPA2	0.001261034	Co-localization	Huh-O'Shea-2003
+CDC60	OLA1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	PRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	CPA2	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	OLA1	0.001261034	Co-localization	Huh-O'Shea-2003
+NPA3	CDC60	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	ARO2	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	PRO3	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	SER1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	ADE5,7	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	PRS5	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	YPK1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	WRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	TRM3	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	RNA1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	PRS1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	CPA2	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	OLA1	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	CDC60	0.001261034	Co-localization	Huh-O'Shea-2003
+GCD1	NPA3	0.001261034	Co-localization	Huh-O'Shea-2003
+RNR2	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+RNR2	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+RNR2	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+RNR2	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+ATP3	MDL1	0.0021413276	Co-localization	Huh-O'Shea-2003
+ATP3	NDI1	0.0021413276	Co-localization	Huh-O'Shea-2003
+ATP3	YHM2	0.0021413276	Co-localization	Huh-O'Shea-2003
+ATP3	ILV1	0.0021413276	Co-localization	Huh-O'Shea-2003
+ATP3	IDH2	0.0021413276	Co-localization	Huh-O'Shea-2003
+MDN1	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+MDN1	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+MDN1	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+MDN1	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+MDN1	RNR2	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	RNR2	0.0012771392	Co-localization	Huh-O'Shea-2003
+PHO81	MDN1	0.0012771392	Co-localization	Huh-O'Shea-2003
+CHC1	GGA2	0.024971124	Co-localization	Huh-O'Shea-2003
+VMA6	VAC8	0.018037723	Co-localization	Huh-O'Shea-2003
+VMA1	VAC8	0.018037723	Co-localization	Huh-O'Shea-2003
+VMA1	VMA6	0.018037723	Co-localization	Huh-O'Shea-2003
+BMH2	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	RNR2	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	MDN1	0.0012771392	Co-localization	Huh-O'Shea-2003
+BMH2	PHO81	0.0012771392	Co-localization	Huh-O'Shea-2003
+KAP95	NUP188	0.013057217	Co-localization	Huh-O'Shea-2003
+KAP95	NUP192	0.013057217	Co-localization	Huh-O'Shea-2003
+KAP95	NUP133	0.013057217	Co-localization	Huh-O'Shea-2003
+KAP95	MSN5	0.014154498	Co-localization	Huh-O'Shea-2003
+KAP95	TUB1	0.005692894	Co-localization	Huh-O'Shea-2003
+RPB2	TRP5	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	MCM6	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	QRI1	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	UFD4	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	RNR2	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	MDN1	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	PHO81	0.0012771392	Co-localization	Huh-O'Shea-2003
+RPB2	BMH2	0.0012771392	Co-localization	Huh-O'Shea-2003
+RVB1	ACS2	0.0021598272	Co-localization	Huh-O'Shea-2003
+RVB1	TCP1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	CCT5	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	SER1	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	ARP3	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	TRP5	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	GPD1	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	ADE5,7	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	PRS5	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	ILV1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	SEC18	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	IDH2	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	GET3	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	OLA1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	CDC60	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	NPA3	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	GCD1	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	MDN1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	ACS2	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	CHC1	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	VMA6	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	VMA1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	TUB1	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	KAP95	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	CCT6	0.054163776	Physical Interactions	Lakshminarasimhan-Washburn-2016
+RVB1	RPB2	0.030818855	Physical Interactions	Lakshminarasimhan-Washburn-2016
+TOM1	CCT5	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	GNP1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	ARO2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	SPF1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	CCT2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	VTC4	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	YHM2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	SEC18	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	OLA1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	CDC60	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	SAC6	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	GCD1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	CHC1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	VMA1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	BMH2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	KAP95	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	CCT6	0.04360207	Physical Interactions	Sung-Deshaies-2016
+TOM1	RPB2	0.04360207	Physical Interactions	Sung-Deshaies-2016
+RVB1	TOM1	0.04360207	Physical Interactions	Sung-Deshaies-2016
+CCT5	TCP1	0.16060579	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT2	TCP1	0.085843675	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT2	CCT5	0.11695332	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+LCB2	LCB1	1	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ARP3	CCT5	0.035336405	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+DOP1	YHR020W	0.021131992	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+DOP1	MON2	0.67861336	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ERG1	YHR020W	0.052464567	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ADE5,7	YHR020W	0.040202666	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MSN5	TCP1	0.040212628	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MSN5	DOP1	0.06137667	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RNA1	YRB1	0.08974143	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ILV1	YHR020W	0.012538013	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+GEA2	YHR020W	0.017191269	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+GEA2	DOP1	0.044294808	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+GEA2	MSN5	0.027007803	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+SEC18	SEC23	0.012060056	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+IDH2	YHR020W	0.012481217	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+IDH2	ILV1	0.023901932	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VAC8	VTC4	0.18277974	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+GET3	TAT1	0.2656475	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CPA2	ADE5,7	0.08905129	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CPA2	ILV1	0.026430948	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+UFD4	YHR020W	0.017329914	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+UFD4	GEA2	0.024487702	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+OLA1	YHR020W	0.012181037	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+OLA1	ERG1	0.05210218	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+OLA1	ILV1	0.0100922845	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+OLA1	IDH2	0.018921241	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+SAC6	ARP3	0.028335359	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+SAC6	YPK1	0.122698836	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+NPA3	CCT2	0.055630893	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RNR2	OLA1	0.020285873	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ATP3	CPA2	0.025841938	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MDN1	YHR020W	0.0070664855	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MDN1	MSN5	0.010987207	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MDN1	ILV1	0.008469062	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MDN1	GEA2	0.013100327	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+MDN1	UFD4	0.013582654	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+ACS2	OLA1	0.020193756	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CHC1	GGA2	0.51710737	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA6	YHR020W	0.014957037	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA6	GEA2	0.025257988	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA6	VAC8	0.0701068	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA1	YHR020W	0.00804762	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA1	ERG1	0.034371182	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA1	MSN5	0.013316013	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA1	OLA1	0.013164181	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+VMA1	VMA6	0.013994088	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	YHR020W	0.008639218	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	TRP5	0.061545085	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	MSN5	0.01668378	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	ILV1	0.009316305	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	GEA2	0.01379811	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	IDH2	0.019930622	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	UFD4	0.012365764	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	OLA1	0.0112238135	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	MDN1	0.008772154	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TUB1	VMA1	0.00813279	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	TCP1	0.077255726	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	CCT5	0.082605995	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	YHR020W	0.012368191	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	CCT2	0.053330116	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	OLA1	0.017635427	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	MDN1	0.011251215	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	VMA1	0.013705931	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	TUB1	0.014651085	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	YHR020W	0.008350582	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	MSN5	0.011092365	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	ILV1	0.010985261	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	GEA2	0.010297696	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	CPA2	0.012102886	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	UFD4	0.013643084	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	MDN1	0.010753738	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RPB2	TUB1	0.009745401	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	TCP1	0.036535818	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	MSN5	0.025461365	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	MDN1	0.014398589	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	VMA1	0.0095627215	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+TOM1	RPB2	0.011196432	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RVB1	OLA1	0.0058742906	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+RVB1	TUB1	0.005322637	Physical Interactions	Lee-Marcotte-2007 Protein complexes
+CCT6	TCP1	0.092636675	Physical Interactions	Dekker-Willison-2008
+CCT6	CCT5	0.092636675	Physical Interactions	Dekker-Willison-2008
+CCT6	CCT2	0.092636675	Physical Interactions	Dekker-Willison-2008
+LCB2	LCB1	0.3548638	Physical Interactions	Gavin-Superti-Furga-2006
+DOP1	MON2	0.9228935	Physical Interactions	Gavin-Superti-Furga-2006
+ERG1	YHR020W	0.27326554	Physical Interactions	Gavin-Superti-Furga-2006
+GEA2	LCB2	0.17312512	Physical Interactions	Gavin-Superti-Furga-2006
+CPA2	ILV1	0.11647333	Physical Interactions	Gavin-Superti-Furga-2006
+ACS2	OLA1	0.06428622	Physical Interactions	Gavin-Superti-Furga-2006
+ACS2	MDN1	0.041226152	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	LCB1	0.1394655	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	LCB2	0.032310706	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	NUP192	0.07214556	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	MSN5	0.06203091	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	ILV1	0.03792934	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	IDH2	0.031576253	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	UFD4	0.03442362	Physical Interactions	Gavin-Superti-Furga-2006
+TUB1	ACS2	0.023879431	Physical Interactions	Gavin-Superti-Furga-2006
+BMH2	LCB2	0.12514122	Physical Interactions	Gavin-Superti-Furga-2006
+RVB1	CDC39	0.06701877	Physical Interactions	Gavin-Superti-Furga-2006
+RPB2	NPA3	0.22044756	Physical Interactions	Hierlmeier-Tschochner-2013
+RPB2	NPA3	0.08104425	Physical Interactions	Mosley-Washburn-2013
+DOP1	MON2	1	Physical Interactions	Babu-Greenblatt-2012 C
+ERG1	YHR020W	0.4833666	Physical Interactions	Babu-Greenblatt-2012 C
+ILV1	YHR020W	0.06986857	Physical Interactions	Babu-Greenblatt-2012 C
+GEA2	YHR020W	0.09891233	Physical Interactions	Babu-Greenblatt-2012 C
+CPA2	ILV1	0.16323331	Physical Interactions	Babu-Greenblatt-2012 C
+VMA1	OLA1	0.25862405	Physical Interactions	Babu-Greenblatt-2012 C
+TUB1	ILV1	0.28505525	Physical Interactions	Babu-Greenblatt-2012 C
+CCT6	YHR020W	0.07319607	Physical Interactions	Babu-Greenblatt-2012 C
+CCT6	CCT2	0.12406228	Physical Interactions	Babu-Greenblatt-2012 C
+RPB2	GGA2	0.0830403	Physical Interactions	Babu-Greenblatt-2012 C
+TPO3	FTR1	0.042551436	Physical Interactions	Tarassov-Michnick-2008
+OLE1	ERG5	0.13377926	Physical Interactions	Tarassov-Michnick-2008
+PDR12	FTR1	0.021440636	Physical Interactions	Tarassov-Michnick-2008
+PRS1	PRS5	0.3492971	Physical Interactions	Tarassov-Michnick-2008
+RPB2	NPA3	0.5021428	Physical Interactions	Tarassov-Michnick-2008
+LCB2	LCB1	0.8312539	Physical Interactions	Babu-Greenblatt-2012 B
+VMA6	YHR020W	0.2973824	Physical Interactions	Babu-Greenblatt-2012 B
+RPB2	MDN1	1	Physical Interactions	Babu-Greenblatt-2012 B
+CCT2	TCP1	0.6417922	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+LCB2	LCB1	0.39041686	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+DOP1	MON2	0.71947885	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+VTC4	HIP1	0.10317524	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+NUP133	NUP188	0.18715386	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+MSN5	NUP188	0.071486756	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+MSN5	NUP133	0.081250146	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+SEC18	SEC17	0.099661484	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+CHC1	GGA2	0.04974924	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+VMA1	VMA6	0.13552773	Physical Interactions	Lee-Marcotte-2007 Protein interactions
+CCT2	TCP1	0.2441272	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+ERG3	ERG9	0.12230506	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+LCB2	LCB1	0.2307989	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+DOP1	MON2	0.28623468	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+GGA2	MON2	0.09465609	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+ERG1	ERG5	0.15741077	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NUP133	NUP188	0.10756367	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+MSN5	NUP188	0.05277232	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+MSN5	NUP133	0.047407165	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+YPK1	GPD1	0.10823189	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SEC18	SEC17	0.03925996	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+GET3	GPA1	0.030063033	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NPA3	NUP133	0.051538974	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CHC1	GGA2	0.034888342	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+VMA1	VMA6	0.08291305	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+RPB2	NPA3	0.021155788	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PRS1	PRS5	0.70710677	Physical Interactions	Schlecht-St Onge-2012
+LCB2	YHR020W	0.1529996	Physical Interactions	Gavin-Superti-Furga-2002
+LCB2	LCB1	0.36528698	Physical Interactions	Gavin-Superti-Furga-2002
+TAT1	YHR020W	0.2146395	Physical Interactions	Gavin-Superti-Furga-2002
+GEA2	LCB2	0.19119257	Physical Interactions	Gavin-Superti-Furga-2002
+CHC1	GGA2	0.25046295	Physical Interactions	Gavin-Superti-Furga-2002
+VMA1	MCM6	0.1721407	Physical Interactions	Gavin-Superti-Furga-2002
+BMH2	LCB2	0.049804322	Physical Interactions	Gavin-Superti-Furga-2002
