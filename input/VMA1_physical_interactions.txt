@@ -1,0 +1,211 @@
+!
+!Date: 11/28/2022
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Interactor	Interactor Systematic Name	Interactor	Interactor Systematic Name	Assay	Annotation	Action	Modification	Source	Reference	Note
+VMA1	YDL185W	AIM4	YBR194W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ren L, et al. (2011) PMID:21386897	
+VMA1	YDL185W	ASC1	YMR116C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	ATG14	YBR128C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	BFR1	YOR198C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Lapointe CP, et al. (2015) PMID:26524240	RNA Tagging
+VMA1	YDL185W	BRE5	YNR051C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ossareh-Nazari B, et al. (2010) PMID:20508643	protein A-tagged Bre5
+VMA1	YDL185W	CAF20	YOR276W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gay S, et al. (2018) PMID:29775579	
+VMA1	YDL185W	CDC15	YAR019C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	CDC28	YBR160W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Yahya G, et al. (2014) PMID:24374311	Table S1
+VMA1	YDL185W	CPR5	YDR304C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	CSE4	YKL049C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ranjitkar P, et al. (2010) PMID:21070971	
+VMA1	YDL185W	DBF2	YGR092W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	DHH1	YDL160C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+VMA1	YDL185W	DHH1	YDL160C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Cary GA, et al. (2015) PMID:26392412	
+VMA1	YDL185W	DHH1	YDL160C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Jungfleisch J, et al. (2017) PMID:27821408	CRAC
+VMA1	YDL185W	DPM1	YPR183W	Co-fractionation	manually curated	Hit	No Modification	BioGRID	Safiarian MJ, et al. (2015) PMID:25713578	
+VMA1	YDL185W	ELM1	YKL048C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	EMW1	YNL313C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	FIS1	YIL065C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Cichocki BA, et al. (2018) PMID:30033679	
+VMA1	YDL185W	GCN5	YGR252W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA1	YDL185W	GID7	YCL039W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	GIM3	YNL153C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	HAP3	YBL021C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	HOG1	YLR113W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	MacGilvray ME, et al. (2018) PMID:29738528	
+VMA1	YDL185W	HSC82	YMR186W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Girstmair H, et al. (2019) PMID:31399574	heatshock
+VMA1	YDL185W	HSP82	YPL240C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Woodford MR, et al. (2016) PMID:26804907	Table S2
+VMA1	YDL185W	HSP82	YPL240C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Girstmair H, et al. (2019) PMID:31399574	heatshock
+VMA1	YDL185W	IES3	YLR052W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	INP52	YNL106C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	IRA2	YOL081W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Phan VT, et al. (2010) PMID:20160012	
+VMA1	YDL185W	KNS1	YLL019C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	MAE1	YKL029C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	MCA1	YOR197W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Shrestha A, et al. (2019) PMID:30675380	
+VMA1	YDL185W	MCM6	YGL201C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	MES1	YGR264C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Levi O and Arava YS (2021) PMID:33305314	
+VMA1	YDL185W	MET18	YIL128W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	MOG1	YJR074W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Oliete-Calvo P, et al. (2018) PMID:30249596	
+VMA1	YDL185W	MPS3	YJL019W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Bommi JR, et al. (2019) PMID:30417519	interaction detected in meiosis
+VMA1	YDL185W	MTQ2	YDR140W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lacoux C, et al. (2020) PMID:33166396	Mtq2-N122
+VMA1	YDL185W	NAB2	YGL122C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Batisse J, et al. (2009) PMID:19840948	High Throughput: The experiment involved high-throughput sequencing of the RNAs that co-precipitated with TAP-tagged Nab2 (Nab2-TAP).
+VMA1	YDL185W	NDC80	YIL144W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Breitkreutz A, et al. (2010) PMID:20489023	
+VMA1	YDL185W	NTA1	YJR062C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	PDR17	YNL264C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	PIS1	YPR113W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	PMP1	YCR024C-A	Affinity Capture-RNA	high-throughput	Bait	No Modification	BioGRID	Samra N, et al. (2015) PMID:26404137	PMP1 mRNA|RaPID procedure
+VMA1	YDL185W	POP2	YNR052C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	PRP11	YDL043C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	PTC5	YOR090C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guo X, et al. (2017) PMID:28539364	
+VMA1	YDL185W	PUF2	YPR042C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Porter DF, et al. (2015) PMID:26668354	HITS-CLIP
+VMA1	YDL185W	PUF3	YLL013C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Freeberg MA, et al. (2013) PMID:23409723	Puf3 protein bound to RNA subdomain: 3'UTR
+VMA1	YDL185W	PUF3	YLL013C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Lapointe CP, et al. (2015) PMID:26524240	RNA Tagging
+VMA1	YDL185W	PUF3	YLL013C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Lapointe CP, et al. (2017) PMID:28768715	
+VMA1	YDL185W	RAD10	YML095C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	RAD26	YJR035W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	RAD3	YER171W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	RAD3	YER171W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	RAD3	YER171W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	RAD50	YNL250W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	RAV1	YJR033C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Seol JH, et al. (2001) PMID:11283612	
+VMA1	YDL185W	RAV1	YJR033C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Jaskolka MC and Kane PM (2020) PMID:31941791	Figure 4
+VMA1	YDL185W	RAV2	YDR202C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Seol JH, et al. (2001) PMID:11283612	
+VMA1	YDL185W	RAV2	YDR202C	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Zhang Z, et al. (2017) PMID:28643238	
+VMA1	YDL185W	RAV2	YDR202C	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Jaskolka MC, et al. (2021) PMID:33895134	
+VMA1	YDL185W	RPC40	YPR110C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	RPL25	YOL127W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPL26A	YLR344W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPL31A	YDL075W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPN1	YHR027C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guerrero C, et al. (2008) PMID:18757749	
+VMA1	YDL185W	RPN10	YHR200W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guerrero C, et al. (2008) PMID:18757749	
+VMA1	YDL185W	RPN11	YFR004W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guerrero C, et al. (2008) PMID:18757749	
+VMA1	YDL185W	RPN11	YFR004W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Kaake RM, et al. (2010) PMID:20170199	Proteasome interacting proteins (PIPs) were identified using QTAX (quantitative analysis of tandem affinity purified in vivo cross-linked (X) protein complexes).  TAP-tagged Rpn11 and in vivo formaldehyde cross-linking were used in the experiment.
+VMA1	YDL185W	RPO21	YDL140C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Eyboulet F, et al. (2020) PMID:33226341	
+VMA1	YDL185W	RPS10A	YOR293W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS12	YOR369C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS13	YDR064W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS14A	YCR031C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS15	YOL040C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS17A	YML024W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS18A	YDR450W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS19A	YOL121C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS1A	YLR441C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS2	YGL123W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS20	YHL015W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS22A	YJL190C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS27A	YKL156W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS3	YNL178W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS6A	YPL090C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS7A	YOR096W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS8A	YBL072C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPS9A	YPL081W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Rössler I, et al. (2019) PMID:31062022	
+VMA1	YDL185W	RPT5	YOR117W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guerrero C, et al. (2008) PMID:18757749	
+VMA1	YDL185W	RRP6	YOR001W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gonzales-Zubiate FA, et al. (2017) PMID:28539363	
+VMA1	YDL185W	RVB1	YDR190C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lakshminarasimhan M, et al. (2016) PMID:26831523	MudPIT
+VMA1	YDL185W	RVB2	YPL235W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lakshminarasimhan M, et al. (2016) PMID:26831523	MudPIT
+VMA1	YDL185W	SAM50	YNL026W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Qiu J, et al. (2013) PMID:23911324	
+VMA1	YDL185W	SAP155	YFR040W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	SBP1	YHL034C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+VMA1	YDL185W	SCH9	YHR205W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Wilms T, et al. (2017) PMID:28604780	
+VMA1	YDL185W	SCP160	YJL080C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Delaveau T, et al. (2016) PMID:27580715	
+VMA1	YDL185W	SIF2	YBR103W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	SIR3	YLR442C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	SIS1	YNL007C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Feder ZA, et al. (2021) PMID:33326013	
+VMA1	YDL185W	SKP1	YDR328C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Seol JH, et al. (2001) PMID:11283612	
+VMA1	YDL185W	SPT10	YJL127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Kurat CF, et al. (2014) PMID:25228766	Figure S1, Dataset S1|SPT10 overexpression
+VMA1	YDL185W	SPT21	YMR179W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Kurat CF, et al. (2014) PMID:25228766	Figure S1, Dataset S1|SPT21 overexpression
+VMA1	YDL185W	SPT8	YLR055C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA1	YDL185W	SSA1	YAL005C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Truman AW, et al. (2015) PMID:26217697	
+VMA1	YDL185W	SSA1	YAL005C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Truman AW, et al. (2015) PMID:25452130	
+VMA1	YDL185W	SSB2	YNL209W	Co-purification	high-throughput	Hit	No Modification	BioGRID	Willmund F, et al. (2013) PMID:23332755	isolation of cotranslationally bound SSB-RNC complexes allows us to identify the chaperone-bound nascent polypeptides through analysis of the mRNAs encoding the substrates
+VMA1	YDL185W	SSC1	YJR045C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Böttinger L, et al. (2015) PMID:25792736	
+VMA1	YDL185W	STV1	YMR054W	Two-hybrid	manually curated	Bait	No Modification	BioGRID	Landolt-Marticorena C, et al. (2000) PMID:10747882	
+VMA1	YDL185W	STV1	YMR054W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Kawasaki-Nishi S, et al. (2001) PMID:11592965	
+VMA1	YDL185W	STV1	YMR054W	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	SUP35	YDR172W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Speldewinde SH, et al. (2017) PMID:28369054	
+VMA1	YDL185W	TFC6	YDR362C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Bhalla P, et al. (2019) PMID:30593915	active state interactome|repressed state interactome
+VMA1	YDL185W	TMA108	YIL137C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Delaveau T, et al. (2016) PMID:27580715	
+VMA1	YDL185W	TMA46	YOR091W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Delaveau T, et al. (2016) PMID:27580715	
+VMA1	YDL185W	TOM1	YDR457W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Sung MK, et al. (2016) PMID:27552055	
+VMA1	YDL185W	TOM22	YNL131W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Opaliński Ł, et al. (2018) PMID:30463002	
+VMA1	YDL185W	TUB3	YML124C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	UBP3	YER151C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ossareh-Nazari B, et al. (2010) PMID:20508643	protein A-tagged Ubp3
+VMA1	YDL185W	UBP8	YMR223W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA1	YDL185W	URN1	YPR152C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ren L, et al. (2011) PMID:21386897	
+VMA1	YDL185W	UTP13	YLR222C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	UTP18	YJL069C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	VID24	YBR105C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Subbotin RI and Chait BT (2014) PMID:25172955	
+VMA1	YDL185W	VMA1	YDL185W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	VMA10	YHR039C-A	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Jones RP, et al. (2005) PMID:15751969	
+VMA1	YDL185W	VMA10	YHR039C-A	Co-fractionation	manually curated	Hit	No Modification	BioGRID	Tomashek JJ, et al. (1997) PMID:9334266	
+VMA1	YDL185W	VMA10	YHR039C-A	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	VMA10	YHR039C-A	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Zhang Z, et al. (2003) PMID:12960158	
+VMA1	YDL185W	VMA10	YHR039C-A	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Zhang Z, et al. (2008) PMID:18955482	
+VMA1	YDL185W	VMA10	YHR039C-A	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Ohira M, et al. (2006) PMID:16774922	
+VMA1	YDL185W	VMA10	YHR039C-A	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA11	YPL234C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA11	YPL234C	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA13	YPR036W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA13	YPR036W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Landolt-Marticorena C, et al. (2000) PMID:10747882	
+VMA1	YDL185W	VMA13	YPR036W	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	VMA13	YPR036W	Protein-peptide	high-throughput	Hit	No Modification	BioGRID	Parsons LS and Wilkens S (2012) PMID:23071676	
+VMA1	YDL185W	VMA13	YPR036W	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA16	YHR026W	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA2	YBR127C	Two-hybrid	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1996) PMID:8626613	
+VMA1	YDL185W	VMA2	YBR127C	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1996) PMID:8626613	
+VMA1	YDL185W	VMA2	YBR127C	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1997) PMID:9334266	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Davis-Kaplan SR, et al. (2006) PMID:16926153	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Zuo J, et al. (2008) PMID:18344484	
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	VMA2	YBR127C	Co-crystal Structure	manually curated	Bait	No Modification	BioGRID	Benlekbir S, et al. (2012) PMID:23142977	cryo-EM structure
+VMA1	YDL185W	VMA2	YBR127C	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA3	YEL027W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA4	YOR332W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA4	YOR332W	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1996) PMID:8626613	
+VMA1	YDL185W	VMA4	YOR332W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VMA4	YOR332W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Ohira M, et al. (2006) PMID:16774922	
+VMA1	YDL185W	VMA4	YOR332W	Reconstituted Complex	manually curated	Hit	No Modification	BioGRID	Grüber G, et al. (2002) PMID:12413952	
+VMA1	YDL185W	VMA4	YOR332W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Babu M, et al. (2012) PMID:22940862	Purification data downloaded from http://wodaklab.org/membrane_web/downloads/Purifications.zip, filtered for LCMS/MS confidence > 90% and MALDI-TOF Z-score > 1.
+VMA1	YDL185W	VMA5	YKL080W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA5	YKL080W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VMA5	YKL080W	Protein-peptide	high-throughput	Hit	No Modification	BioGRID	Parsons LS and Wilkens S (2012) PMID:23071676	
+VMA1	YDL185W	VMA5	YKL080W	Reconstituted Complex	manually curated	Hit	No Modification	BioGRID	Jaskolka MC, et al. (2021) PMID:33895134	
+VMA1	YDL185W	VMA6	YLR447C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA6	YLR447C	Reconstituted Complex	manually curated	Hit	No Modification	BioGRID	Thaker YR, et al. (2009) PMID:19289121	
+VMA1	YDL185W	VMA6	YLR447C	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	VMA7	YGR020C	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1997) PMID:9334266	
+VMA1	YDL185W	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VMA7	YGR020C	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA8	YEL051W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	VMA8	YEL051W	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VMA8	YEL051W	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1996) PMID:8626613	
+VMA1	YDL185W	VMA8	YEL051W	Co-fractionation	manually curated	Bait	No Modification	BioGRID	Tomashek JJ, et al. (1997) PMID:9334266	
+VMA1	YDL185W	VMA8	YEL051W	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	VMA8	YEL051W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VMA8	YEL051W	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VMA9	YCL005W-A	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA1	YDL185W	VPH1	YOR270C	Two-hybrid	manually curated	Bait	No Modification	BioGRID	Landolt-Marticorena C, et al. (2000) PMID:10747882	
+VMA1	YDL185W	VPH1	YOR270C	Two-hybrid	manually curated	Hit	No Modification	BioGRID	Landolt-Marticorena C, et al. (2000) PMID:10747882	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Landolt-Marticorena C, et al. (2000) PMID:10747882	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Kawasaki-Nishi S, et al. (2001) PMID:11592965	
+VMA1	YDL185W	VPH1	YOR270C	Co-fractionation	manually curated	Hit	No Modification	BioGRID	Oluwatosin YE and Kane PM (1998) PMID:9488470	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Diepholz M, et al. (2008) PMID:19081055	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Ediger B, et al. (2009) PMID:19473972	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Bueler SA and Rubinstein JL (2015) PMID:25546637	Figure 2
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Bueler SA and Rubinstein JL (2015) PMID:25546637	Figure 3
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Bait	No Modification	BioGRID	Wilms T, et al. (2017) PMID:28604780	
+VMA1	YDL185W	VPH1	YOR270C	Co-purification	manually curated	Bait	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA1	YDL185W	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Chen H, et al. (2020) PMID:33064727	
+VMA1	YDL185W	VPS13	YLL040C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA1	YDL185W	VRP1	YLR337C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA1	YDL185W	XDJ1	YLR090W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	YEL023C	YEL023C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	YIG1	YPL201C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA1	YDL185W	YPK2	YMR104C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA1	YDL185W	YRA1	YDR381W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Kashyap AK, et al. (2005) PMID:15584090	

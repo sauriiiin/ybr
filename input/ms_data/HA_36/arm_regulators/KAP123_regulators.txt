@@ -1,0 +1,17 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+CST6	YIL036W	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+GCN4	YEL009C	KAP123	YER110C	negative	transcription	cellular response to boron-containing substance levels	transcription factor	negative	transcription	cellular response to boron-containing substance levels	high-throughput	DNA to cDNA expression microarray evidence	S288C	Uluisik I, et al. (2011) PMID:22114689
+GCR1	YPL075W	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+HSF1	YGL073W	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+SFP1	YLR403W	KAP123	YER110C		transcription	cellular response to stress	transcription factor		transcription	cellular response to stress	high-throughput	DNA to cDNA expression microarray evidence	CEN.PK	Cipollina C, et al. (2008) PMID:18524923
+SIN4	YNL236W	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+SPT20	YOL148C	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+TUP1	YCR084C	KAP123	YER110C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638

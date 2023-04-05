@@ -1,0 +1,19 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+BUR6	YER159C	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+CST6	YIL036W	SEC26	YDR238C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+FKH1	YIL131C	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+MED2	YDL005C	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+REB1	YBR049C	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+SIN4	YNL236W	SEC26	YDR238C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+SPT3	YDR392W	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+TUP1	YCR084C	SEC26	YDR238C		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+XBP1	YIL101C	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+YAP5	YIR018W	SEC26	YDR238C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885

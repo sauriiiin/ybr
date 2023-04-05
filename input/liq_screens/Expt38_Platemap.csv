@@ -1,0 +1,73 @@
+﻿well_ID,sample,background,rep_ID,condition,smudge,control
+A1,BLANK,,rep1,YPD (pH 5.0),,no
+A2,*vma3Δ::KanMX*,BY4741,rep1,YPD (pH 5.0),,no
+A3,*vps16Δ::KanMX*,BY4741,rep1,YPD (pH 5.0),,no
+A4,BLANK,,rep1,YPD (pH 5.0),,no
+A5,BLANK,,rep1,YPD (pH 5.0),,no
+A6,*hog1Δ::KanMX*,BY4741,rep1,YPD (pH 5.0),,no
+A7,BY4741,BY4741,rep1,YPD (pH 5.0),,no
+A8,*ybr196c-aΔ::KanMX*,BY4741,rep1,YPD (pH 5.0),,no
+A9,*ybr196c-aΔ*,BY4741,rep1,YPD (pH 5.0),,no
+A10,BY4742,BY4742,rep1,YPD (pH 5.0),,no
+A11,*ybr196c-aΔ::KanMX*,BY4742,rep1,YPD (pH 5.0),,no
+A12,*ybr196c-aΔ*,BY4742,rep1,YPD (pH 5.0),,no
+B1,BLANK,,rep2,YPD (pH 5.0),,no
+B2,*vma3Δ::KanMX*,BY4741,rep2,YPD (pH 5.0),yes,no
+B3,*vps16Δ::KanMX*,BY4741,rep2,YPD (pH 5.0),,no
+B4,BLANK,,rep2,YPD (pH 5.0),,no
+B5,BLANK,,rep2,YPD (pH 5.0),,no
+B6,*hog1Δ::KanMX*,BY4741,rep2,YPD (pH 5.0),,no
+B7,BY4741,BY4741,rep2,YPD (pH 5.0),,no
+B8,*ybr196c-aΔ::KanMX*,BY4741,rep2,YPD (pH 5.0),,no
+B9,*ybr196c-aΔ*,BY4741,rep2,YPD (pH 5.0),,no
+B10,BY4742,BY4742,rep2,YPD (pH 5.0),,no
+B11,*ybr196c-aΔ::KanMX*,BY4742,rep2,YPD (pH 5.0),,no
+B12,*ybr196c-aΔ*,BY4742,rep2,YPD (pH 5.0),,no
+D1,BLANK,,rep1,1M NaCl (pH 5.0),,no
+D2,*vma3Δ::KanMX*,BY4741,rep1,1M NaCl (pH 5.0),yes,no
+D3,*vps16Δ::KanMX*,BY4741,rep1,1M NaCl (pH 5.0),yes,no
+D4,BLANK,,rep1,1M NaCl (pH 5.0),,no
+D5,BLANK,,rep1,1M NaCl (pH 5.0),,no
+D6,*hog1Δ::KanMX*,BY4741,rep1,1M NaCl (pH 5.0),,yes
+D7,BY4741,BY4741,rep1,1M NaCl (pH 5.0),,no
+D8,*ybr196c-aΔ::KanMX*,BY4741,rep1,1M NaCl (pH 5.0),,no
+D9,*ybr196c-aΔ*,BY4741,rep1,1M NaCl (pH 5.0),yes,no
+D10,BY4742,BY4742,rep1,1M NaCl (pH 5.0),,no
+D11,*ybr196c-aΔ::KanMX*,BY4742,rep1,1M NaCl (pH 5.0),,no
+D12,*ybr196c-aΔ*,BY4742,rep1,1M NaCl (pH 5.0),,no
+E1,BLANK,,rep2,1M NaCl (pH 5.0),,no
+E2,*vma3Δ::KanMX*,BY4741,rep2,1M NaCl (pH 5.0),yes,no
+E3,*vps16Δ::KanMX*,BY4741,rep2,1M NaCl (pH 5.0),yes,no
+E4,BLANK,,rep2,1M NaCl (pH 5.0),,no
+E5,BLANK,,rep2,1M NaCl (pH 5.0),,no
+E6,*hog1Δ::KanMX*,BY4741,rep2,1M NaCl (pH 5.0),,yes
+E7,BY4741,BY4741,rep2,1M NaCl (pH 5.0),,no
+E8,*ybr196c-aΔ::KanMX*,BY4741,rep2,1M NaCl (pH 5.0),,no
+E9,*ybr196c-aΔ*,BY4741,rep2,1M NaCl (pH 5.0),,no
+E10,BY4742,BY4742,rep2,1M NaCl (pH 5.0),yes,no
+E11,*ybr196c-aΔ::KanMX*,BY4742,rep2,1M NaCl (pH 5.0),,no
+E12,*ybr196c-aΔ*,BY4742,rep2,1M NaCl (pH 5.0),,no
+G1,BLANK,,rep1,60nM CaCl2 (pH 7.5),,no
+G2,*vma3Δ::KanMX*,BY4741,rep1,60nM CaCl2 (pH 7.5),,yes
+G3,*vps16Δ::KanMX*,BY4741,rep1,60nM CaCl2 (pH 7.5),,yes
+G4,BLANK,,rep1,60nM CaCl2 (pH 7.5),,no
+G5,BLANK,,rep1,60nM CaCl2 (pH 7.5),,no
+G6,*hog1Δ::KanMX*,BY4741,rep1,60nM CaCl2 (pH 7.5),,no
+G7,BY4741,BY4741,rep1,60nM CaCl2 (pH 7.5),,no
+G8,*ybr196c-aΔ::KanMX*,BY4741,rep1,60nM CaCl2 (pH 7.5),,no
+G9,*ybr196c-aΔ*,BY4741,rep1,60nM CaCl2 (pH 7.5),,no
+G10,BY4742,BY4742,rep1,60nM CaCl2 (pH 7.5),,no
+G11,*ybr196c-aΔ::KanMX*,BY4742,rep1,60nM CaCl2 (pH 7.5),,no
+G12,*ybr196c-aΔ*,BY4742,rep1,60nM CaCl2 (pH 7.5),,no
+H1,BLANK,,rep2,60nM CaCl2 (pH 7.5),,no
+H2,*vma3Δ::KanMX*,BY4741,rep2,60nM CaCl2 (pH 7.5),,yes
+H3,*vps16Δ::KanMX*,BY4741,rep2,60nM CaCl2 (pH 7.5),,yes
+H4,BLANK,,rep2,60nM CaCl2 (pH 7.5),,no
+H5,BLANK,,rep2,60nM CaCl2 (pH 7.5),,no
+H6,*hog1Δ::KanMX*,BY4741,rep2,60nM CaCl2 (pH 7.5),,no
+H7,BY4741,BY4741,rep2,60nM CaCl2 (pH 7.5),yes,no
+H8,*ybr196c-aΔ::KanMX*,BY4741,rep2,60nM CaCl2 (pH 7.5),,no
+H9,*ybr196c-aΔ*,BY4741,rep2,60nM CaCl2 (pH 7.5),,no
+H10,BY4742,BY4742,rep2,60nM CaCl2 (pH 7.5),,no
+H11,*ybr196c-aΔ::KanMX*,BY4742,rep2,60nM CaCl2 (pH 7.5),,no
+H12,*ybr196c-aΔ*,BY4742,rep2,60nM CaCl2 (pH 7.5),,no

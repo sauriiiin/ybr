@@ -1,0 +1,87 @@
+!
+!Date: 11/28/2022
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Interactor	Interactor Systematic Name	Interactor	Interactor Systematic Name	Assay	Annotation	Action	Modification	Source	Reference	Note
+VMA6	YLR447C	BRE5	YNR051C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ossareh-Nazari B, et al. (2010) PMID:20508643	protein A-tagged Bre5
+VMA6	YLR447C	CBK1	YNL161W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA6	YLR447C	CDC15	YAR019C	Proximity Label-MS	manually curated	Hit	No Modification	BioGRID	Zhou X, et al. (2021) PMID:33481703	
+VMA6	YLR447C	CIN5	YOR028C	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	CMR1	YDL156W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gilmore JM, et al. (2012) PMID:22199229	hit proteins identified by MudPIT analysis
+VMA6	YLR447C	CMR1	YDL156W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gallina I, et al. (2015) PMID:25817432	Supplementary Data 1
+VMA6	YLR447C	DRS2	YAL026C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	ESP1	YGR098C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho KL, et al. (2015) PMID:25822502	
+VMA6	YLR447C	GCN5	YGR252W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA6	YLR447C	GIS2	YNL255C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Scherrer T, et al. (2011) PMID:21232131	
+VMA6	YLR447C	HHT1	YBR010W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gilmore JM, et al. (2012) PMID:22199229	hit proteins identified by MudPIT analysis
+VMA6	YLR447C	HHT2	YNL031C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gilmore JM, et al. (2012) PMID:22199229	hit proteins identified by MudPIT analysis
+VMA6	YLR447C	HSP104	YLL026W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Hill SM, et al. (2016) PMID:27373154	
+VMA6	YLR447C	IPA1	YJR141W	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	LAS17	YOR181W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA6	YLR447C	MPS3	YJL019W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Bommi JR, et al. (2019) PMID:30417519	interaction detected in meiosis|interaction detected in mitosis
+VMA6	YLR447C	MTH1	YDR277C	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	MYG1	YER156C	Proximity Label-MS	manually curated	Hit	No Modification	BioGRID	Singer-Krüger B, et al. (2020) PMID:31323700	APEX2 based PL system
+VMA6	YLR447C	NAB2	YGL122C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Batisse J, et al. (2009) PMID:19840948	High Throughput: The experiment involved high-throughput sequencing of the RNAs that co-precipitated with TAP-tagged Nab2 (Nab2-TAP).
+VMA6	YLR447C	OMS1	YDR316W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ho Y, et al. (2002) PMID:11805837	
+VMA6	YLR447C	PSG1	YKL077W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Geva Y, et al. (2017) PMID:28727280	
+VMA6	YLR447C	RPC82	YPR190C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Chymkowitch P, et al. (2017) PMID:28096404	
+VMA6	YLR447C	RPN1	YHR027C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Guerrero C, et al. (2008) PMID:18757749	
+VMA6	YLR447C	RPN11	YFR004W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Kaake RM, et al. (2010) PMID:20170199	Proteasome interacting proteins (PIPs) were identified using QTAX (quantitative analysis of tandem affinity purified in vivo cross-linked (X) protein complexes).  TAP-tagged Rpn11 and in vivo formaldehyde cross-linking were used in the experiment.
+VMA6	YLR447C	RVB1	YDR190C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lakshminarasimhan M, et al. (2016) PMID:26831523	MudPIT
+VMA6	YLR447C	SBP1	YHL034C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+VMA6	YLR447C	SPT21	YMR179W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Kurat CF, et al. (2014) PMID:25228766	Figure S1, Dataset S1|SPT21 overexpression
+VMA6	YLR447C	SPT7	YBR081C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA6	YLR447C	SRO9	YCL037C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Schenk L, et al. (2012) PMID:22271760	RNA-binding protein immunopurification-microarray (RIP-chip) analysis, cut-off score: >0.6
+VMA6	YLR447C	SSB2	YNL209W	Co-purification	high-throughput	Hit	No Modification	BioGRID	Willmund F, et al. (2013) PMID:23332755	isolation of cotranslationally bound SSB-RNC complexes allows us to identify the chaperone-bound nascent polypeptides through analysis of the mRNAs encoding the substrates
+VMA6	YLR447C	STD1	YOR047C	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	STV1	YMR054W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Kawasaki-Nishi S, et al. (2001) PMID:11592965	
+VMA6	YLR447C	STV1	YMR054W	Co-purification	manually curated	Hit	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA6	YLR447C	TAF9	YMR236W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Lee KK, et al. (2011) PMID:21734642	prey identified by MudPIT
+VMA6	YLR447C	TEM1	YML064C	Proximity Label-MS	manually curated	Hit	No Modification	BioGRID	Zhou X, et al. (2021) PMID:33481703	
+VMA6	YLR447C	TLG2	YOL018C	Co-purification	manually curated	Hit	No Modification	BioGRID	Inadome H, et al. (2005) PMID:16107716	
+VMA6	YLR447C	UBP3	YER151C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Ossareh-Nazari B, et al. (2010) PMID:20508643	protein A-tagged Ubp3
+VMA6	YLR447C	VMA1	YDL185W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Keenan Curtis K and Kane PM (2002) PMID:11717306	
+VMA6	YLR447C	VMA1	YDL185W	Reconstituted Complex	manually curated	Bait	No Modification	BioGRID	Thaker YR, et al. (2009) PMID:19289121	
+VMA6	YLR447C	VMA1	YDL185W	Co-purification	manually curated	Hit	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA6	YLR447C	VMA10	YHR039C-A	Reconstituted Complex	manually curated	Bait	No Modification	BioGRID	Rishikesan S, et al. (2009) PMID:19344662	
+VMA6	YLR447C	VMA13	YPR036W	PCA	high-throughput	Bait	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VMA13	YPR036W	Protein-peptide	high-throughput	Hit	No Modification	BioGRID	Parsons LS and Wilkens S (2012) PMID:23071676	
+VMA6	YLR447C	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA6	YLR447C	VMA2	YBR127C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	VMA21	YGR105W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Malkus P, et al. (2004) PMID:15356264	
+VMA6	YLR447C	VMA21	YGR105W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Compton MA, et al. (2006) PMID:16569636	
+VMA6	YLR447C	VMA21	YGR105W	PCA	high-throughput	Hit	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VMA21	YGR105W	Affinity Capture-MS	manually curated	Hit	No Modification	BioGRID	Ryan M, et al. (2008) PMID:18799613	The authors were interested in examining the V0Vma21p complex in the early stage of assembly in the ER membrane. Therefore, a vph1 deletion strain background was used because partially assembled V0Vma21p complex forms in the ER, but is unable to exit the ER.
+VMA6	YLR447C	VMA22	YHR060W	Two-hybrid	high-throughput	Hit	No Modification	BioGRID	Uetz P, et al. (2000) PMID:10688190	
+VMA6	YLR447C	VMA22	YHR060W	Two-hybrid	high-throughput	Hit	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	VMA22	YHR060W	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	VMA22	YHR060W	Two-hybrid	high-throughput	Hit	No Modification	BioGRID	Yu H, et al. (2008) PMID:18719252	
+VMA6	YLR447C	VMA4	YOR332W	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	VMA4	YOR332W	Protein-peptide	high-throughput	Hit	No Modification	BioGRID	Parsons LS and Wilkens S (2012) PMID:23071676	
+VMA6	YLR447C	VMA5	YKL080W	PCA	high-throughput	Hit	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VMA5	YKL080W	Protein-peptide	high-throughput	Hit	No Modification	BioGRID	Parsons LS and Wilkens S (2012) PMID:23071676	
+VMA6	YLR447C	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2002) PMID:11805826	
+VMA6	YLR447C	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	VMA7	YGR020C	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	VMA7	YGR020C	PCA	high-throughput	Hit	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VMA8	YEL051W	PCA	high-throughput	Hit	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VOA1	YGR106C	PCA	high-throughput	Hit	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Müller O, et al. (2002) PMID:11823419	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Kawasaki-Nishi S, et al. (2001) PMID:11592965	
+VMA6	YLR447C	VPH1	YOR270C	Co-fractionation	manually curated	Hit	No Modification	BioGRID	Oluwatosin YE and Kane PM (1998) PMID:9488470	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	VPH1	YOR270C	PCA	high-throughput	Bait	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Diepholz M, et al. (2008) PMID:19081055	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Ediger B, et al. (2009) PMID:19473972	
+VMA6	YLR447C	VPH1	YOR270C	Reconstituted Complex	manually curated	Bait	No Modification	BioGRID	Thaker YR, et al. (2009) PMID:19289121	
+VMA6	YLR447C	VPH1	YOR270C	Reconstituted Complex	manually curated	Hit	No Modification	BioGRID	Couoh-Cardel S, et al. (2015) PMID:26416888	
+VMA6	YLR447C	VPH1	YOR270C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Couoh-Cardel S, et al. (2015) PMID:26416888	
+VMA6	YLR447C	VPH1	YOR270C	Co-purification	manually curated	Hit	No Modification	BioGRID	Vasanthakumar T, et al. (2019) PMID:30910982	
+VMA6	YLR447C	VPH2	YKL119C	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	
+VMA6	YLR447C	YAP6	YDR259C	Two-hybrid	high-throughput	Bait	No Modification	BioGRID	Ito T, et al. (2001) PMID:11283351	
+VMA6	YLR447C	YOR1	YGR281W	Affinity Capture-MS	high-throughput	Hit	No Modification	BioGRID	Gavin AC, et al. (2006) PMID:16429126	

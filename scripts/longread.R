@@ -1,5 +1,4 @@
-source('/home/sbp29/R/Projects/methionine/paper/scripts/initialize.R')
-source("~/R/Projects/adaptivefitness/R/functions/initialize.sql.R")
+source(file = 'scripts/initialize.R')
 conn <- initialize.sql("saurin_test")
 orfid_crossmap <- dbGetQuery(conn, 'select * from CARVUNIS_YEAST.orf_ids_crossmap')
 orfid_crossmap <- orfid_crossmap[,c(1,8)]
@@ -9,7 +8,6 @@ head(orfid_crossmap)
 orfs <- readRDS('/home/aar75/rna_seq/Salmon_4_6_22/translatome.rds')
 
 ##### FEATURE COUNTS
-library(Rsubread)
 annot <- read.table(file = '/home/sbp29/RNASeq/YBR/translated_orfs_with_transient_status.gff3')
 annot <- annot[,c(9,1,4,5,7)]
 annot$V9 <- str_remove(str_split(annot$V9, ';', simplify = T)[,1], 'ID=')
@@ -31,25 +29,46 @@ annot$Chr[annot$Chr == 'chrXIV'] <- 'chr14'
 annot$Chr[annot$Chr == 'chrXV'] <- 'chr15'
 annot$Chr[annot$Chr == 'chrXVI'] <- 'chr16'
 
-sample_30b <- read.delim('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30b.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
-head(sample_30b)
-unique(sample_30b$chr)
 
-sample_30b %>%
-  group_by(chr) %>%
-  count()
+gtf <- file.path('~/RNASeq/YBR/scer.gtf')
+gtf <- rtracklayer::import(gtf)
+gtf_df=as.data.frame(gtf)
+gtf_df <- gtf_df %>%
+  filter(type == 'transcript')
 
-fc <- featureCounts(files=c('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30a.sam',
-                               '/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30b.sam',
-                            '/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30c.sam',
-                            '/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30d.sam'),
-                    annot.ext=annot,
+gtf_df$Chr <- as.character(gtf_df$seqnames)
+gtf_df$Chr[gtf_df$Chr == 'I'] <- 'chr1'
+gtf_df$Chr[gtf_df$Chr == 'II'] <- 'chr2'
+gtf_df$Chr[gtf_df$Chr == 'III'] <- 'chr3'
+gtf_df$Chr[gtf_df$Chr == 'IV'] <- 'chr4'
+gtf_df$Chr[gtf_df$Chr == 'V'] <- 'chr5'
+gtf_df$Chr[gtf_df$Chr == 'VI'] <- 'chr6'
+gtf_df$Chr[gtf_df$Chr == 'VII'] <- 'chr7'
+gtf_df$Chr[gtf_df$Chr == 'VIII'] <- 'chr8'
+gtf_df$Chr[gtf_df$Chr == 'IX'] <- 'chr9'
+gtf_df$Chr[gtf_df$Chr == 'X'] <- 'chr10'
+gtf_df$Chr[gtf_df$Chr == 'XI'] <- 'chr11'
+gtf_df$Chr[gtf_df$Chr == 'XII'] <- 'chr12'
+gtf_df$Chr[gtf_df$Chr == 'XIII'] <- 'chr13'
+gtf_df$Chr[gtf_df$Chr == 'XIV'] <- 'chr14'
+gtf_df$Chr[gtf_df$Chr == 'XV'] <- 'chr15'
+gtf_df$Chr[gtf_df$Chr == 'XVI'] <- 'chr16'
+gtf_df <- gtf_df[,c('gene_id','Chr','start','end','strand')]
+colnames(gtf_df) <- colnames(annot)
+
+fc <- featureCounts(files=c('/home/sbp29/RNASeq/YBR/minION/2208/sample_30a/sample30a.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30b/sample30b.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30c/sample30c.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30d/sample30d.sam'),
+                    # annot.ext=annot,
+                    annot.ext=gtf_df,
+                    # annot.ext=gtf,isGTFAnnotationFile=TRUE,
+                    minOverlap = 10,
                     allowMultiOverlap = TRUE,
-                    # isPairedEnd=FALSE,
-                    # countMultiMappingReads=TRUE,
+                    countMultiMappingReads=FALSE,
                     isLongRead = TRUE,
                     nthreads=12)
-
+save(fc, file = '~/R/Projects/ybr/output/YBR_longread_featureCount_sgd_withoverlap.RData')
 head(fc$counts)
 fc$counts %>%
   melt() %>%

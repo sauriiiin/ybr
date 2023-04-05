@@ -1,0 +1,13 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+ABF1	YKL112W	GCN1	YGL195W		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation-chip evidence	W303	MacIsaac KD, et al. (2006) PMID:16522208
+FKH1	YIL131C	GCN1	YGL195W		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation-chip evidence	W303	Ostrow AZ, et al. (2014) PMID:24504085
+FKH2	YNL068C	GCN1	YGL195W		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation-chip evidence	W303	Ostrow AZ, et al. (2014) PMID:24504085
+SFP1	YLR403W	GCN1	YGL195W		transcription	cellular response to stress	transcription factor		transcription	cellular response to stress	high-throughput	DNA to cDNA expression microarray evidence	CEN.PK	Cipollina C, et al. (2008) PMID:18524923

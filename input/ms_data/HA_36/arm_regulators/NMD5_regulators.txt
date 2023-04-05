@@ -1,0 +1,14 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+FKH1	YIL131C	NMD5	YJR132W		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation-chip evidence	W303	Ostrow AZ, et al. (2014) PMID:24504085
+RAP1	YNL216W	NMD5	YJR132W		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+SFP1	YLR403W	NMD5	YJR132W		transcription	cellular response to stress	transcription factor		transcription	cellular response to stress	high-throughput	DNA to cDNA expression microarray evidence	CEN.PK	Cipollina C, et al. (2008) PMID:18524923
+TFC7	YOR110W	NMD5	YJR132W		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+XBP1	YIL101C	NMD5	YJR132W		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885

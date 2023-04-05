@@ -1,0 +1,13 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+RAP1	YNL216W	LAA1	YJL207C		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Lickwar CR, et al. (2012) PMID:22498630
+STP1	YDR463W	LAA1	YJL207C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+TFC7	YOR110W	LAA1	YJL207C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+XBP1	YIL101C	LAA1	YJL207C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885

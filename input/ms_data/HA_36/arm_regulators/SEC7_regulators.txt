@@ -1,0 +1,14 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+CDC28	YBR160W	SEC7	YDR170C		protein activity		protein modifier		protein activity		high-throughput	quantitative mass spectrometry evidence	S288C	Holt LJ, et al. (2009) PMID:19779198
+FKH1	YIL131C	SEC7	YDR170C		transcription		transcription factor		transcription		high-throughput	chromatin immunoprecipitation- exonuclease evidence	S288C	Mondeel TDGA, et al. (2019) PMID:31299083
+RAD53	YPL153C	SEC7	YDR170C		protein activity		protein modifier		protein activity		high-throughput	protein kinase assay evidence	S288C	Lao JP, et al. (2018) PMID:30377154
+RFX1	YLR176C	SEC7	YDR170C		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+SFP1	YLR403W	SEC7	YDR170C		transcription	cellular response to stress	transcription factor		transcription	cellular response to stress	high-throughput	DNA to cDNA expression microarray evidence	CEN.PK	Cipollina C, et al. (2008) PMID:18524923

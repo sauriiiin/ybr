@@ -1,0 +1,13 @@
+"","ID","replicate","total_peptide_cnts","n"
+"1","attempt_1_doa10D_YBR_mNG_1",1,1007,192
+"2","attempt_1_WT_mNG_1",1,478,106
+"3","attempt_2_doa10D_mNG_1",1,4502,635
+"4","attempt_2_doa10D_YBR_mNG_1",1,13147,1183
+"5","attempt_2_WT_HA_1",1,6435,528
+"6","attempt_2_WT_HA_2",2,5166,489
+"7","attempt_2_WT_HA_3",3,5067,474
+"8","attempt_2_WT_mNG_1",1,4064,540
+"9","attempt_2_WT_YBR_HA_1",1,4647,541
+"10","attempt_2_WT_YBR_HA_2",2,5000,560
+"11","attempt_2_WT_YBR_HA_3",3,3273,445
+"12","attempt_2_WT_YBR_mNG_1",1,7532,869

@@ -1,0 +1,14 @@
+!
+!Date: 02/16/2023
+!From: Saccharomyces Genome Database (SGD) 
+!URL: http://www.yeastgenome.org/ 
+!Contact Email: sgd-helpdesk@lists.stanford.edu 
+!Funding: NHGRI at US NIH, grant number 5-U41-HG001315 
+!
+
+Regulator	Regulator Systematic Name	Target	Target Systematic Name	Direction	Regulation of	Happens During	Regulator Type	Direction	Regulation Of	Happens During	Method	Evidence	Strain Background	Reference
+CST6	YIL036W	KAP122	YGL016W		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+GCN5	YGR252W	KAP122	YGL016W		transcription	cellular response to heat	transcription factor		transcription	cellular response to heat	high-throughput	chromatin immunoprecipitation-chip evidence	S288C	Venters BJ, et al. (2011) PMID:21329885
+GCR1	YPL075W	KAP122	YGL016W		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+HSF1	YGL073W	KAP122	YGL016W		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638
+RAP1	YNL216W	KAP122	YGL016W		transcription		transcription factor		transcription		high-throughput	DNA to cDNA expression microarray evidence	S288C	Hu Z, et al. (2007) PMID:17417638

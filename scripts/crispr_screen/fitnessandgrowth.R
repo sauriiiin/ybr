@@ -84,6 +84,7 @@ ybr_crispr_fitness$average[ybr_crispr_fitness$average < (ybr_crispr_fitness$avg.
                        ybr_crispr_fitness$average > (ybr_crispr_fitness$avg.median + 2*ybr_crispr_fitness$avg.mad)] <- NA
 ybr_crispr_fitness$fitness[ybr_crispr_fitness$fitness < (ybr_crispr_fitness$fitness.median - 2*ybr_crispr_fitness$fitness.mad) |
                        ybr_crispr_fitness$fitness > (ybr_crispr_fitness$fitness.median + 2*ybr_crispr_fitness$fitness.mad)] <- NA
+ybr_crispr_fitness <- ybr_crispr_fitness[,c(1:14)]
 
 ybr_crispr_summary <- ybr_crispr_fitness %>%
   filter(orf_name %notin% c('BOR','NULL')) %>%
@@ -193,13 +194,13 @@ plot.fit.sum <- ybr_crispr_fitness %>%
   scale_fill_discrete(guide = 'none') +
   labs(y = 'Fitness') +
   facet_grid(density~condition,
-             labeller = labeller(condition = c('SA' = 'Salt',
-                                                      'HU' = 'Hydroxyurea',
-                                                      'HO' = 'Hydrogen Peroxide',
-                                                      'FL' = 'Fluconazole',
-                                                      'TN' = 'Tunicamycin',
+             labeller = labeller(condition = c('SA' = '1M NaCl',
+                                                      'HU' = '100mM Hydroxyurea',
+                                                      'HO' = '30mM Hydrogen Peroxide',
+                                                      'FL' = '25ug/ml Fluconazole',
+                                                      'TN' = '0.6uM Tunicamycin',
                                                       'YPDA' = 'YPDA',
-                                                      'DMSO' = 'DMSO'))) +
+                                                      'DM' = 'DMSO'))) +
   theme_linedraw() +
   theme(plot.title = element_text(size = titles + 2, face = 'bold', hjust = 0.5),
         axis.title = element_text(size = titles),

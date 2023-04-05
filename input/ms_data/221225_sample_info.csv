@@ -1,0 +1,94 @@
+﻿Attempt,Sample ID number ,Sample preparation,Stain,Molecular Weight,Sample description ,GEL SAMPLE ID,background,ybr_tag,replicate
+2,AFO-9,4-15% gradient gel slice,Sypro Ruby,>250 kDa,mNG-WT C,9,WT,mNG,1
+2,AFO-10,4-15% gradient gel slice,Sypro Ruby,~150-250 kDa,mNG-WT C,10,WT,mNG,1
+2,AFO-11,4-15% gradient gel slice,Sypro Ruby,~120-150,mNG-WT C,11,WT,mNG,1
+2,AFO-12,4-15% gradient gel slice,Sypro Ruby,~80-120 kDa,mNG-WT C,12,WT,mNG,1
+2,AFO-13,4-15% gradient gel slice,Sypro Ruby,~50-80 kDa,mNG-WT C,13,WT,mNG,1
+2,AFO-14,4-15% gradient gel slice,Sypro Ruby,~35-50 kDa,mNG-WT C,14,WT,mNG,1
+2,AFO-15,4-15% gradient gel slice,Sypro Ruby,~20-35 kDa,mNG-WT C,15,WT,mNG,1
+2,AFO-16,4-15% gradient gel slice,Sypro Ruby,<20 kDa,mNG-WT C,16,WT,mNG,1
+2,AFO-25,4-15% gradient gel slice,Sypro Ruby,>250 kDa,mNG-doa10 C,25,doa10D,mNG,1
+2,AFO-26,4-15% gradient gel slice,Sypro Ruby,~150-250 kDa,mNG-doa10 C,26,doa10D,mNG,1
+2,AFO-27,4-15% gradient gel slice,Sypro Ruby,~120-150,mNG-doa10 C,27,doa10D,mNG,1
+2,AFO-28,4-15% gradient gel slice,Sypro Ruby,~80-120 kDa,mNG-doa10 C,28,doa10D,mNG,1
+2,AFO-29,4-15% gradient gel slice,Sypro Ruby,~50-80 kDa,mNG-doa10 C,29,doa10D,mNG,1
+2,AFO-30,4-15% gradient gel slice,Sypro Ruby,~35-50 kDa,mNG-doa10 C,30,doa10D,mNG,1
+2,AFO-31,4-15% gradient gel slice,Sypro Ruby,~20-35 kDa,mNG-doa10 C,31,doa10D,mNG,1
+2,AFO-32,4-15% gradient gel slice,Sypro Ruby,<20 kDa,mNG-doa10 C,32,doa10D,mNG,1
+2,AFO-49,4-15% gradient gel slice,Sypro Ruby,>250 kDa,YBRmNG-WT C,49,WT,YBR_mNG,1
+2,AFO-50,4-15% gradient gel slice,Sypro Ruby,~150-250 kDa,YBRmNG-WT C,50,WT,YBR_mNG,1
+2,AFO-51,4-15% gradient gel slice,Sypro Ruby,~120-150,YBRmNG-WT C,51,WT,YBR_mNG,1
+2,AFO-52,4-15% gradient gel slice,Sypro Ruby,~80-120 kDa,YBRmNG-WT C,52,WT,YBR_mNG,1
+2,AFO-53,4-15% gradient gel slice,Sypro Ruby,~50-80 kDa,YBRmNG-WT C,53,WT,YBR_mNG,1
+2,AFO-54,4-15% gradient gel slice,Sypro Ruby,~35-50 kDa,YBRmNG-WT C,54,WT,YBR_mNG,1
+2,AFO-55,4-15% gradient gel slice,Sypro Ruby,~20-35 kDa,YBRmNG-WT C,55,WT,YBR_mNG,1
+2,AFO-56,4-15% gradient gel slice,Sypro Ruby,<20 kDa,YBRmNG-WT C,56,WT,YBR_mNG,1
+2,AFO-73,4-15% gradient gel slice,Sypro Ruby,>250 kDa,YBR-mNG-doa10C,73,doa10D,YBR_mNG,1
+2,AFO-74,4-15% gradient gel slice,Sypro Ruby,~150-250 kDa,YBR-mNG-doa10C,74,doa10D,YBR_mNG,1
+2,AFO-75,4-15% gradient gel slice,Sypro Ruby,~120-150,YBR-mNG-doa10C,75,doa10D,YBR_mNG,1
+2,AFO-76,4-15% gradient gel slice,Sypro Ruby,~80-120 kDa,YBR-mNG-doa10C,76,doa10D,YBR_mNG,1
+2,AFO-77,4-15% gradient gel slice,Sypro Ruby,~50-80 kDa,YBR-mNG-doa10C,77,doa10D,YBR_mNG,1
+2,AFO-78,4-15% gradient gel slice,Sypro Ruby,~35-50 kDa,YBR-mNG-doa10C,78,doa10D,YBR_mNG,1
+2,AFO-79,4-15% gradient gel slice,Sypro Ruby,~20-35 kDa,YBR-mNG-doa10C,79,doa10D,YBR_mNG,1
+2,AFO-80,4-15% gradient gel slice,Sypro Ruby,<20 kDa,YBR-mNG-doa10C,80,doa10D,YBR_mNG,1
+2,AFO-91,4-20% gradient gel slice,Sypro Ruby,>250 kDa,untagged yeast rep 1,91,WT,HA,1
+2,AFO-92,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,untagged yeast rep 1,92,WT,HA,1
+2,AFO-93,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,untagged yeast rep 1,93,WT,HA,1
+2,AFO-94,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,untagged yeast rep 1,94,WT,HA,1
+2,AFO-95,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,untagged yeast rep 1,95,WT,HA,1
+2,AFO-96,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,untagged yeast rep 1,96,WT,HA,1
+2,AFO-97,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,untagged yeast rep 1,97,WT,HA,1
+2,AFO-98,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,untagged yeast rep 1,98,WT,HA,1
+2,AFO-99,4-20% gradient gel slice,Sypro Ruby,>250 kDa,untagged yeast rep 2,99,WT,HA,2
+2,AFO-100,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,untagged yeast rep 2,100,WT,HA,2
+2,AFO-101,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,untagged yeast rep 2,101,WT,HA,2
+2,AFO-102,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,untagged yeast rep 2,102,WT,HA,2
+2,AFO-103,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,untagged yeast rep 2,103,WT,HA,2
+2,AFO-104,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,untagged yeast rep 2,104,WT,HA,2
+2,AFO-105,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,untagged yeast rep 2,105,WT,HA,2
+2,AFO-106,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,untagged yeast rep 2,106,WT,HA,2
+2,AFO-107,4-20% gradient gel slice,Sypro Ruby,>250 kDa,untagged yeast rep 3,107,WT,HA,3
+2,AFO-108,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,untagged yeast rep 3,108,WT,HA,3
+2,AFO-109,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,untagged yeast rep 3,109,WT,HA,3
+2,AFO-110,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,untagged yeast rep 3,110,WT,HA,3
+2,AFO-111,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,untagged yeast rep 3,111,WT,HA,3
+2,AFO-112,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,untagged yeast rep 3,112,WT,HA,3
+2,AFO-113,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,untagged yeast rep 3,113,WT,HA,3
+2,AFO-114,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,untagged yeast rep 3,114,WT,HA,3
+2,AFO-115,4-20% gradient gel slice,Sypro Ruby,>250 kDa,YBR-HA yeast rep 1,115,WT,YBR_HA,1
+2,AFO-116,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,YBR-HA yeast rep 1,116,WT,YBR_HA,1
+2,AFO-117,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,YBR-HA yeast rep 1,117,WT,YBR_HA,1
+2,AFO-118,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,YBR-HA yeast rep 1,118,WT,YBR_HA,1
+2,AFO-119,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,YBR-HA yeast rep 1,119,WT,YBR_HA,1
+2,AFO-120,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,YBR-HA yeast rep 1,120,WT,YBR_HA,1
+2,AFO-121,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,YBR-HA yeast rep 1,121,WT,YBR_HA,1
+2,AFO-122,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,YBR-HA yeast rep 1,122,WT,YBR_HA,1
+2,AFO-123,4-20% gradient gel slice,Sypro Ruby,>250 kDa,YBR-HA yeast rep 2,123,WT,YBR_HA,2
+2,AFO-124,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,YBR-HA yeast rep 2,124,WT,YBR_HA,2
+2,AFO-125,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,YBR-HA yeast rep 2,125,WT,YBR_HA,2
+2,AFO-126,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,YBR-HA yeast rep 2,126,WT,YBR_HA,2
+2,AFO-127,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,YBR-HA yeast rep 2,127,WT,YBR_HA,2
+2,AFO-128,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,YBR-HA yeast rep 2,128,WT,YBR_HA,2
+2,AFO-129,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,YBR-HA yeast rep 2,129,WT,YBR_HA,2
+2,AFO-130,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,YBR-HA yeast rep 2,130,WT,YBR_HA,2
+2,AFO-131,4-20% gradient gel slice,Sypro Ruby,>250 kDa,YBR-HA yeast rep 3,131,WT,YBR_HA,3
+2,AFO-132,4-20% gradient gel slice,Sypro Ruby,~120-250 kDa,YBR-HA yeast rep 3,132,WT,YBR_HA,3
+2,AFO-133,4-20% gradient gel slice,Sypro Ruby,~ 60 - 120 kDa,YBR-HA yeast rep 3,133,WT,YBR_HA,3
+2,AFO-134,4-20% gradient gel slice,Sypro Ruby,~ 40-60 kDa,YBR-HA yeast rep 3,134,WT,YBR_HA,3
+2,AFO-135,4-20% gradient gel slice,Sypro Ruby,~ 30-40 kDa,YBR-HA yeast rep 3,135,WT,YBR_HA,3
+2,AFO-136,4-20% gradient gel slice,Sypro Ruby,~ 20-30 kDa,YBR-HA yeast rep 3,136,WT,YBR_HA,3
+2,AFO-137,4-20% gradient gel slice,Sypro Ruby,~10-20 kDa,YBR-HA yeast rep 3,137,WT,YBR_HA,3
+2,AFO-138,4-20% gradient gel slice,Sypro Ruby,~5-10 kDa,YBR-HA yeast rep 3,138,WT,YBR_HA,3
+1,AFO01,,Sypro Ruby,,YBR-mNG-doa10C,1,doa10D,YBR_mNG,1
+1,AFO02,,Sypro Ruby,,YBR-mNG-doa10C,2,doa10D,YBR_mNG,1
+1,AFO03,,Sypro Ruby,,YBR-mNG-doa10C,3,doa10D,YBR_mNG,1
+1,AFO04,,Sypro Ruby,,YBR-mNG-doa10C,4,doa10D,YBR_mNG,1
+1,AFO05,,Sypro Ruby,,YBR-mNG-doa10C,5,doa10D,YBR_mNG,1
+1,AFO06,,Sypro Ruby,,YBR-mNG-doa10C,6,doa10D,YBR_mNG,1
+1,AFO07,,Sypro Ruby,,mNG-WT C,7,WT,mNG,1
+1,AFO08,,Sypro Ruby,,mNG-WT C,8,WT,mNG,1
+1,AFO09,,Sypro Ruby,,mNG-WT C,9,WT,mNG,1
+1,AFO10,,Sypro Ruby,,mNG-WT C,10,WT,mNG,1
+1,AFO11,,Sypro Ruby,,mNG-WT C,11,WT,mNG,1
+1,AFO12,,Sypro Ruby,,mNG-WT C,12,WT,mNG,1
+1,AFO13,,Sypro Ruby,,mNG-WT C,13,WT,mNG,1

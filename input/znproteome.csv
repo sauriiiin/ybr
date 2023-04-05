@@ -1,0 +1,630 @@
+﻿Systematic Name,NCBI code,Gene Name,Uniprot ID,Annotation,Predicted Number of Zinc Ions Per Monomer,Subcellular Location,Zinc ligands,Structural Zn-site classification,Zinc Function,Zn-binding domain,EC number,Enzyme Class
+YOL086C,NP_014555 ,ADH1,P00330,NP_014555.1 alcohol dehydrogenase ADH1 [Saccharomyces cerevisiae S288c],2,cytosol,"C44, H67, E68, C98, C101, C104, C112","ZincNecklaces,  NoCluster","Catalytic,Structural",ADH_N,1.1.1.1,oxidoreductase
+YKL060C,NP_012863 ,FBA1,P14540,NP_012863.1 fructose-bisphosphate aldolase FBA1 [Saccharomyces cerevisiae S288c],1,cytosol,"D110, H111, D145, E173, E175, E182, H227, H265, K285, G266, S268",NoCluster,Catalytic,F_bP_aldolase,4.1.2.13,lyase
+YKL156W,NP_012766 ,RPS27A,P35997,NP_012766.1 ribosomal 40S subunit protein S27A [Saccharomyces cerevisiae S288c],1,cytosol,"C37, C56, C59",ZincRibbon,Structural,Ribosomal_S27e,,
+YDR524C,NP_012628,RPL43A,P0CX25,NP_012628.3 ribosomal 60S subunit protein L43B [Saccharomyces cerevisiae S288c],1,cytosol,"C39, C42, C57, C60",TrebleClef,Structural,C4-type,,
+YLR388W,NP_013492,RPS29A,P41057,NP_013492.3 ribosomal 40S subunit protein S29A [Saccharomyces cerevisiae S288c],1,cytosol,"C21, C24, C39, C42",TrebleClef,Structural,Ribosomal_S14,,
+YGL189C,NP_011326 ,RPS26A,P39938,NP_011326.1 ribosomal 40S subunit protein S26A [Saccharomyces cerevisiae S288c],1,cytosol,"C23, C26, C74, C77",TrebleClef,Structural,Ribosomal_S26e,,
+YDR500C,NP_010788,RPL37B,P51402,NP_010788.1 ribosomal 60S subunit protein L37B [Saccharomyces cerevisiae S288c],1,cytosol,"C19, C22, C34, C37",ZincRibbon,Structural,C4-type,,
+YNL162W,NP_012010,RPL42A,P0CX27,NP_012010.1 ribosomal 60S subunit protein L42B [Saccharomyces cerevisiae S288c],1,cytosol,"C12, C17, H20, H23, C74, C77, C88",ZincRibbon,Structural,Ribosomal_L44 (Pfam),,
+YDL061C,NP_010222,RPS29B,P41058,NP_010222.1 ribosomal 40S subunit protein S29B [Saccharomyces cerevisiae S288c],1,cytosol,"C21, C24, C39, C42",TrebleClef,Structural,Ribosomal_S14,,
+YLR167W,NP_013268 ,RPS31,P05759,NP_013268.1 ubiquitin-ribosomal 40S subunit protein S31 fusion protein [Saccharomyces cerevisiae S288c],1,cytosol,"C121, C126, C141, C144",ZincRibbon,Structural,Ribosomal_S27,,
+YLR185W,NP_013286,RPL37A,P49166,NP_013286.1 ribosomal 60S subunit protein L37A [Saccharomyces cerevisiae S288c],1,cytosol,"C19, C22, C34, C37",ZincRibbon,Structural,C4-type,,
+YJR104C,NP_012638 ,SOD1,P00445,NP_012638.1 superoxide dismutase SOD1 [Saccharomyces cerevisiae S288c],1,cytosol,"H47, H49, H64, H72, H81, D84, H121",NoCluster,Structural,Sod_Cu,1.15.1.1,oxidoreductase
+YER091C,NP_011015 ,MET6,P05694,NP_011015.3 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase [Saccharomyces cerevisiae S288c],1,cytosol,"H655, C657, E677, C737",ZincRafts,Catalytic,Meth_synt_2,2.1.1.14,transferase
+YOL154W,NP_014488 ,ZPS1,Q12512,NP_014488.1 Zps1p [Saccharomyces cerevisiae S288c],N/A,cell wall,,,Transport,,,
+YIL148W,NP_012118 ,RPL40A,P0CH08,NP_012118.1 ubiquitin-ribosomal 60S subunit protein L40A fusion protein [Saccharomyces cerevisiae S288c],1,cytosol,"C96, C99, C110, C115",ZincRibbon,Structural,Ribosomal_L40e,,
+YDL182W,NP_010099 ,LYS20,P48570,NP_010099.1 homocitrate synthase LYS20 [Saccharomyces cerevisiae S288c],1,nucleus,"E32, H212, H214",ZincRafts,Catalytic,HMGL-like,2.3.3.14,transferase
+YHR020W,NP_011884 ,YHI0,P38708,NP_011884.1 proline--tRNA ligase [Saccharomyces cerevisiae S288c],1,cytosol,"C620, C625, C671, C674",TrebleClef,Structural,ProRS-C_1,6.1.1.15,ligase
+YIL078W,NP_116578 ,THS1,P04801,NP_116578.3 threonine--tRNA ligase THS1 [Saccharomyces cerevisiae S288c],2,cytosol,"C268, H272, C420, H471, H599, H151, H155",ZincRafts,Catalytic,"tRNA-synt_2b,tRNA_SAD",6.1.1.3,ligase
+YCL030C,NP_009900 ,HIS4,P00815,NP_009900.2 trifunctional histidinol dehydrogenase/phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase [Saccharomyces cerevisiae S288c],1,cytosol,"Q618, H621, D721, H780",NoCluster,Catalytic,Histidinol_dh,"3.5.4.19, 3.6.1.31, 1.1.1.23","hydrolase, oxidoreductase"
+YPR041W,NP_015366 ,TIF5,P38431,NP_015366.1 translation initiation factor eIF5 [Saccharomyces cerevisiae S288c],1,cytosol,"C99, C102, C121, C124",ZincRibbon,Structural,eIF-5_eIF-2B,,
+YOR335C,NP_014980 ,ALA1,P40825,NP_014980.3 alanine--tRNA ligase [Saccharomyces cerevisiae S288c],1,cytosol,"C719, H723, H600, H604",HelicalAnchors,Unknown,tRNA_SAD,6.1.1.7,ligase
+YBR218C,NP_009777 ,PYC2,P32327,NP_009777.1 pyruvate carboxylase 2 [Saccharomyces cerevisiae S288c],1,cytosol,"D567, K735, H765, H767",ZincRafts,Catalytic,HMGL-like,6.4.1.1,ligase
+YDL125C,NP_010158 ,HNT1,Q04344,NP_010158.1 adenosine 5'-monophosphoramidase [Saccharomyces cerevisiae S288c],1,Unknown,C25-C28-H67-H114,C2H2_ZnFinger,Structural,"DcpS_C,HIT",3.-.-.-,hydrolase
+YFR044C,NP_116702 ,DUG1,P43616,NP_116702.1 metallodipeptidase [Saccharomyces cerevisiae S288c],2,cytosol,"H102, D137, E172, D200, H450",NoCluster,Catalytic,Peptidase_M20,3.4.13.-,hydrolase
+YER003C,NP_010918 ,PMI40,P29952,NP_010918.1 mannose-6-phosphate isomerase PMI40 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","Q109, H111, E136, H281, E290",ZincRafts,Catalytic,PMI_typeI,5.3.1.8,isomerase
+YGL255W,NP_011259 ,ZRT1,P32804,NP_011259.1 high-affinity Zn(2+) transporter ZRT1 [Saccharomyces cerevisiae S288c],N/A,plasma membrane,Unknown,Unknown,Transport,ZIP (Pfam),,
+YGR264C,NP_011780 ,MES1,P00958,NP_011780.3 methionine--tRNA ligase MES1 [Saccharomyces cerevisiae S288c],1,cytosol,"C337, C340, C350, C353",ZincRibbon,Structural,tRNA-synt_1g,6.1.1.10,ligase
+YNL064C,NP_014335 ,YDJ1,P25491,NP_014335.1 type I HSP40 co-chaperone YDJ1 [Saccharomyces cerevisiae S288c],2,cytosol,"C143, C146, C159, C162, C185, C188, C201, C204",Shuffled_ZnRibbon,Structural,DnaJ_CXXCXGXG,,
+YPL237W,NP_015087 ,SUI3,P09064,NP_015087.1 translation initiation factor eIF2 subunit beta [Saccharomyces cerevisiae S288c],1,cytosol,"C236, C239, C259, C262",ZincRibbon,Structural,eIF-5_eIF-2B,,
+YNL104C,NP_014295 ,LEU4,P06208,NP_014295.1 2-isopropylmalate synthase LEU4 [Saccharomyces cerevisiae S288c],2,mitochondrion,"D70, H275, H277, N311",ZincRafts,Catalytic,HMGL-like,2.3.3.13,transferase
+YLR244C,NP_013345 ,MAP1,Q01662,NP_013345.1 methionine aminopeptidase MAP1 [Saccharomyces cerevisiae S288c],2,cytosol,"D219, D230, H294, E327, E358",ZincRafts,Catalytic,Peptidase_M24,3.4.11.18,hydrolase
+YBR286W,NP_009845 ,APE3,P37302,NP_009845.2 Ape3p [Saccharomyces cerevisiae S288c],2,vacuole,"H314, D326, D327, E358, E359, D387, H472",NoCluster,Catalytic,Peptidase_M28,3.4.11.15,hydrolase
+YDR429C,NP_010717 ,TIF35,Q04067,NP_010717.1 translation initiation factor eIF3 core subunit g [Saccharomyces cerevisiae S288c],1,cytosol,"C109, C112, H116, C121",ZincRibbon,Structural,eIF3g,,
+YLR420W,NP_013524,URA4,P20051,NP_013524.1 dihydroorotase [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","H14, H16",Unknown,Unknown,Unknown,3.5.2.3,hydrolase
+YOR168W,NP_014811 ,GLN4,P13188,NP_014811.3 glutamine--tRNA ligase [Saccharomyces cerevisiae S288c],1,cytosol,"C346, C348, C372, H374",Loosened_ZnRibbon,Structural,tRNA-synt_1c,6.1.1.18,ligase
+YDL100C,NP_010183 ,GET3,Q12154,NP_010183.1 guanine nucleotide exchange factor GET3 [Saccharomyces cerevisiae S288c],1,ER,"C285, C288",TrebleClef,Structural,ArsA_ATPase,3.6.-.-,hydrolase
+YGL037C,NP_011478 ,PNC1,P53184,NP_011478.3 nicotinamidase [Saccharomyces cerevisiae S288c],1,perixisome,"D51, H53, E87, H94, C167",ZincRafts,Catalytic,Isochorismatase,3.5.1.19,hydrolase
+YMR083W,NP_013800 ,ADH3,P07246,NP_013800.1 alcohol dehydrogenase ADH3 [Saccharomyces cerevisiae S288c],2,mitochondrion,"C71, H94, E95, C125, C128, C131, C139, D141","ZincNecklaces,  NoCluster","Catalytic,Structural",ADH_N,1.1.1.1,oxidoreductase
+YDR127W,NP_010412 ,ARO1,P08566,NP_010412.1 pentafunctional protein ARO1p [Saccharomyces cerevisiae S288c],1,cytosol,"E189, H279, H295",NoCluster,Catalytic,DHQ_synthase,"4.2.3.4, 2.5.1.19, 2.7.1.71, 4.2.1.10, 1.1.1.25","lyase, transferase"
+YEL020W-A,NP_010894 ,TIM9,O74700,NP_010894.1 protein transporter TIM9 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C35, C39, C55, C59",Unknown,Structural,zf-Tim10_DDP (Pfam),,
+YHR098C,NP_011966 ,SFB3,P38810,NP_011966.1 Sfb3p [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C220, C223, C241, C244",ZincRibbon,Structural,zf-Sec23_Sec24,,
+YHR143W-A,NP_012013 ,RPC10,P40422,NP_012013.1 DNA-directed RNA polymerase core subunit RPC10 [Saccharomyces cerevisiae S288c],1,nucleus,"C31, C34, C48, C51",ZincRibbon,Structural,DNA_RNApol_7kD,,
+YDL226C,NP_010055 ,GCS1,P35197,NP_010055.1 Gcs1p [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C26, C29, C46, C49",TrebleClef,Structural,ArfGap,,
+YPR062W,NP_015387 ,FCY1,Q12178,NP_015387.1 cytosine deaminase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H62, E64, C91, C94","ZincNecklaces,  NoCluster",Catalytic,dCMP_cyt_deam_1,3.5.4.1,hydrolase
+YMR318C,NP_014051 ,ADH6,Q04894,NP_014051.3 NADP-dependent alcohol dehydrogenase [Saccharomyces cerevisiae S288c],2,cytosol,"C46, S48, H68, E69, C100, C103, C106, C114","ZincNecklaces,  NoCluster","Catalytic,Structural",ADH_N,1.1.1.2,oxidoreductase
+YJR029W,NP_012562,TY1B-JR2,P47100,NP_012562.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YJL121C,NP_012414 ,RPE1,P46969,NP_012414.1 ribulose-phosphate 3-epimerase RPE1 [Saccharomyces cerevisiae S288c],1,cytosol,"H34, D36, H80, D185",ZincRafts,Catalytic,Ribul_P_3_epim,5.1.3.1,isomerase
+YPR181C,NP_015507 ,SEC23,P15303,NP_015507.1 GTPase-activating protein SEC23 [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C56, C61, C80, C83, C35",ZincRibbon,Structural,zf-Sec23_Sec24,,
+YAL060W,NP_009341 ,BDH1,P39714,"NP_009341.2 (R,R)-butanediol dehydrogenase [Saccharomyces cerevisiae S288c]",2,cytosol,"C39, S41, H73, E74, C103, C120, C123, C131","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,1.1.1.4,oxidoreductase
+YPL111W,NP_015214,CAR1,P00812,NP_015214.1 arginase [Saccharomyces cerevisiae S288c],1,cytosol,Unknown,Unknown,Unknown,Unknown,3.5.3.1,hydrolase
+YNL247W,NP_014152 ,YNL247W,P53852,NP_014152.1 cysteine--tRNA ligase [Saccharomyces cerevisiae S288c],1,cytosol,"C63, C369, H394, E398",HelicalAnchors,Catalytic,tRNA-synt_1e,6.1.1.16,ligase
+YDL168W,NP_010113 ,SFA1,P32771,NP_010113.1 bifunctional alcohol dehydrogenase/S-(hydroxymethyl)glutathione dehydrogenase [Saccharomyces cerevisiae S288c],2,cytosol,"C49, H71, E72, C101, C104, C107, C115","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,"1.1.1.284, 1.1.1.1, 1.1.1.-",oxidoreductase
+YJL172W,NP_012363 ,CPS1,P27614,NP_012363.1 Gly-Xaa carboxypeptidase [Saccharomyces cerevisiae S288c],2,vacuole,"H168, D205, E240, D268, H547",NoCluster,Catalytic,Peptidase_M20,3.4.17.4,hydrolase
+YPL273W,NP_015050 ,SAM4,Q08985,NP_015050.1 S-adenosylmethionine-homocysteine S-methyltransferase SAM4 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C239, N266, C306, C307",NoCluster,Catalytic,S-methyl_trans,2.1.1.10,transferase
+YKL157W,NP_012765 ,APE2,P32454,NP_012765.3 metallo-aminopeptidase [Saccharomyces cerevisiae S288c],1,cell wall,"H396, H400, E419",HelicalAnchors,Catalytic,Peptidase_M1,3.4.11.-,hydrolase
+YIL137C,NP_012129 ,TMA108,P40462,NP_012129.1 Tma108p [Saccharomyces cerevisiae S288c],1,cytosol,"H330, H334, E353",HelicalAnchors,Catalytic,Peptidase_M1,3.4.11.-,hydrolase
+YJR135W-A,NP_058168 ,TIM8,P57744,NP_058168.1 protein transporter TIM8 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C44, C48, C64, C68",Unknown,Structural,zf-Tim10_DDP (Pfam),,
+YMR243C,NP_013970,ZRC1,P20107,NP_013970.1 Zn(2+) transporter ZRC1 [Saccharomyces cerevisiae S288c],N/A,vacuole,,,Transport,,,
+YNL049C,NP_014349 ,SFB2,P53953,NP_014349.1 COPII subunit SFB2 [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C164, C167, C186, C189",ZincRibbon,Structural,zf-Sec23_Sec24,,
+YHR005C-A,NP_011869 ,TIM10,P87108,NP_011869.1 protein transporter TIM10 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C40, C44, C61, C65",Unknown,Structural,zf-Tim10_DDP (Pfam),,
+YBR170C,NP_009729 ,NPL4,P33755,NP_009729.1 Npl4p [Saccharomyces cerevisiae S288c],2,"ER, nucleus",C204-H208-C216-C219,Unknown,Structural,zf-NPL4,,
+YOR207C,NP_014850 ,RET1,P22276,NP_014850.1 DNA-directed RNA polymerase III core subunit RET1 [Saccharomyces cerevisiae S288c],1,nucleus,"C1095, C1098, C1107, C1110",ZincRibbon,Structural,RNA_pol_Rpb2_7,2.7.7.6,transferase
+YGR181W,NP_011697 ,TIM13,P53299,NP_011697.3 protein translocase subunit TIM13 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C57, C61, C73, C77",Unknown,Structural,zf-Tim10_DDP (Pfam),,
+YOR341W,NP_014986 ,RPA190,P10964,NP_014986.3 DNA-directed RNA polymerase I core subunit RPA190 [Saccharomyces cerevisiae S288c],2,nucleus,"C62, C65, C72, H75, C102, C105, C233, C236",Loosened_ZnRibbon,Structural,RNA_pol_Rpb1_1,2.7.7.6,transferase
+YDL131W,NP_010151 ,LYS21,Q12122,NP_010151.1 homocitrate synthase LYS21 [Saccharomyces cerevisiae S288c],1,nucleus,"E46, H226, H228",ZincRafts,Catalytic,HMGL-like,2.3.3.14,transferase
+YOR210W,NP_014853 ,RPB10,P22139,NP_014853.3 DNA-directed RNA polymerase core subunit RPB10 [Saccharomyces cerevisiae S288c],1,nucleus,"C7, C10, C45, C46",TrebleClef,Structural,RNA_pol_N,,
+YIL108W,NP_012158 ,YIK8,P40483,NP_012158.1 putative metalloendopeptidase [Saccharomyces cerevisiae S288c],1,cytosol,"H318, H322, H328",Unknown,Unknown,Unknown,3.4.24.-,hydrolase
+YDL140C,NP_010141 ,RPO21,P04050,NP_010141.1 DNA-directed RNA polymerase II core subunit RPO21 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C67, Q68, C70, C77, H80, C107, M108, C110, V147, C148, C167",Loosened_ZnRibbon,Structural,RNA_pol_Rpb1_1,2.7.7.6,transferase
+YER131W,NP_011057 ,RPS26B,P39939,NP_011057.1 ribosomal 40S subunit protein S26B [Saccharomyces cerevisiae S288c],1,cytosol,"C23, C26, C74, C77",TrebleClef,Structural,Ribosomal_S26e,,
+YOR151C,NP_014794 ,RPB2,P08518,NP_014794.3 DNA-directed RNA polymerase II core subunit RPB2 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C1163, C1166, C1182, C1185",ZincRibbon,Structural,RNA_pol_Rpb2_7,2.7.7.6,transferase
+YGL187C,NP_011328 ,COX4,P04037,NP_011328.1 cytochrome c oxidase subunit IV [Saccharomyces cerevisiae S288c],1,mitochondrion,"C111, H119, C134, C137",Loosened_ZnRibbon,Structural,COX5B,1.9.3.1,oxidoreductase
+YGL043W,NP_011472 ,DST1,P07273,NP_011472.1 Dst1p [Saccharomyces cerevisiae S288c],1,nucleus,"C271, K273, C274, C299, C302",ZincRibbon,Structural,TFIIS_C,,
+YER122C,NP_011048 ,GLO3,P38682,NP_011048.1 ADP-ribosylation factor GTPase-activating protein [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C31, C34, C51, C54",TrebleClef,Structural,ArfGap,,
+YGR267C,NP_011783 ,FOL2,P51601,NP_011783.1 GTP cyclohydrolase I [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C132, H135, C203",C2H2_ZnFinger,Catalytic,GTP_cyclohydroI,3.5.4.16,hydrolase
+YPL212C,NP_015112,PUS1,Q12211,NP_015112.1 pseudouridine synthase PUS1 [Saccharomyces cerevisiae S288c],1,nucleus,Unknown,Unknown,Unknown,Unknown,5.4.99.-,isomerase
+YIL109C,NP_012157 ,SEC24,P40482,NP_012157.3 COPII subunit SEC24 [Saccharomyces cerevisiae S288c],1,ER to Golgi,"C231, C234, C253, C256",ZincRibbon,Structural,zf-Sec23_Sec24,,
+YFR004W,NP_116659 ,RPN11,P43588,NP_116659.1 proteasome regulatory particle lid subunit RPN11 [Saccharomyces cerevisiae S288c],1,"cytosol,nucleus","H109, H111, D122",C2H2_ZnFinger,Catalytic,"Prok-JAB,JAB",3.4.19.12,hydrolase
+YIR008C,NP_012273 ,PRI1,P10363,NP_012273.1 DNA primase subunit PRI1 [Saccharomyces cerevisiae S288c],1,nucleus,"C123, C124, C130, C133",NoCluster,Unknown,DNA_primase_S,2.7.7.-,transferase
+YPR010C,NP_015335 ,RPA135,P22138,NP_015335.1 DNA-directed RNA polymerase I core subunit RPA135 [Saccharomyces cerevisiae S288c],1,nucleus,"C1104, C1107",ZincRibbon,Structural,RNA_pol_Rpb2_7,2.7.7.6,transferase
+YDR430C,NP_010718 ,CYM1,P32898,NP_010718.1 Cym1p [Saccharomyces cerevisiae S288c],1,mitochondrion,"H84, H88",HelicalAnchors,Catalytic,Peptidase_M16,3.4.24.-,hydrolase
+YGR211W,NP_011727 ,ZPR1,P53303,NP_011727.3 zinc finger-containing protein ZPR1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C54, C57, C83, C86, C295, C298, C324, C327",ZincRibbon,Structural,zf-ZPR1,,
+YGL040C,NP_011475 ,HEM2,P05373,NP_011475.1 porphobilinogen synthase HEM2 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C133, C135, C143, D180",NoCluster,Catalytic,ALAD,4.2.1.24,lyase
+YDR120C,NP_010405 ,TRM1,P15565,NP_010405.3 tRNA (guanine26-N2)-dimethyltransferase [Saccharomyces cerevisiae S288c],1,nucleus,"C330, C333, C370, C373",ZincRibbon,Structural,TRM,2.1.1.216,transferase
+YOL057W,NP_014584 ,DPP3,Q08225,NP_014584.1 dipeptidyl-peptidase III [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H460, H465, E517",HelicalAnchors,Catalytic,Peptidase_M49,3.4.14.4,hydrolase
+YNL330C,NP_014069 ,RPD3,P32561,NP_014069.1 histone deacetylase RPD3 [Saccharomyces cerevisiae S288c],1,nucleus,"H38, D184, D186, H188, S207, F208, D274","ZincNecklaces, NoCluster",Catalytic,Hist_deacetyl,3.5.1.98,hydrolase
+YGL256W,NP_011258 ,ADH4,P10127,NP_011258.2 alcohol dehydrogenase ADH4 [Saccharomyces cerevisiae S288c],1,mitochondrion,"D195, H199, H264, H278, H275",NoCluster,Catalytic,"Fe-ADH_2,Fe-ADH",1.1.1.1,oxidoreductase
+YLR401C,NP_013505,DUS3,Q06053,NP_013505.4 tRNA dihydrouridine synthase DUS3 [Saccharomyces cerevisiae S288c],2,nucleus,"C98, C109, C115, H119, C140, C149, C155, H161",NoCluster,Structural,"C3H1-type, C3H1-type",1.3.1.89,oxidoreductase
+YDR272W,NP_010558 ,GLO2,Q05584,NP_010558.3 hydroxyacylglutathione hydrolase GLO2 [Saccharomyces cerevisiae S288c],2,cytosol,"H59, H61, D63, H64, H121, D144, H188",ZincNecklaces,Catalytic,Lactamase_B,3.1.2.6,hydrolase
+YFR037C,NP_116695 ,RSC8,P43609,NP_116695.3 Rsc8p [Saccharomyces cerevisiae S288c],1,nucleus,"C260, C263, C283, C286","TrebleClef, C2H2_ZnFinger",Structural,ZZ,,
+YJR063W,NP_012597 ,RPA12,P32529,NP_012597.1 DNA-directed RNA polymerase I core subunit RPA12 [Saccharomyces cerevisiae S288c],2,nucleus,"C10, C13, C30, Q32, C33, C86, C89, C114, C117",ZincRibbon,Structural,"RNA_POL_M_15KD,TFIIS_C",,
+YGL019W,NP_011496 ,CKB1,P43639,NP_011496.3 casein kinase 2 regulatory subunit CKB1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C156, C161, C184, C187",ZincRibbon,Structural,CK_II_beta,,
+YOR316C,NP_014961,COT1,P32798,NP_014961.3 metal cation transporter COT1 [Saccharomyces cerevisiae S288c],N/A,vacuole,,,Transport,,,
+YNL141W,NP_014258 ,AAH1,P53909,NP_014258.1 adenine deaminase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H16, H18, H204, D285",NoCluster,Catalytic,A_deaminase,3.5.4.2,hydrolase
+YNL045W,NP_014353 ,LAP2,Q10740,NP_014353.1 bifunctional aminopeptidase/epoxide hydrolase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H340, H344, E363",HelicalAnchors,Catalytic,Peptidase_M1,3.3.2.6,hydrolase
+YNR046W,NP_014444 ,TRM112,P53738,NP_014444.1 RNA methylation protein TRM112 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C11, C16, C112, C115",Unknown,Unknown,Unknown,,
+YFL016C,NP_116638 ,MDJ1,P35191,NP_116638.1 Mdj1p [Saccharomyces cerevisiae S288c],2,mitochondrion,"C230, C233, C247, C250, C269, C272, C285, C288",Shuffled_ZnRibbon,Structural,DnaJ_CXXCXGXG,,
+YGR063C,NP_011577 ,SPT4,P32914,NP_011577.3 transcription elongation factor SPT4 [Saccharomyces cerevisiae S288c],1,nucleus,"C7, C10, C24, C27",ZincRibbon,Structural,Spt4,,
+YHR132C,NP_012000 ,ECM14,P38836,NP_012000.1 putative metallocarboxypeptidase [Saccharomyces cerevisiae S288c],1,vacuole,"H182, E185, H310",ZincNecklaces,Catalytic,Peptidase_M14,3.4.17.-,hydrolase
+YDR481C,NP_010769 ,PHO8,P11491,NP_010769.3 alkaline phosphatase PHO8 [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"D75, S123, D174, T176, E325, D330, H334, D373, H374, H484",NoCluster,Catalytic,Alk_phosphatase,"3.1.3.1, 3.1.3.54, 3.1.7.6",hydrolase
+YJR117W,NP_012651 ,STE24,P47154,NP_012651.1 zinc metalloprotease [Saccharomyces cerevisiae S288c],1,ER,"H297, H301, E390, H434",HelicalAnchors,Catalytic,Peptidase_M48,3.4.24.84,hydrolase
+YKL112W,NP_012810 ,ABF1,P14164,NP_012810.1 DNA-binding protein ABF1 [Saccharomyces cerevisiae S288c],1,nucleus,C49-C66-C71,Unknown,Unknown,BAF1_ABF1,,
+YBR145W,NP_009703 ,ADH5,P38113,NP_009703.3 alcohol dehydrogenase ADH5 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C47, S49, H70, E71, C101, C104, C107, C115","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,1.1.1.1,oxidoreductase
+YMR214W,NP_013941 ,SCJ1,P25303,NP_013941.2 Scj1p [Saccharomyces cerevisiae S288c],2,ER,"C169, C172, C185, C188, C211, C214, C225, C228",Shuffled_ZnRibbon,Structural,"DnaJ_CXXCXGXG,Anti-TRAP",,
+YLR074C,NP_013175 ,BUD20,Q08004,NP_013175.1 Bud20p [Saccharomyces cerevisiae S288c],1,"cytosol,nucleus","C51, C54, H67, H73",C2H2_ZnFinger,Structural,zf-C2H2_jaz,,
+YIL044C,NP_012220 ,AGE2,P40529,NP_012220.3 Age2p [Saccharomyces cerevisiae S288c],1,cytosol,"C23, C26, C44, C47",TrebleClef,Structural,ArfGap,,
+YAR007C,NP_009404 ,RFA1,P22336,NP_009404.1 replication factor A subunit protein RFA1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C486, C491, C505, C508",ZincRibbon,Structural,Rep_fac-A_C,,
+YCL057W,NP_009874 ,PRD1,P25375,NP_009874.1 metalloendopeptidase [Saccharomyces cerevisiae S288c],1,cytosol,"H501, H505, E531",HelicalAnchors,Catalytic,Peptidase_M3,3.4.24.37,hydrolase
+YIL021W,NP_012243 ,RPB3,P16370,NP_012243.3 DNA-directed RNA polymerase II core subunit RPB3 [Saccharomyces cerevisiae S288c],1,nucleus,"C86, C88, C92, C95",ZincNecklaces,Structural,RNA_pol_A_bac,,
+YHR047C,NP_011913 ,AAP1,P37898,NP_011913.1 arginine/alanine aminopeptidase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H300, H304, E323",HelicalAnchors,Catalytic,Peptidase_M1,3.4.11.-,hydrolase
+YHR113W,NP_011981 ,APE4,P38821,NP_011981.1 aspartyl aminopeptidase [Saccharomyces cerevisiae S288c],2,vacuole,"H97, D273, E309, D362, H456",NoCluster,Catalytic,Peptidase_M18,3.4.11.21,hydrolase
+YLR163C,NP_013264 ,MAS1,P10507,NP_013264.1 Mas1p [Saccharomyces cerevisiae S288c],1,mitochondrion,"H70, H74, E150",HelicalAnchors,Catalytic,Peptidase_M16,3.4.24.64,hydrolase
+YML123C,NP_013583,PHO84,P25297,NP_013583.1.,N/A,plasma membrane,,,Transport,,,
+YIL106W,NP_012160 ,MOB1,P40484,NP_012160.2 Mob1p [Saccharomyces cerevisiae S288c],1,cytosol,"C179, C184, H261, H266",C2H2_ZnFinger,Structural,Mob1_phocein,,
+YLR116W,NP_013217 ,MSL5,Q12186,NP_013217.1 mRNA splicing protein MSL5 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C299, C302, H307, C312",Shuffled_ZnRibbonII,Structural,zf-CCHC,,
+YPR086W,NP_015411 ,SUA7,P29055,NP_015411.1 transcription factor TFIIB [Saccharomyces cerevisiae S288c],1,nucleus,"C24, C27, C45, C48",ZincRibbon,Structural,TF_Zn_Ribbon,,
+YDR264C,NP_010550 ,AKR1,P39010,NP_010550.1 palmitoyltransferase AKR1 [Saccharomyces cerevisiae S288c],1 or 2,Golgi,"C443, H450, C472, D497, H498, C500, C533",ZincRibbon,Structural,zf-DHHC (Pfam),2.3.1.225,transferase
+YOL098C,NP_014543 ,SDD3,Q12496,NP_014543.1 Sdd3p [Saccharomyces cerevisiae S288c],1,cytosol,"H60, H64, E135, E142",HelicalAnchors,Catalytic,Peptidase_M16,,
+YOR108W,NP_014751 ,LEU9,Q12166,NP_014751.1 2-isopropylmalate synthase LEU9 [Saccharomyces cerevisiae S288c],1,mitochondrion,"D69, H274, H276, N310",ZincRafts,Catalytic,HMGL-like,2.3.3.13,transferase
+YML004C,NP_013710 ,GLO1,P50107,NP_013710.1 lactoylglutathione lyase GLO1 [Saccharomyces cerevisiae S288c],2 o 3,"cytosol, nucleus","H25, E89, H117, E163, H185, E242, H269, E318",ZincRafts,Catalytic,"Glyoxalase,Glyoxalase_4",4.4.1.5,lyase
+YOR091W,NP_014734 ,TMA46,Q12000,NP_014734.2 Tma46p [Saccharomyces cerevisiae S288c],2,cytosol,"C93, C101, C107, H111, C164, C182, C189, H193",ZincNecklaces,Unknown,Torus,,
+YML035C,NP_013677 ,AMD1,P15274,NP_013677.1 AMP deaminase [Saccharomyces cerevisiae S288c],1,cytosol,"H362, H364, H630, D707",NoCluster,Catalytic,A_deaminase,3.5.4.6,hydrolase
+YDR266C,NP_010552 ,HEL2,Q05580,NP_010552.3 E3 ubiquitin-protein ligase HEL2 [Saccharomyces cerevisiae S288c],2,cytosol,"C64, C67, C79, H81, C84, C87, C100, C103","TrebleClef, Loosened_ZnRibbon, ZincRibbon",Structural,zf-C3HC4_3,2.3.2.27,transferase
+YGL062W,NP_011453 ,PYC1,P11154,NP_011453.1 pyruvate carboxylase 1 [Saccharomyces cerevisiae S288c],1,cytosol,"D566, K734, H764, H766",ZincRafts,Catalytic,HMGL-like,6.4.1.1,ligase
+YPR024W,NP_015349 ,YME1,P32795,NP_015349.1 i-AAA protease YME1 [Saccharomyces cerevisiae S288c],1,mitochondrion,"H540, H544, D618",HelicalAnchors,Catalytic,Peptidase_M41,3.4.24.-,hydrolase
+YGL071W,NP_011444 ,AFT1,P22149,NP_011444.1 DNA-binding transcription factor AFT1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C143, C215, H239, H241",NoCluster,Structural,AFT,,
+YDL122W,NP_010161,UBP1,P25037,NP_010161.1 ubiquitin-specific protease UBP1 [Saccharomyces cerevisiae S288c],1,cytosol,"C337, C340, C387, C390",Unknown,Structural,Unknown,3.4.19.12,hydrolase
+YGL201C,NP_011314 ,MCM6,P53091,NP_011314.2 MCM DNA helicase complex subunit MCM6 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C311, C314, C333, C338",ZincRibbon,Structural,MCM_OB,3.6.4.12,hydrolase
+YGL101W,NP_011414 ,YGL101W,P53144,NP_011414.1 hypothetical protein YGL101W [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H61, D90",NoCluster,Catalytic,HD,,
+YDR303C,NP_010589 ,RSC3,Q06639,NP_010589.3 Rsc3p [Saccharomyces cerevisiae S288c],2,nucleus,"C14, C17, C24, C31, C34, C42",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR389C,NP_013493 ,STE23,Q06010,NP_013493.2 metalloendopeptidase [Saccharomyces cerevisiae S288c],1,mitochondrion,"H118, H122, E192, E199",HelicalAnchors,Catalytic,Peptidase_M16,3.4.24.-,hydrolase
+YPR019W,NP_015344 ,MCM4,P30665,NP_015344.1 MCM DNA helicase complex subunit MCM4 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C349, C352, C371, C376",ZincRibbon,Structural,MCM_OB,3.6.4.12,hydrolase
+YGL181W,NP_011334 ,GTS1,P40956,NP_011334.1 Gts1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C30, C33, C50, C53",TrebleClef,Structural,ArfGap,,
+YDR049W,NP_010334,VMS1,Q04311,NP_010334.1 Vms1p [Saccharomyces cerevisiae S288c],1,cytosol,"C74, C77, H90, H96",Unknown,Structural,Unknown,,
+YMR080C,NP_013797 ,NAM7,P30771,NP_013797.1 ATP-dependent RNA helicase NAM7 [Saccharomyces cerevisiae S288c],3,cytosol,"C62, C65, C76, C79, C84, H94, H98, H104, C122, C125, C148, C152",TrebleClef,Structural,UPF1_Zn_bind,3.6.4.-,hydrolase
+YER068W,NP_010991 ,MOT2,P34909,NP_010991.3 CCR4-NOT core ubiquitin-protein ligase subunit MOT2 [Saccharomyces cerevisiae S288c],2 or 3,cytosol,"C33, C36, C50, C52, C57, C60, C74, C77","TrebleClef, Loosened_ZnRibbon, ZincRibbon",Structural,"zf-C3HC4_3,zf-RING_4",,
+YDR390C,NP_010678 ,UBA2,P52488,NP_010678.3 E1 ubiquitin-activating protein UBA2 [Saccharomyces cerevisiae S288c],1,nucleus,"C162, C165, C435",TrebleClef,Structural,ThiF,,
+YCR003W,NP_009929 ,MRPL32,P25348,NP_009929.1 mitochondrial 54S ribosomal protein YmL32 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C104, C107, C117, C120",ZincRibbon,Structural,Ribosomal_L32p,,
+YMR319C,NP_014052,FET4,P40988,NP_014052.1.,N/A,plasma membrane,,,Transport,,,
+YDR216W,NP_010502 ,ADR1,P07248,NP_010502.3 DNA-binding transcription factor ADR1 [Saccharomyces cerevisiae S288c],2,nucleus,"C106, V108, C109, H122, H126, C134, C137, H150, H155",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YMR089C,NP_013807 ,YTA12,P40341,NP_013807.1 m-AAA protease subunit YTA12 [Saccharomyces cerevisiae S288c],1,mitochondrion,"H613, H617, D689",HelicalAnchors,Catalytic,Peptidase_M41,3.4.24.-,hydrolase
+YNL186W,NP_014213 ,UBP10,P53874,NP_014213.2 ubiquitin-specific protease UBP10 [Saccharomyces cerevisiae S288c],1,nucleus,C500-C503-C610-C613,ZincRibbon,Structural,UCH_1,3.4.19.12,hydrolase
+YHR111W,NP_011979 ,UBA4,P38820,NP_011979.1 Uba4p [Saccharomyces cerevisiae S288c],1,cytosol,"C208, C211, C286, H358","TrebleClef, ZincNecklaces",Structural,"ThiF,Rhodanese","2.7.7.-, 2.8.1.-",transferase
+YDL074C,NP_010209 ,BRE1,Q07457,NP_010209.1 E3 ubiquitin-protein ligase BRE1 [Saccharomyces cerevisiae S288c],2,nucleus,"C648, C651, C663, H665, C668, C671, C683, C686","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-C3HC4_3,Prok-RING_4,zf-RING_5,zf-C3HC4_2",2.3.2.27,transferase
+YBL033C,NP_009520 ,RIB1,P38066,NP_009520.1 GTP cyclohydrolase II [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C148, C159, C161",NoCluster,Catalytic,GTP_cyclohydro2,3.5.4.25,hydrolase
+YGL023C,NP_011492 ,PIB2,P53191,NP_011492.3 Pib2p [Saccharomyces cerevisiae S288c],2,vacuole,"C458, C461, C474, C477, C482, H485, C519, C522",TrebleClef,Structural,FYVE,,
+YNL036W,NP_014362 ,NCE103,P53615,NP_014362.3 carbonate dehydratase NCE103 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C57, D59, H112, C115",ZincNecklaces,Catalytic,Pro_CA,4.2.1.1,lyase
+YDL174C,NP_010107,DLD1,P32891,NP_010107.1 D-lactate dehydrogenase [Saccharomyces cerevisiae S288c],from 4 to 6 ,mitochondrion,Unknown - The number of zinc is reported in the Uniprot database,Unknown,Unknown,Unknown,1.1.2.4,oxidoreductase
+YNL102W,NP_014297 ,POL1,P13382,NP_014297.3 DNA-directed DNA polymerase alpha catalytic subunit POL1 [Saccharomyces cerevisiae S288c],2,nucleus,"C1287, C1290, C1314, C1317, C1348, C1353, C1367, C1372",ZincRibbon,Structural,zf-DNA_Pol,2.7.7.7,transferase
+YNL310C,NP_014089 ,ZIM17,P42844,NP_014089.2 Zim17p [Saccharomyces cerevisiae S288c],1,mitochondrion,"C75, C78, C100, C103",ZincRibbon,Structural,zf-DNL,,
+YCL033C,NP_009897 ,MXR2,P25566,NP_009897.1 Mxr2p [Saccharomyces cerevisiae S288c],1,mitochondrion,"C79, C82, C128, C131",ZincRibbon,Structural,SelR,1.8.4.12,oxidoreductase
+YOR001W,NP_014643 ,RRP6,Q12149,NP_014643.1 exosome nuclease subunit RRP6 [Saccharomyces cerevisiae S288c],1,nucleus,"D238, E240, D296, D365",ZincRafts,Catalytic,DNA_pol_A_exo1,3.1.13.-,hydrolase
+YKL160W,NP_012762 ,ELF1,P36053,NP_012762.1 Elf1p [Saccharomyces cerevisiae S288c],1,nucleus,"C25, C28, C49, C52",ZincRibbon,Structural,Elf1,,
+YKL175W,NP_012746 ,ZRT3,P34240,NP_012746.1 Zn(2+) transporter ZRT3 [Saccharomyces cerevisiae S288c],N/A,vacuolar membrane,Unknown,,Transport,ZIP (Pfam),,
+YKR038C,NP_012964 ,KAE1,P36132,NP_012964.2 tRNA N6-adenosine threonylcarbamoyltransferase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H141, H145, D344",HelicalAnchors,Catalytic,Peptidase_M22,2.3.1.234,transferase
+YOR039W,NP_014682 ,CKB2,P38930,NP_014682.1 casein kinase 2 regulatory subunit CKB2 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C139, C144, C167, C170",ZincRibbon,Structural,CK_II_beta,,
+YKR079C,NP_013005,TRZ1,P36159,NP_013005.1 tRNase Z [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus",Unknown,Unknown,Unknown,Lactamase_B_4,3.1.26.11,hydrolase
+YNR006W,NP_014403 ,VPS27,P40343,NP_014403.3 ESCRT-0 subunit protein VPS27 [Saccharomyces cerevisiae S288c],2,endosome,"C176, C179, C192, C195, C200, H203, C222, C225",TrebleClef,Structural,FYVE,,
+YMR070W,NP_013786 ,MOT3,P54785,NP_013786.1 Mot3p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C348, C351, H364, H368",C2H2_ZnFinger,Structural,Unknown,,
+YNL116W,NP_014283 ,DMA2,P53924,NP_014283.3 ubiquitin-conjugating protein DMA2 [Saccharomyces cerevisiae S288c],2,cytosol,"C433, C436, C451, H453, H456, C459, C473, C476","TrebleClef, ZincRibbon",Structural,"zf-RING_2,zf-RING_11",2.3.2.27,transferase
+YGR246C,NP_011762 ,BRF1,P29056,NP_011762.1 transcription factor TFIIIB subunit BRF1 [Saccharomyces cerevisiae S288c],1,nucleus,"C4, C7, C25, C28",ZincRibbon,Structural,TF_Zn_Ribbon,,
+YDR096W,NP_010381 ,GIS1,Q03833,NP_010381.1 histone demethylase GIS1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C250, H256, H846, H851, C859, C862, C830, C833",C2H2_ZnFinger,Structural,zf-H2C2_2,,
+YPL116W,NP_015209 ,HOS3,Q02959,NP_015209.1 histone deacetylase [Saccharomyces cerevisiae S288c],1,cytosol,"D231, D233, H235, S278, D370","ZincNecklaces, NoCluster",Catalytic,Hist_deacetyl,3.5.1.98,hydrolase
+YBR058C,NP_009614 ,UBP14,P38237,NP_009614.2 ubiquitin-specific protease UBP14 [Saccharomyces cerevisiae S288c],4,cytosol,"C192, C195, C204, C207, C212, H224, H228, H235, C253, C256, C455, C458, C501, C504","TrebleClef, C2H2_ZnFinger",Structural,"zf-UBP,UCH_1",3.4.19.12,hydrolase
+YDR316W-B,NP_058150,TY1B-DR5,P0C2I2,NP_058150.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YBR202W,NP_009761 ,MCM7,P38132,NP_009761.4 mini-chromosome maintenance complex protein 7 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C262, C265, C284, C289",ZincRibbon,Structural,MCM_OB,3.6.4.12,hydrolase
+YBR281C,NP_009840 ,DUG2,P38149,NP_009840.3 glutamine amidotransferase subunit DUG2 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","H520, D553, E587, H853",NoCluster,Catalytic,Peptidase_M20,3.4.-.-,hydrolase
+YKL062W,NP_012861 ,MSN4,P33749,NP_012861.1 stress-responsive transcriptional activator MSN4 [Saccharomyces cerevisiae S288c],2,nucleus,"C575, C578, K580, H591, H596, C604, C607, H620, H624",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YDR448W,NP_010736 ,ADA2,Q02336,NP_010736.3 chromatin-binding transcription regulator ADA2 [Saccharomyces cerevisiae S288c],2,nucleus,"C7, C10, C22, C25, C31, C34, H44, H48","TrebleClef, C2H2_ZnFinger",Structural,ZZ,,
+YKL114C,NP_012808 ,APN1,P22936,NP_012808.1 DNA-(apurinic or apyrimidinic site) lyase APN1 [Saccharomyces cerevisiae S288c],3,"mitochondrion,nucleus","E158, D192, H195, H229, D242, H244",NoCluster,Catalytic,AP_endonuc_2,4.2.99.18,lyase
+YLR387C,NP_013491 ,REH1,Q06709,NP_013491.1 Reh1p [Saccharomyces cerevisiae S288c],2,cytosol,"C188, C191, H204, H209, C239, C242, H255, H261",C2H2_ZnFinger,Structural,zf-C2H2_2,,
+YGL122C,NP_011393 ,NAB2,P32505,NP_011393.3 mRNA-binding protein NAB2 [Saccharomyces cerevisiae S288c],7,"cytosol, nucleus","C340, C346, C351, H355, C415, C421, C426, H430, C458, C464, C469, H473, C262, C268, C274, H278, C283, C289, C296, H300, C371, C377, C382, H386",Unknown,Structural,zf-CCCH_2,,
+YNL262W,NP_014137,POL2,P21951,NP_014137.1 DNA polymerase epsilon catalytic subunit [Saccharomyces cerevisiae S288c],1,nucleus,"C2108, C2111, C2130, C2133",Unknown,Structural,CysA-type,2.7.7.7,transferase
+YIL079C,NP_012186 ,AIR1,P40507,NP_012186.1 TRAMP complex RNA-binding subunit [Saccharomyces cerevisiae S288c],4,nucleus,"C175, C178, H183, C188, C76, C79, H84, C89, C94, C97, H103, C108, C136, C139, H144, C149",Shuffled_ZnRibbonII,Structural,zf-CCHC,,
+YGL156W,NP_011359 ,AMS1,P22855,NP_011359.1 alpha-mannosidase [Saccharomyces cerevisiae S288c],1,vacuolar membrane,"H298, D300, D411, H626",NoCluster,Catalytic,"Glyco_hydro_38,Alpha-mann_mid",3.2.1.24,hydrolase
+YOR116C,NP_014759 ,RPO31,P04051,NP_014759.1 DNA-directed RNA polymerase III core subunit RPO31 [Saccharomyces cerevisiae S288c],2,nucleus,"C67, C70, C77, H80, C107, C110, C154, C157",Loosened_ZnRibbon,Structural,RNA_pol_Rpb1_1,2.7.7.6,transferase
+YBL005W-B,NP_009549,TY1B-BL,Q12490,NP_009549.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YMR045C,NP_013759,TY1B-MR1,Q04214,NP_013759.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGL035C,NP_011480 ,MIG1,P27705,NP_011480.1 transcription factor MIG1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","H56, H60, C68, C73, H86, H90",C2H2_ZnFinger,Structural,zf-H2C2_2,,
+YDR379W,NP_010667 ,RGA2,Q06407,NP_010667.1 Rga2p [Saccharomyces cerevisiae S288c],4,cytosol,"C13, C16, H34, C37, C40, C43, C63, C66, C70, C73, C95, C98, C101, C119, C122",TrebleClef,Structural,LIM,,
+YBL023C,NP_009530 ,MCM2,P29469,NP_009530.1 MCM DNA helicase complex subunit MCM2 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C341, C344, C364, C367",ZincRibbon,Structural,MCM_OB,3.6.4.12,hydrolase
+YER017C,NP_010933 ,AFG3,P39925,NP_010933.1 AAA family ATPase AFG3 [Saccharomyces cerevisiae S288c],1,mitochondrion,"H558, H562, D634",HelicalAnchors,Catalytic,Peptidase_M41,3.4.24.-,hydrolase
+YDL167C,NP_010114 ,NRP1,P32770,NP_010114.1 Nrp1p [Saccharomyces cerevisiae S288c],2,cytosol,"C361, C364, C375, C378, C587, C590, C601, C604",ZincRibbon,Structural,zf-RanBP,,
+YLR274W,NP_013376 ,MCM5,P29496,NP_013376.1 MCM DNA helicase complex subunit MCM5 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C183, C186, C211, C236",ZincRibbon,Structural,MCM_OB,3.6.4.12,hydrolase
+YNL027W,NP_014371 ,CRZ1,P53968,NP_014371.1 DNA-binding transcription factor CRZ1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C571, V573, C574, K576, H587, H591, C599, C602, H619",C2H2_ZnFinger,Structural,"zf-C2H2,zf-met,zf-H2C2_2",,
+YOR056C,NP_014699 ,NOB1,Q08444,NP_014699.1 rRNA-binding endoribonuclease [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C304, C307, C323, C326",ZincRibbon,Structural,NOB1_Zn_bind,3.1.-.-,hydrolase
+YIL130W,NP_012136 ,ASG1,P40467,NP_012136.1 Asg1p [Saccharomyces cerevisiae S288c],2,nucleus,"C21, C24, C31, C37, C40, C47",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YJL168C,NP_012367 ,SET2,P46995,NP_012367.2 histone methyltransferase SET2 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C201, C68, C70, C82, C88, C97, C102, C109, C248, C250, C255",ZincNecklaces,Unknown,SET,2.1.1.43,transferase
+YHR056C,NP_011923 ,RSC30,P38781,NP_011923.2 Rsc30p [Saccharomyces cerevisiae S288c],2,nucleus,"C15, C18, C25, C32, C35, C43",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR410W-B,NP_058174,TY2B-LR1,P0C2J3,NP_058174.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YOR244W,NP_014887,ESA1,Q08649,NP_014887.3 NuA4 histone acetyltransferase complex catalytic subunit ESA1 [Saccharomyces cerevisiae S288c],1,nucleus,"C248, C252, H261, C275",C2H2_ZnFinger,Structural,C2HC MYST-type,2.3.1.48,transferase
+YNL097C,NP_014302 ,PHO23,P50947,NP_014302.3 Pho23p [Saccharomyces cerevisiae S288c],2,nucleus,"C283, C285, Q287, Y290, C296, C301, H307, C310, C323, C326",TrebleClef,Structural,PHD,,
+YIL030C,NP_012234 ,SSM4,P40318,NP_012234.3 E3 ubiquitin-protein ligase SSM4 [Saccharomyces cerevisiae S288c],2,ER,"C39, C42, C56, C58, H66, C69, C90, C93","TrebleClef, ZincRibbon",Structural,RINGv,2.3.2.27,transferase
+YBL105C,NP_009445 ,PKC1,P24583,NP_009445.2 protein kinase C [Saccharomyces cerevisiae S288c],4,"cytosol, nucleus","H415, C428, C431, C442, C445, H450, C453, C461, H482, C495, C496, C498, C512, C515, H520, C523, C531","TrebleClef, Loosened_ZnRibbon",Structural,C1_1,2.7.11.13,transferase
+YKL028W,NP_012897 ,TFA1,P36100,NP_012897.3 transcription factor TFIIE subunit TFA1 [Saccharomyces cerevisiae S288c],1,nucleus,"C124, C127, C149, C152",ZincRibbon,Structural,TF_Zn_Ribbon,,
+YPL015C,NP_015310 ,HST2,P53686,NP_015310.1 histone deacetylase HST2 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C143, C146, C170, C173",ZincRibbon,Structural,SIR2,3.5.1.-,hydrolase
+YGR184C,NP_011700 ,UBR1,P19812,NP_011700.1 E3 ubiquitin-protein ligase UBR1 [Saccharomyces cerevisiae S288c],3 or 4,cytosol,"C123, C136, C139, C148, C151, H157, H160, C175, C177, C189, H118",NoCluster,Structural,zf-UBR,2.3.2.27,transferase
+YOR127W,NP_014770 ,RGA1,P39083,NP_014770.1 Rga1p [Saccharomyces cerevisiae S288c],2,cytosol,"C70, C73, C95, C98, C101, C119, C122",TrebleClef,Structural,LIM,,
+YDR045C,NP_010330 ,RPC11,Q04307,NP_010330.1 DNA-directed RNA polymerase III core subunit RPC11 [Saccharomyces cerevisiae S288c],2,nucleus,"C5, C8, C26, C29, C69, C75, C100, C103",ZincRibbon,Structural,"RNA_POL_M_15KD,TFIIS_C",,
+YDR143C,NP_010427 ,SAN1,P22470,NP_010427.3 ubiquitin-protein ligase SAN1 [Saccharomyces cerevisiae S288c],1 or 2,"cytosol, nucleus","C257, H259, C265, C276, C279","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-RING_2,zf-C3HC4_3,zf-C3HC4_2,Prok-RING_4,zf-RING_UBOX,zf-rbx1",,
+YDR205W,NP_010491,MSC2,Q03455,NP_010491.4. ,N/A,ER,,,Transport,,,
+YBR062C,NP_009618 ,YBR062C,P38239,NP_009618.2 hypothetical protein YBR062C [Saccharomyces cerevisiae S288c],2,Unknown,"C109, C112, C130, H132, C138, C149, C152","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-rbx1,zf-C3HC4_2",,
+YOR191W,NP_014834 ,ULS1,Q08562,NP_014834.1 translocase ULS1 [Saccharomyces cerevisiae S288c],1 or 2,nucleus,"C1330, C1333, C1353, C1356",TrebleClef,Structural,zf-RING_5,3.6.4.-,hydrolase
+YGL067W,NP_011448 ,NPY1,P53164,NP_011448.3 NAD(+) diphosphatase [Saccharomyces cerevisiae S288c],1,Unknown,C179-C182-C197,ZincRibbon,Structural,zf-NADH-PPase,3.6.1.22,hydrolase
+YMR037C,NP_013751 ,MSN2,P33748,NP_013751.1 stress-responsive transcriptional activator MSN2 [Saccharomyces cerevisiae S288c],2 or 3,"cytosol, nucleus","C649, C652, K654, H665, H670, C678, C681, K683, H694, H698",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YHR207C,NP_012077 ,SET5,P38890,NP_012077.1 S-adenosylmethionine-dependent methyltransferase [Saccharomyces cerevisiae S288c],1,nucleus,"C369, C424, C426, C429",ZincNecklaces,Unknown,SET,2.1.1.-,transferase
+YJL056C,NP_012479 ,ZAP1,P47043,NP_012479.1 Zap1p [Saccharomyces cerevisiae S288c],7,nucleus,"H786, H790, C798, C801, K803, H814, H818, C826, C829, K831, H842, H846, C581, C586, H599, H604, C707, C712, H725, C745, C770, C773, C852, C855","TrebleClef, C2H2_ZnFinger",Structural,"zf-C2H2,zf-H2C2_2",,
+YGL066W,NP_011449 ,SGF73,P53165,NP_011449.1 deubiquitination module subunit SGF73 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C233, C243, C249, H252, C78, C81, H93, H97",ZincRibbon,Structural,SCA7,,
+YER040W,NP_010958 ,GLN3,P18494,NP_010958.3 nitrogen-responsive transcriptional regulator GLN3 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C306, C309, C327, C330",TrebleClef,Structural,GATA,,
+YLR256W,NP_013357 ,HAP1,P0CE41,NP_013357.1 Hap1p [Saccharomyces cerevisiae S288c],2,"mitochondrion,nucleus","C64, C67, C74, C81, C84, C93",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKL059C,NP_012864 ,MPE1,P35728,NP_012864.1 cleavage polyadenylation factor subunit MPE1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C182, C185, H190, C195",Shuffled_ZnRibbonII,Structural,zf-CCHC_2,,
+YNL021W,NP_014377 ,HDA1,P53973,NP_014377.1 histone deacetylase HDA1 [Saccharomyces cerevisiae S288c],1,nucleus,"H83, H205, H206, D243, D245, H247, S266, L267, D338","ZincNecklaces, NoCluster",Catalytic,Hist_deacetyl,3.5.1.98,hydrolase
+YJL110C,NP_012425 ,GZF3,P42944,NP_012425.1 Gzf3p [Saccharomyces cerevisiae S288c],1,nucleus,"C131, C134, C152, C155",TrebleClef,Structural,GATA,,
+YBL104C,NP_009446 ,SEA4,P38164,NP_009446.2 Sea4p [Saccharomyces cerevisiae S288c],1,vacuolar membrane,"C1005, C1008, H1010, C1027",Unknown,Structural,Zn_ribbon_17,,
+YNL077W,NP_014322 ,APJ1,P53940,NP_014322.1 Apj1p [Saccharomyces cerevisiae S288c],2,nucleus,"C206, C209, C220, C223, C246, C249, C262, C265",Shuffled_ZnRibbon,Structural,DnaJ_CXXCXGXG,,
+YLR382C,NP_013486 ,NAM2,P11325,NP_013486.3 leucine--tRNA ligase NAM2 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C462, C465, C503, C506",Unknown,Unknown,Unknown,6.1.1.4,ligase
+YLR427W,NP_013531 ,MAG2,Q06436,NP_013531.3 Mag2p [Saccharomyces cerevisiae S288c],2,cytosol,"C195, C198, C211, H213, C216, C219, C246, C249","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_UBOX,zf-RING_5",,
+YLR148W,NP_013249,PEP3,P27801,NP_013249.1 tethering complex subunit PEP3 [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"C826, C829, C843, H845, C846, H848, C851",Unknown,Structural,RING-type,,
+YLR247C,NP_013348 ,IRC20,Q06554,NP_013348.1 E3 ubiquitin-protein ligase IRC20 [Saccharomyces cerevisiae S288c],2,nucleus,"C1239, C1242, C1254, H1256, C1259, C1262, C1273, C1276","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_5,zf-C3HC4_3,zf-C3HC4_2,zf-RING_UBOX,zf-rbx1",3.6.1.-,hydrolase
+YNL255C,NP_014144 ,GIS2,P53849,NP_014144.1 mRNA-binding translational activator GIS2 [Saccharomyces cerevisiae S288c],7,cytosol,"C6, C9, H14, C19, C25, C28, H33, C38, C49, C52, H57, C62, C67, C70, H75, C80, E82, C94, C97, H102, C107, C118, C121, H126, C131, C137, C140, H145, C150",Shuffled_ZnRibbonII,Structural,zf-CCHC,,
+YMR247C,NP_013975 ,RKR1,Q04781,NP_013975.1 ubiquitin-protein ligase RKR1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C1508, C1511, H1535, C1538, C1551, C1554, C1527, C1530","TrebleClef, ZincRibbon",Structural,"zf-RING_2,FANCL_C",2.3.2.27,transferase
+YGR274C,NP_011790 ,TAF1,P46677,NP_011790.1 Taf1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C1038, C1041, H1046, C1053",Unknown,Structural,zf-CCHC_6 (Pfam),2.3.1.48,transferase
+YDR228C,NP_010514 ,PCF11,P39081,NP_010514.3 Pcf11p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C421, C424, H441, H445",Unknown,Unknown,Unknown,,
+YOL089C,NP_014552 ,HAL9,Q12180,NP_014552.1 Hal9p [Saccharomyces cerevisiae S288c],2,nucleus,"C136, C139, C146, C156, C159, C166",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKR029C,NP_012954 ,SET3,P36124,NP_012954.3 histone-binding protein SET3 [Saccharomyces cerevisiae S288c],2,nucleus,"C120, C122, D123, C134, C137, H142, C145, C160, C163",TrebleClef,Structural,PHD,,
+YLR403W,NP_013507,SFP1,P32432,NP_013507.1 zinc-coordinating transcription factor SFP1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C661, C664, H680, H683",C2H2_ZnFinger,Structural,"C2H2-type, C2H2-type",,
+YMR075W,NP_013791 ,RCO1,Q04779,NP_013791.1 Rco1p [Saccharomyces cerevisiae S288c],2,nucleus,"C263, C266, Q268, C275, C278, H283, C286, C303, C306, C417, C420",TrebleClef,Structural,PHD,,
+YDR034C,NP_010317 ,LYS14,P40971,NP_010317.3 Lys14p [Saccharomyces cerevisiae S288c],2,nucleus,"C159, C162, C169, C176, C179, C186",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YJR027W,NP_012560,TY1B-JR1,P47098,NP_012560.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YIR023W,NP_012289 ,DAL81,P21657,NP_012289.3 Dal81p [Saccharomyces cerevisiae S288c],2,nucleus,"C150, C153, C160, C169, C172, C179",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPR176C,NP_015502 ,BET2,P20133,NP_015502.1 Rab geranylgeranyltransferase BET2 [Saccharomyces cerevisiae S288c],1,cytosol,"D135, D234, C236, D283, H286",NoCluster,Catalytic,Prenyltrans,2.5.1.60,transferase
+YPL103C,NP_015222 ,FMP30,Q02883,NP_015222.1 N-acetylphosphatidylethanolamine-hydrolyzing phospholipase D [Saccharomyces cerevisiae S288c],2,mitochondrion,"H265, H267, D269, H270, H332, D364, H425",ZincNecklaces,Catalytic,"Lactamase_B_2,Lactamase_B_3",3.1.4.54,hydrolase
+YLL031C,NP_013069,GPI13,Q07830,NP_013069.1 mannose-ethanolamine phosphotransferase GPI13 [Saccharomyces cerevisiae S288c],2,ER,"Catalytic,Structural",HelicalAnchors,Catalytic,Phosphodiest,2.-.-.-,transferase
+YLL062C,NP_013038 ,MHT1,Q12525,NP_013038.1 S-adenosylmethionine-homocysteine S-methyltransferase MHT1 [Saccharomyces cerevisiae S288c],1,cytosol,"C238, N265, C305, C306",NoCluster,Catalytic,S-methyl_trans,2.1.1.10,transferase
+YKR087C,NP_013013 ,OMA1,P36163,NP_013013.2 metalloendopeptidase [Saccharomyces cerevisiae S288c],1,mitochondrion,"H203, H207, E257, H306",HelicalAnchors,Catalytic,Peptidase_M48,3.4.24.-,hydrolase
+YGL248W,NP_011266 ,PDE1,P22434,"NP_011266.1 3',5'-cyclic-nucleotide phosphodiesterase PDE1 [Saccharomyces cerevisiae S288c]",2,Unknown,"H128, H130, D132, H133, H213, D244, H326",NoCluster,Catalytic,PDEase_II,3.1.4.17,hydrolase
+YOR360C,NP_015005 ,PDE2,P06776,"NP_015005.1 3',5'-cyclic-nucleotide phosphodiesterase PDE2 [Saccharomyces cerevisiae S288c]",1,"cytosol, nucleus","H269, H302, D303, E332, D400",NoCluster,Catalytic,PDEase_I,3.1.4.53,hydrolase
+YBR074W,NP_009630 ,PFF1,P38244,NP_009630.3 Pff1p [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"D168, E201, H300",NoCluster,Catalytic,Peptidase_M28,3.4.-.-,hydrolase
+YOL066C,NP_014575 ,RIB2,Q12362,NP_014575.1 bifunctional DRAP deaminase/tRNA pseudouridine synthase RIB2 [Saccharomyces cerevisiae S288c],1,cytosol,"H482, E484, C515, C525","ZincNecklaces, NoCluster",Catalytic,dCMP_cyt_deam_1,"5.4.99.28, 3.5.4.26",isomerase
+YLR277C,NP_013379 ,YSH1,Q06224,NP_013379.1 cleavage polyadenylation factor subunit YSH1 [Saccharomyces cerevisiae S288c],2,nucleus,"H68, H70, D72, H73, H163, D184, H430",ZincNecklaces,Catalytic,"RMMBL,Lactamase_B_2,Lactamase_B,Lactamase_B_6",3.1.27.-,hydrolase
+YOR113W,NP_014756 ,AZF1,P41696,NP_014756.3 Azf1p [Saccharomyces cerevisiae S288c],4,"cytosol, nucleus","H611, H615, C623, C626, K628, H639, H643, C651, C654, K656, H667, H671, C679, C684, H697, H702",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YPL181W,NP_015144 ,CTI6,Q08923,NP_015144.1 Cti6p [Saccharomyces cerevisiae S288c],2,nucleus,"C75, C77, C92, C95, H100, C103, C117, C120",TrebleClef,Structural,PHD,,
+YGR093W,NP_011607 ,DRN1,P53255,NP_011607.3 Drn1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus",C269-C272-H319-H366,ZincNecklaces,Structural,CwfJ_C_1,,
+YLR228C,NP_013329 ,ECM22,Q05958,NP_013329.1 Ecm22p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C44, C47, C54, C61, C64, C71",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YFL021W,NP_116632 ,GAT1,P43574,NP_116632.1 Gat1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C310, C313, C331, C334",TrebleClef,Structural,GATA,,
+YPR008W,NP_015333 ,HAA1,Q12753,NP_015333.1 Haa1p [Saccharomyces cerevisiae S288c],1,nucleus,"C11, C14, C23, H25",Zn2Cys6_ZnFinger,Structural,Copper-fist,,
+YOL068C,NP_014573 ,HST1,P53685,NP_014573.1 histone deacetylase HST1 [Saccharomyces cerevisiae S288c],1,nucleus,"C318, C321, C342, C345",ZincRibbon,Structural,SIR2,3.5.1.-,hydrolase
+YHR192W,NP_012062 ,LNP1,P38878,NP_012062.1 Lnp1p [Saccharomyces cerevisiae S288c],1,ER,"C223, C226, C244, C247",ZincRibbon,Structural,C4-type,,
+YFL044C,NP_116610,OTU1,P43558,NP_116610.1 ubiquitin-specific protease OTU1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C272, C275, H288, H294",C2H2_ZnFinger,Structural,C2H2-type,3.4.19.12,hydrolase
+YKL025C,NP_012900,PAN3,P36102,NP_012900.1 Pan3p [Saccharomyces cerevisiae S288c],1,cytosol,"C14, C23, C30, H34",NoCluster,Structural,C3H1-type,,
+YGL013C,NP_011502 ,PDR1,P12383,NP_011502.1 drug-responsive transcription factor PDR1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C46, C49, C56, C62, C65, C72",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YMR231W,NP_013958 ,PEP5,P12868,NP_013958.1 tethering complex subunit PEP5 [Saccharomyces cerevisiae S288c],1 or 2,vacuolar membrane,"C928, C931, C944, H946, H949, C952, C969, C972",Unknown,Structural,RING-type,2.3.2.27,transferase
+YGL070C,NP_011445 ,RPB9,P27999,NP_011445.1 DNA-directed RNA polymerase II core subunit RPB9 [Saccharomyces cerevisiae S288c],2,nucleus,"C7, R8, C10, C29, C32, C75, K77, C78, S80, C103, C106",ZincRibbon,Structural,"RNA_POL_M_15KD,TFIIS_C",,
+YER139C,NP_011066 ,RTR1,P40084,NP_011066.3 RNA polymerase II subunit B1 CTD phosphatase RTR1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C73, C78, C112, H116",C2H2_ZnFinger,Structural,RPAP2_Rtr1,3.1.3.16,hydrolase
+YPL047W,NP_015278 ,SGF11,Q03067,NP_015278.1 SAGA histone acetyltransferase complex subunit SGF11 [Saccharomyces cerevisiae S288c],1,nucleus,"C73, C76, H88, C92",C2H2_ZnFinger,Structural,Sgf11,,
+YDR409W,NP_010697 ,SIZ1,Q04195,NP_010697.3 SUMO ligase SIZ1 [Saccharomyces cerevisiae S288c],1,nucleus,"C377, H379, C400, C403",Loosened_ZnRibbon,Structural,zf-MIZ,6.3.2.-,ligase
+YLR005W,NP_013105 ,SSL1,Q04673,NP_013105.1 TFIIH/NER complex subunit SSL1 [Saccharomyces cerevisiae S288c],2,nucleus,"C403, C406, C429, C432, C437, D439, C440, H445, H449, C349, C352",TrebleClef,Structural,C1_4,,
+YPL016W,NP_015309,SWI1,P09547,NP_015309.1 Swi1p [Saccharomyces cerevisiae S288c],1,nucleus,"C1241, 1247, C1254, C1258",ZincRibbon,Structural,C4-type,,
+YOR337W,NP_014982 ,TEA1,P47988,NP_014982.3 Tea1p [Saccharomyces cerevisiae S288c],2,nucleus,"C70, C73, C80, C86, C89, C96",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR460W,NP_010748 ,TFB3,Q03290,NP_010748.3 TFIIH/NER complex subunit TFB3 [Saccharomyces cerevisiae S288c],2,nucleus,"C13, C16, C39, C42",TrebleClef,Structural,Unknown,,
+YLR136C,NP_013237 ,TIS11,P47977,NP_013237.1 Tis11p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C175, C184, C190, H194, C213, C222, C228, H232",ZincNecklaces,Structural,zf-CCCH,,
+YDR207C,NP_010493 ,UME6,P39001,NP_010493.1 DNA-binding transcriptional regulator UME6 [Saccharomyces cerevisiae S288c],2,nucleus,"C771, C774, C781, C788, C791, C798",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YOR004W,NP_014646 ,UTP23,Q12339,NP_014646.1 rRNA-binding ribosome biosynthesis protein UTP23 [Saccharomyces cerevisiae S288c],1,"mitochondrion,nucleus","C64, C89, H91, C102",NoCluster,Structural,Fcf1,,
+YLR373C,NP_013477,VID22,Q05934,NP_013477.1 Vid22p [Saccharomyces cerevisiae S288c],1,nucleus,"C87, C90, H110, H115",Unknown,Structural,BED-type,,
+YBL029C-A,NP_076874 ,YBL029C-A,Q3E756,NP_076874.1 hypothetical protein YBL029C-A [Saccharomyces cerevisiae S288c],1,Unknown,C28-C31-C63-C66,Unknown,Structural,zinc_ribbon_15,,
+YGL211W,NP_011304 ,NCS6,P53088,NP_011304.2 Ncs6p [Saccharomyces cerevisiae S288c],1,cytosol,"C308, C311, C320, C323",Unknown,Unknown,Unknown,2.7.7.-,transferase
+YNL250W,NP_014149 ,RAD50,P12753,NP_014149.1 MRX complex DNA-binding subunit [Saccharomyces cerevisiae S288c],1,nucleus,"C687, C690",ZincRibbon,Unknown,Rad50_zn_hook,3.6.-.-,hydrolase
+YNL040W,NP_014358 ,YNE0,P53960,NP_014358.3 putative alanine--tRNA ligase [Saccharomyces cerevisiae S288c],1,cytosol,"C240, H244",HelicalAnchors,Unknown,tRNA_SAD,,
+YMR321C,NP_014054 , YMR321C,Q04898,NP_014054.3 hypothetical protein YMR321C [Saccharomyces cerevisiae S288c],1,Unknown,"C19, N46, C86, C87",NoCluster,Catalytic,S-methyl_trans,,
+YKL103C,NP_012819 ,APE1,P14904,NP_012819.1 metalloaminopeptidase APE1 [Saccharomyces cerevisiae S288c],2,vacuole,"H132, D303, E340, D385, H479",NoCluster,Catalytic,Peptidase_M18,3.4.11.22,hydrolase
+YNR020C,NP_014417,ATP23,P53722,NP_014417.3 putative metalloprotease [Saccharomyces cerevisiae S288c],1,mitochondrion,"H124, H128",Unknown,Catalytic,Peptidase_M76,3.4.24.-,hydrolase
+YPR122W,NP_015447 ,AXL1,P40851,NP_015447.1 Axl1p [Saccharomyces cerevisiae S288c],1,cytosol,"H68, H72, E149, E156",HelicalAnchors,Catalytic,Peptidase_M16,3.4.24.-,hydrolase
+YOL164W,NP_014478 ,BDS1,Q08347,NP_014478.1 sulfuric ester hydrolase [Saccharomyces cerevisiae S288c],1,Unknown,"H162, H164, D166, H167",ZincNecklaces,Catalytic,"Lactamase_B_2,Lactamase_B",3.1.6.-,hydrolase
+YGL155W,NP_011360 ,CDC43,P18898,NP_011360.1 protein geranylgeranyltransferase type I subunit CDC43 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","D164, D286, C288, D338, H341",NoCluster,Catalytic,Prenyltrans,2.5.1.59,transferase
+YLR245C,NP_013346 ,CDD1,Q06549,NP_013346.1 cytidine deaminase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C61, C96, C99","ZincNecklaces, NoCluster",Catalytic,dCMP_cyt_deam_1,3.5.4.5,hydrolase
+YIR027C,NP_012293 ,DAL1,P32375,NP_012293.3 allantoinase [Saccharomyces cerevisiae S288c],2,Unknown,"H70, H72, H193, H247, D323",NoCluster,Catalytic,Amidohydro_1,3.5.2.5,hydrolase
+YHR144C,NP_012014 ,DCD1,P06773,NP_012014.1 deoxycytidine monophosphate deaminase [Saccharomyces cerevisiae S288c],1,cytosol,"H233, E235, C260, C263","ZincNecklaces, NoCluster",Catalytic,dCMP_cyt_deam_1,3.5.4.12,hydrolase
+YFL061W,NP_014064 ,DDI2,P0CH63,NP_014064.1 cyanamide hydratase [Saccharomyces cerevisiae S288c],1,Unknown,"H55, D89",NoCluster,Catalytic,HD,4.2.1.69,lyase
+YNL335W,NP_116594 ,DDI3,P0CH64,NP_116594.1 cyanamide hydratase [Saccharomyces cerevisiae S288c],1,Unknown,"H55, D89",NoCluster,Catalytic,HD,4.2.1.69,lyase
+YGL196W,NP_011319 ,DSD1,P53095,NP_011319.2 D-serine ammonia-lyase DSD1 [Saccharomyces cerevisiae S288c],1,Unknown,"H398, C400",HelicalAnchors,Catalytic,D-ser_dehydrat,4.3.1.18,lyase
+YOR040W,NP_014683 ,GLO4,Q12320,NP_014683.1 hydroxyacylglutathione hydrolase GLO4 [Saccharomyces cerevisiae S288c],2,mitochondrion,"H69, H71, D73, H74, H131, D154",ZincNecklaces,Catalytic,"Lactamase_B_2,Lactamase_B",3.1.2.6,hydrolase
+YMR281W,NP_014008 ,GPI12,P23797,NP_014008.1 N-acetylglucosaminylphosphatidylinositol deacetylase [Saccharomyces cerevisiae S288c],1,ER,"H63, D66, H176",NoCluster,Catalytic,PIG-L,3.5.1.89,hydrolase
+YDL238C,NP_010043 ,GUD1,Q07729,NP_010043.1 guanine deaminase [Saccharomyces cerevisiae S288c],1,cytosol,"H100, H102, H258, H297, D348",NoCluster,Catalytic,"Amidohydro_3,Amidohydro_1",3.5.4.3,hydrolase
+YPR068C,NP_015393 ,HOS1,Q12214,NP_015393.1 histone deacetylase [Saccharomyces cerevisiae S288c],1,nucleus,"H42, D245, D247, H249, S268, V269, D333","ZincNecklaces, NoCluster",Catalytic,Hist_deacetyl,3.5.1.98,hydrolase
+YGL194C,NP_011321 ,HOS2,P53096,NP_011321.1 histone deacetylase HOS2 [Saccharomyces cerevisiae S288c],1,nucleus,"H45, D192, D194, H196, S215, F216, D283","ZincNecklaces, NoCluster",Catalytic,Hist_deacetyl,3.5.1.98,hydrolase
+YJL062W,NP_012473,LAS21,P40367,NP_012473.1 mannose-ethanolamine phosphotransferase LAS21 [Saccharomyces cerevisiae S288c],1,ER,"D44, T84, D259, H260",HelicalAnchors,Catalytic,Phosphodiest,2.-.-.-,transferase
+YJR024C,NP_012558 ,MDE1,P47095,NP_012558.3 methylthioribulose 1-phosphate dehydratase MDE1 [Saccharomyces cerevisiae S288c],1,cytosol,"G37, H107, H109, H192",ZincRafts,Catalytic,Aldolase_II,4.2.1.109,lyase
+YKL194C,NP_012727 ,MST1,P07236,NP_012727.1 threonine--tRNA ligase MST1 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C133, H184, H319",ZincRafts,Catalytic,tRNA-synt_2b,6.1.1.3,ligase
+YCR026C,NP_009955 ,NPP1,P25353,NP_009955.2 nucleotide diphosphatase/phosphodiesterase NPP1 [Saccharomyces cerevisiae S288c],2,Unknown,"D176, T219, D362, H366, D415, H416, H542",NoCluster,Catalytic,Phosphodiest,"3.1.4.1, 3.6.1.9",hydrolase
+YEL016C,NP_010900 ,NPP2,P39997,NP_010900.1 nucleotide diphosphatase/phosphodiesterase NPP2 [Saccharomyces cerevisiae S288c],2,ER,"D84, T127, D257, H261, D306, H307, H435",NoCluster,Catalytic,Phosphodiest,"3.1.4.1, 3.6.1.9",hydrolase
+YKL134C,NP_012788 ,OCT1,P35999,NP_012788.2 metalloendopeptidase [Saccharomyces cerevisiae S288c],1,mitochondrion,"H558, H562, E587",HelicalAnchors,Catalytic,Peptidase_M3,3.4.24.59,hydrolase
+YNL082W,NP_014317 ,PMS1,P14242,NP_014317.4 ATP-binding mismatch repair protein [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","H703, E707, C817, C848, H850",NoCluster,Catalytic,MutL_C,,
+YDL104C,NP_010179 ,QRI7,P43122,NP_010179.1 putative N(6)-L-threonylcarbamoyladenine synthase [Saccharomyces cerevisiae S288c],1,mitochondrion,"H145, H149, H175, D361",HelicalAnchors,Catalytic,Peptidase_M22,2.3.1.234,transferase
+YDL090C,NP_010193 ,RAM1,P22007,NP_010193.1 protein farnesyltransferase [Saccharomyces cerevisiae S288c],1,cytosol,"D209, D307, C309, D360, H363",NoCluster,Catalytic,Prenyltrans,2.5.1.58,transferase
+YDL216C,NP_010065 ,RRI1,Q12468,NP_010065.2 COP9 signalosome catalytic subunit RRI1 [Saccharomyces cerevisiae S288c],1,cytosol,"E120, H164, H166, D177",ZincRafts,Catalytic,JAB,3.4.-.-,hydrolase
+YJR159W,NP_012693 ,SOR1,P35497,NP_012693.1 L-iditol 2-dehydrogenase SOR1 [Saccharomyces cerevisiae S288c],1,Unknown,"C43, S45, H68, E69",NoCluster,Catalytic,ADH_N,1.1.1.14,oxidoreductase
+YDL246C,NP_010035 ,SOR2,Q07786,NP_010035.1 L-iditol 2-dehydrogenase SOR2 [Saccharomyces cerevisiae S288c],1,Unknown,"C43, S45, H68, E69",NoCluster,Catalytic,ADH_N,1.1.1.14,oxidoreductase
+YGL243W,NP_011271 ,TAD1,P53065,NP_011271.1 tRNA-specific adenosine deaminase [Saccharomyces cerevisiae S288c],1,nucleus,"H101, C157, C223",ZincNecklaces,Catalytic,A_deamin,3.5.4.34,hydrolase
+YJL035C,NP_012499 ,TAD2,P47058,NP_012499.1 tRNA(adenine34) deaminase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H54, E56, C88, C91","ZincNecklaces, NoCluster",Catalytic,dCMP_cyt_deam_1,3.5.4.33,hydrolase
+YLR316C,NP_013420 ,TAD3,Q9URQ3,NP_013420.2 Tad3p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H216, C254, C257","ZincNecklaces, NoCluster",Catalytic,dCMP_cyt_deam_1,,
+YJR126C,NP_012660,VPS70,P47161,NP_012660.1 putative zinc metalloprotease [Saccharomyces cerevisiae S288c],2,ER,"H445, D456, D522, H607",NoCluster,Catalytic,Peptidase_M28,3.4.-.-,hydrolase
+YHR134W,NP_012002 ,WSS1,P38838,NP_012002.1 metalloendopeptidase WSS1 [Saccharomyces cerevisiae S288c],1,vacuole,"H115, H119, H125",Unknown,Catalytic,Unknown,3.4.24.-,hydrolase
+YLR070C,NP_013171 ,XYL2,Q07993,NP_013171.1 D-xylulose reductase XYL2 [Saccharomyces cerevisiae S288c],1,Unknown,"C44, S46, H69, E70",NoCluster,Catalytic,ADH_N,1.1.1.9,oxidoreductase
+YBR242W,NP_009801 ,YBR242W,P38331,NP_009801.1 hypothetical protein YBR242W [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","H80, D109",NoCluster,Catalytic,HD,,
+YDR415C,NP_010703 ,YDR415C,Q04033,NP_010703.1 putative aminopeptidase [Saccharomyces cerevisiae S288c],2,vacuole,"H177, D196, E234, E235, D262, C311, H340",NoCluster,Catalytic,Peptidase_M28,3.4.11.-,hydrolase
+YFR018C,NP_116673 ,YFI8,P43599,NP_116673.1 hypothetical protein YFR018C [Saccharomyces cerevisiae S288c],2,ER,"H126, D141, E192, E193, D230, H329",NoCluster,Catalytic,Peptidase_M28,,
+YJL213W,NP_012322 ,YJL213W,P40896,NP_012322.1 hypothetical protein YJL213W [Saccharomyces cerevisiae S288c],1,cytosol,"H154, H174, D246",NoCluster,Catalytic,"Amidohydro_3,Amidohydro_1",,
+YMR303C,NP_014032 ,ADH2,P00331,NP_014032.1 alcohol dehydrogenase ADH2 [Saccharomyces cerevisiae S288c],2,cytosol,"C44, H67, E68, C98, C101, C104, C112","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,1.1.1.1,oxidoreductase
+YCR105W,NP_010030 ,ADH7,P25377,NP_010030.1 NADP-dependent alcohol dehydrogenase [Saccharomyces cerevisiae S288c],2,Unknown,"C46, S48, H68, E69, C100, C103, C106, C114","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,1.1.1.2,oxidoreductase
+YAL061W,NP_009340,BDH2,P39713,NP_009340.1 putative dehydrogenase BDH2 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C39, H73, E74, C103, C120, C123, C131","ZincNecklaces, NoCluster","Catalytic,Structural",ADH_N,1.1.1.303,oxidoreductase
+YOR031W,NC_001147.6 ,CRS5,P41902 ,Saccharomyces cerevisiae Metallothionein (MT),6 or 7,Unknown,Unknown,Unknown,Storage,Metallothi_Euk2﻿,,
+YLR131C,NP_013232 ,ACE2,P21192,NP_013232.1 DNA-binding transcription factor ACE2 [Saccharomyces cerevisiae S288c],from 1 to 3,"cytosol, nucleus","C605, C610, H623, H627",C2H2_ZnFinger,Structural,Unknown,,
+YPL202C,NP_015122 ,AFT2,Q08957,NP_015122.1 Aft2p [Saccharomyces cerevisiae S288c],1,nucleus,"C86, C109, H133, H135",NoCluster,Structural,AFT,,
+YDR524C,NP_010812 ,AGE1,Q04412,NP_010812.3 Age1p [Saccharomyces cerevisiae S288c],1,endosome,"C186, C189, C207, C210",TrebleClef,Structural,ArfGap,,
+YDL175C,NP_010106 ,AIR2,Q12476,NP_010106.1 TRAMP complex RNA-binding subunit [Saccharomyces cerevisiae S288c],3,nucleus,"C63, C66, H71, C76, C164, C167, H172, C177, E179, C81, C84, H90, C95, C123, C126, H131, C136",Shuffled_ZnRibbonII,Structural,zf-CCHC,,
+YDL008W,NP_010276 ,APC11,Q12157,NP_010276.3 anaphase promoting complex subunit 11 [Saccharomyces cerevisiae S288c],3,vacuolar membrane,"C41, C44, C52, C55, C62, C69, H71, H74, H76, C77, C91, C94","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-ANAPC11,zf-rbx1",6.3.2.-,ligase
+YBL019W,NP_009534 ,APN2,P38207,NP_009534.1 DNA-(apurinic or apyrimidinic site) lyase APN2 [Saccharomyces cerevisiae S288c],1,nucleus,"C476, H478, C500, C514",Unknown,Structural,zf-GRF (Pfam),4.2.99.18,lyase
+YML099C,NP_013610 ,ARG81,P05085,NP_013610.1 Arg81p [Saccharomyces cerevisiae S288c],2,nucleus,"C21, C24, C31, C38, C41, C48",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR421W,NP_010709 ,ARO80,Q04052,NP_010709.1 Aro80p [Saccharomyces cerevisiae S288c],2,nucleus,"C25, C28, C35, C48, C51, C58",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR242C,NP_013343 ,ARV1,Q06541,NP_013343.1 sterol homeostasis protein ARV1 [Saccharomyces cerevisiae S288c],1,"ER, Golgi",C3-C6-C27-C30,Unknown,Structural,Arv1,,
+YKL185W,NP_012736 ,ASH1,P34233,NP_012736.1 DNA-binding transcription repressor ASH1 [Saccharomyces cerevisiae S288c],1,nucleus,"C499, C502, C523, C526",TrebleClef,Structural,GATA,,
+YMR119W,NP_013837 ,ASI1,P54074,NP_013837.1 putative ubiquitin-protein ligase ASI1 [Saccharomyces cerevisiae S288c],2,nucleus,"C568, C571, C583, C589, C592, C604, C607","TrebleClef, Loosened_ZnRibbon, ZincRibbon",Structural,zf-C3HC4_3,,
+YNL008C,NP_014390 ,ASI3,P53983,NP_014390.2 putative ubiquitin-protein ligase ASI3 [Saccharomyces cerevisiae S288c],2,nucleus,"C624, C627, C639, C645, C648, C660, C663","TrebleClef, Loosened_ZnRibbon, ZincRibbon",Structural,zf-C3HC4_3,,
+YPR093C,NP_015418 ,ASR1,Q06834,NP_015418.2 ubiquitin-protein ligase ASR1 [Saccharomyces cerevisiae S288c],4,"cytosol, nucleus","C4, C7, C23, H25, H28, C31, C44, C47","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_11,zf-rbx1",,
+YHR171W,NP_012041 ,ATG7,P38862,NP_012041.1 Atg7p [Saccharomyces cerevisiae S288c],1,cytosol,"C485, C488, C569",TrebleClef,Structural,ThiF,,
+YHR040W,NP_011906 ,BCD1,P38772,NP_011906.1 Bcd1p [Saccharomyces cerevisiae S288c],1 or 2,"cytosol, nucleus","C5, C8, C17, C20, C25, C29",C2H2_ZnFinger,Structural,zf-HIT,,
+YJR089W,NP_012622 ,BIR1,P47134,NP_012622.3 Bir1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C208, C211, H228, C237",C2H2_ZnFinger,Structural,BIR,,
+YKL005C,NP_012921 ,BYE1,P36106,NP_012921.3 Bye1p [Saccharomyces cerevisiae S288c],2,nucleus,"C75, C77, C97, G99, C100, D101, H105, C108, C128, C131",TrebleClef,Structural,PHD,,
+YMR280C,NP_014007 ,CAT8,P39113,NP_014007.1 DNA-binding transcription factor CAT8 [Saccharomyces cerevisiae S288c],2,nucleus,"C70, C73, C80, C87, C90, C97",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YMR168C,NP_013891 ,CEP3,P40969,NP_013891.1 Cep3p [Saccharomyces cerevisiae S288c],2,nucleus,"C14, C17, C24, C30, C33, C42",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR098C,NP_013199 ,CHA4,P43634,NP_013199.1 Cha4p [Saccharomyces cerevisiae S288c],2,nucleus,"C44, C47, C54, C60, C63, C70",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPR013C,NP_015338 ,CMR3,Q12145,NP_015338.1 Cmr3p [Saccharomyces cerevisiae S288c],2,Unknown,"C256, C259, H272, H276, C284, C289, H302, H306, E307",C2H2_ZnFinger,Structural,Unknown,,
+YER130C,NP_011056 ,COM2,P39959,NP_011056.1 Com2p [Saccharomyces cerevisiae S288c],2,Unknown,"C391, C394, H407, H412, C420, C423, K425, H436, H440","ZincRibbon, C2H2_ZnFinger",Structural,"zf-C2H2,zf-C2H2_4",,
+YLR394W,NP_013498 ,CST9,Q06032,NP_013498.3 SUMO ligase CST9 [Saccharomyces cerevisiae S288c],1,nucleus,"C72, H74, C88, C91",TrebleClef,Structural,zf-RING_5,,
+YDR151C,NP_010435 ,CTH1,P47976,NP_010435.1 putative mRNA-binding protein CTH1 [Saccharomyces cerevisiae S288c],2,nucleus,"C210, C219, C225, H229, C248, C257, C263, H267",ZincNecklaces,Structural,zf-CCCH,,
+YGL166W,NP_011349 ,CUP2,P15315,NP_011349.3 Cup2p [Saccharomyces cerevisiae S288c],1,nucleus,"C11, C14, C23, H25",Zn2Cys6_ZnFinger,Structural,Copper-fist,,
+YNL155W,NP_014244 ,CUZ1,P53899,NP_014244.1 Cuz1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C18, C21, C31, C34, C39, H42, H48, C50",TrebleClef,Structural,zf-AN1,,
+YLR323C,NP_013427 ,CWC24,P53769,NP_013427.1 U2-type spliceosomal complex subunit CWC24 [Saccharomyces cerevisiae S288c],3,nucleus,"C144, C153, C159, H163, C199, C202, C214, H216, C219, C222, C233, C236","TrebleClef, ZincNecklaces, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_5,zf-C3HC4_3,Prok-RING_4,zf-C3HC4_2,zf-RING_UBOX,zf-CCCH",,
+YKR034W,NP_012959 ,DAL80,P26343,NP_012959.1 Dal80p [Saccharomyces cerevisiae S288c],1,nucleus,"C31, C34, C52, C55",TrebleClef,Structural,GATA,,
+YDR052C,NP_010337 ,DBF4,P32325,NP_010337.3 protein serine/threonine kinase activating protein DBF4 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C661, C664, H674, H680",C2H2_ZnFinger,Structural,zf-DBF,,
+YHR115C,NP_011983 ,DMA1,P38823,NP_011983.1 ubiquitin-conjugating protein DMA1 [Saccharomyces cerevisiae S288c],2,cytosol,"C327, C330, C345, H347, H350, C353, C367, C370","TrebleClef, ZincRibbon",Structural,"zf-RING_2,zf-RING_11",2.3.2.27,transferase
+YDR069C,NP_010354 ,DOA4,P32571,NP_010354.3 ubiquitin-specific protease DOA4 [Saccharomyces cerevisiae S288c],1,cytosol,C732-C735-C784-C787,ZincRibbon,Structural,"UCH_1,Rhodanese",3.4.19.12,hydrolase
+YPR017C,NP_015342 ,DSS4,P32601,NP_015342.1 guanine nucleotide exchange factor DSS4 [Saccharomyces cerevisiae S288c],1,cytosol,"C104, C107",ZincRibbon,Structural,Mss4,,
+YPL021W,NP_015304 ,ECM23,Q02710,NP_015304.1 Ecm23p [Saccharomyces cerevisiae S288c],1,Unknown,"C132, C135, C154, C157",TrebleClef,Structural,GATA,,
+YMR176W,NP_013901 ,ECM5,Q03214,NP_013901.1 Ecm5p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C1241, C1243, C1255, C1258, H1263, C1266, C1284, C1287",TrebleClef,Structural,PHD,,
+YFR027W,NP_116683 ,ECO1,P43605,NP_116683.1 Eco1p [Saccharomyces cerevisiae S288c],1,nucleus,"C35, C38, H53, H57",Unknown,Structural,zf-C2H2_3,2.3.1.-,transferase
+YBR033W,NP_009589 ,EDS1,P38073,NP_009589.1 Eds1p [Saccharomyces cerevisiae S288c],2,Unknown,"C56, C59, C66, C75, C78, C85",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YGR071C,NP_011585 ,ENV11,P53246,NP_011585.3 Env11p [Saccharomyces cerevisiae S288c],1,nucleus,"C105, C108, H126, H131",C2H2_ZnFinger,Structural,zf-BED,,
+YBR239C,NP_009798 ,ERT1,P38140,NP_009798.3 Ert1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C40, C43, C50, C56, C59, C68",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YHL010C,NP_011853 ,ETP1,P38748,NP_011853.1 Etp1p [Saccharomyces cerevisiae S288c],4,Unknown,"C240, C243, C259, H261, H264, C265, C267, C276, C279, C301, C304, C313, C316, C321, H328, H332, H338","TrebleClef, Zn2Cys6_ZnFinger, Loosened_ZnRibbon, ZincRibbon, C2H2_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-UBP,zf-RING_5,zf-C3HC4_3,zf-C3HC4_2,zf-RING_UBOX,zf-rbx1,zf-RING_11",,
+YFR019W,NP_116674 ,FAB1,P34756,NP_116674.2 1-phosphatidylinositol-3-phosphate 5-kinase [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"C246, C249, C262, C265, C270, C273, C291, C294",TrebleClef,Structural,FYVE,2.7.1.150,transferase
+YNL023C,NP_014375 ,FAP1,P53971,NP_014375.1 Fap1p [Saccharomyces cerevisiae S288c],12,cytosol,"C68, C71, C79, C84, C87, C95, C114, C117, C159, H161, C163, C167, H168, H172, C175, C216, H219, C221, C225, H226, C230, C233, C362, H365, C367, C371, H372, C376, C380, C468, H471, C473, C477, H478, C482, C485, C586, H588, C590, C594, H595, C600, C604",Unknown,Structural,"RING-type, NF-X1-type, NF-X1-type, NF-X1-type, NF-X1-type, NF-X1-type",,
+YJL157C,NP_012378,FAR1,P21268,NP_012378.1 cyclin-dependent protein serine/threonine kinase inhibiting protein FAR1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C202, C205, C223, H225, H228, C231, C248, C251",Unknown,Structural,RING-type,,
+YDR339C,NP_010626 ,FCF1,Q05498,NP_010626.1 rRNA-processing protein FCF1 [Saccharomyces cerevisiae S288c],1,nucleus,"C101, C130, H132, C140",NoCluster,Structural,Fcf1,,
+YDR110W,NP_010395,FOB1,O13329,NP_010395.1 replication fork barrier binding protein FOB1 [Saccharomyces cerevisiae S288c],1,nucleus,"H159, H164, C193, C196",C2H2_ZnFinger,Structural,C2H2-type,,
+YGL254W,NP_011260 ,FZF1,P32805,NP_011260.1 Fzf1p [Saccharomyces cerevisiae S288c],5,nucleus,"C14, C19, K21, H32, H36, C44, C49, H62, H66, C74, C77, H90, H94",C2H2_ZnFinger,Structural,zf-C2H2,,
+YPL248C,NP_015076 ,GAL4,P04386,NP_015076.1 galactose-responsive transcription factor GAL4 [Saccharomyces cerevisiae S288c],2,nucleus,"C11, C14, C21, C28, C31, C38",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YBR018C,NP_009574 ,GAL7,P08431,NP_009574.1 UDP-glucose:hexose-1-phosphate uridylyltransferase [Saccharomyces cerevisiae S288c],1,cytosol,"C54, C57, H124, H180",ZincNecklaces,Structural,GalP_UDP_transf,2.7.7.12,transferase
+YMR136W,NP_013856 ,GAT2,P40209,NP_013856.1 Gat2p [Saccharomyces cerevisiae S288c],1,nucleus,"C472, C475, C494, C497",TrebleClef,Structural,GATA,,
+YLR013W,NP_013113 ,GAT3,Q07928,NP_013113.1 Gat3p [Saccharomyces cerevisiae S288c],1,nucleus,"C72, C75, C95, C98",TrebleClef,Structural,GATA,,
+YIR013C,NP_012278 ,GAT4,P40569,NP_012278.3 Gat4p [Saccharomyces cerevisiae S288c],1,nucleus,"C53, C56, C76, C79",TrebleClef,Structural,GATA,,
+YJL103C,NP_012432 ,GSM1,P42950,NP_012432.1 Gsm1p [Saccharomyces cerevisiae S288c],2,nucleus,"C20, C23, C30, C36, C39, C48",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKR017C,NP_012942 ,HEL1,P36113,NP_012942.3 E3 ubiquitin-protein ligase HEL1 [Saccharomyces cerevisiae S288c],4,Unknown,"C179, C182, C195, H197, C200, C203, C220, C223, C263, C268, C294, C301, C304, H309, C314, C341, C344, H356, C359, C362, C367, C370, H377","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,IBR",2.3.2.-,transferase
+YGL251C,NP_011263,HFM1,P51979,NP_011263.2 Hfm1p [Saccharomyces cerevisiae S288c],1,nucleus,"C1039, C1043, C1049, C1054",ZincRibbon,Structural,C4-type,3.6.4.12,hydrolase
+YJR055W,NP_012589 ,HIT1,P46973,NP_012589.1 Hit1p [Saccharomyces cerevisiae S288c],1 or 2,"cytosol, nucleus","C8, C11, C20, C23, C28, C32",C2H2_ZnFinger,Structural,zf-HIT,,
+YOR258W,NP_014901 ,HNT3,Q08702,NP_014901.1 DNA 5'-adenosine monophosphate hydrolase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C188, C191, H205, E209",C2H2_ZnFinger,Structural,zf-C2HE,3.-.-.-,hydrolase
+YDL227C,NP_010054,HO,P09932,NP_010054.1 Hop [Saccharomyces cerevisiae S288c],3,nucleus,"C466, C470, C486, C489, C508, C511, C522, C525, C558, C561, H574, C577",Unknown,Structural,Unknown,,
+YIL072W,NP_012193,HOP1,P20050,NP_012193.3 Hop1p [Saccharomyces cerevisiae S288c],1,nucleus,"C3548, C351, H336, C359",Unknown,Structural,Zinc-finger,,
+YKL084W,NP_012839 ,HOT13,P36078,NP_012839.1 Hot13p [Saccharomyces cerevisiae S288c],3,mitochondrion,"C17, H19, C33, C34, C40, C43, H44, H50, H64, C71, C89, C92, C68","TrebleClef, C2H2_ZnFinger",Structural,zf-CHY,,
+YOL013C,NP_014630 ,HRD1,Q08109,NP_014630.1 E3 ubiquitin-protein ligase HRD1 [Saccharomyces cerevisiae S288c],2,ER,"C349, C352, C377, H379, H382, C385, C396, C399, D405","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_5,zf-C3HC4_3,Prok-RING_4,zf-RING_UBOX,zf-rbx1",2.3.2.27,transferase
+YOL133W,NP_014508 ,HRT1,Q08273,NP_014508.1 SCF ubiquitin ligase complex subunit HRT1 [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C55, C58, C66, C69, C81, C88, H90, H93, H95, C96, C107, D110","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-ANAPC11,zf-rbx1",,
+YOR025W,NP_014668 ,HST3,P53687,NP_014668.1 NAD-dependent histone deacetylase HST3 [Saccharomyces cerevisiae S288c],1,nucleus,"C195, C198, C220, C223",ZincRibbon,Structural,SIR2,3.5.1.-,hydrolase
+YDR191W,NP_010477 ,HST4,P53688,NP_010477.3 NAD-dependent histone deacetylase HST4 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C221, C224, C251, C254",ZincRibbon,Structural,SIR2,3.5.1.-,hydrolase
+YPL040C,NP_015285 ,ISM1,P48526,NP_015285.1 isoleucine--tRNA ligase ISM1 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C975, C978, C990, C993",TrebleClef,Structural,Unknown,6.1.1.5,ligase
+YML068W,NP_013643 ,ITT1,Q04638,NP_013643.1 Itt1p [Saccharomyces cerevisiae S288c],4,Unknown,"C297, C300, C316, C319, C324, C327, H332, C338, C402, C405, C420, C423, G424, C428, C431",TrebleClef,Structural,IBR,2.3.2.-,transferase
+YJR119C,NP_012653 ,JHD2,P47156,NP_012653.1 histone demethylase [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C238, C241, C253, C256, D257, H261, C264, C279, C282, C630, C633",TrebleClef,Structural,PHD,1.14.11.-,oxidoreductase
+YNL227C,NP_014172 ,JJJ1,P53863,NP_014172.1 Jjj1p [Saccharomyces cerevisiae S288c],1,nucleus,"C340, C343, H356, H362",C2H2_ZnFinger,Structural,"zf-C2H2_jaz,zf-met",,
+YJR097W,NP_012631 ,JJJ3,P47138,NP_012631.3 Jjj3p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C113, C116, C152, C155",ZincRibbon,Structural,zf-CSL,,
+YBL071W-A,NP_660100 ,KTI11,Q3E840,NP_660100.1 Kti11p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C25, C27, C47, C50",ZincRibbon,Structural,zf-CSL,,
+YPL054W,NP_015271 ,LEE1,Q02799,NP_015271.1 Lee1p [Saccharomyces cerevisiae S288c],2,Unknown,"C93, C101, C107, H111, C124, C132, C138, H142",ZincNecklaces,Structural,"Torus,zf-CCCH",,
+YLR451W,NP_013556 ,LEU3,P08638,NP_013556.3 leucine-responsive transcriptional regulator LEU3 [Saccharomyces cerevisiae S288c],2,nucleus,"C37, C40, C47, C57, C60, C67",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDL240W,NP_010041 ,LRG1,P35688,NP_010041.2 Lrg1p [Saccharomyces cerevisiae S288c],4,cytosol,"C28, C31, H54, C57, C60, C63, C86, D89, C419, C422, H439, C442, C445, C448, C471, H473, C474",TrebleClef,Structural,LIM,,
+YDL087C,NP_010196 ,LUC7,Q07508,NP_010196.1 Luc7p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C45, C53, C68, H72, C201, C204, H220, H226",Unknown,Structural,LUC7 (Pfam),,
+YMR021C,NP_013734 ,MAC1,P35192,NP_013734.1 Mac1p [Saccharomyces cerevisiae S288c],1,nucleus,"C11, C14, C23, H25",Zn2Cys6_ZnFinger,Structural,Copper-fist,,
+YGR288W,NP_011804 ,MAL13,P53338,NP_011804.1 transcription factor MAL13 [Saccharomyces cerevisiae S288c],2,nucleus,"C13, C16, C23, C29, C32, C39",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YBR297W,NP_009856 ,MAL33,P38157,NP_009856.3 transcription factor MAL33 [Saccharomyces cerevisiae S288c],2,nucleus,"C8, C11, C18, C24, C27, C34",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YIL150C,NP_012116 ,MCM10,P32354,NP_012116.1 Mcm10p [Saccharomyces cerevisiae S288c],1,nucleus,"C309, C320, C332, H335",ZincRibbon,Structural,zf-primase,,
+YPL038W,NP_015287 ,MET31,Q03081,NP_015287.1 Met31p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C97, C100, H113, H117",C2H2_ZnFinger,Structural,Unknown,,
+YDR253C,NP_010539 ,MET32,Q12041,NP_010539.1 Met32p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C100, C103, H116, H120, C128, C131","TrebleClef, C2H2_ZnFinger",Structural,zf-C2H2,,
+YGL209W,NP_011306 ,MIG2,P53035,NP_011306.1 Mig2p [Saccharomyces cerevisiae S288c],2,"mitochrondrion, nucleus","H35, H39, C47, C52, K54, H65, H69",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YER028C,NP_010945 ,MIG3,P39943,NP_010945.1 Mig3p [Saccharomyces cerevisiae S288c],2,nucleus,"C47, C52, K54, H65, H69, C19, C22, H35, H39",C2H2_ZnFinger,Structural,zf-C2H2,,
+YEL019C,NP_010896 ,MMS21,P38632,NP_010896.3 SUMO ligase MMS21 [Saccharomyces cerevisiae S288c],1,nucleus,"C200, H202, C221, C226",Loosened_ZnRibbon,Structural,zf-Nse,6.3.2.-,ligase
+YDR128W,NP_010413 ,MTC5,Q03897,NP_010413.3 Mtc5p [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"C1098, C1101, C1112, C1115, H1117, H1120, C1123, C1134",Unknown,Structural,Zn_ribbon_17,,
+YMR100W,NP_013818 ,MUB1,Q03162,NP_013818.1 Mub1p [Saccharomyces cerevisiae S288c],2,nucleus,"C530, C533, H551, C555, C406, C517, C539, C543",C2H2_ZnFinger,Structural,zf-MYND,,
+YOR156C,NP_014799 ,NFI1,Q12216,NP_014799.1 SUMO ligase NFI1 [Saccharomyces cerevisiae S288c],1,nucleus,"C354, H356, C377, C380",Loosened_ZnRibbon,Structural,"zf-MIZ,zf-Nse",6.3.2.-,ligase
+YDR043C,NP_010328 ,NRG1,Q03125,NP_010328.3 transcriptional regulator NRG1 [Saccharomyces cerevisiae S288c],2,nucleus,"C176, C179, H192, H196, C209, H222, H226",C2H2_ZnFinger,Structural,Unknown,,
+YBR066C,NP_009622 ,NRG2,P38082,NP_009622.1 Nrg2p [Saccharomyces cerevisiae S288c],2,nucleus,"C20, C28, C155, C158, H171, H175",C2H2_ZnFinger,Structural,Unknown,,
+YLR007W,NP_013107 ,NSE1,Q07913,NP_013107.1 Smc5-Smc6 complex subunit NSE1 [Saccharomyces cerevisiae S288c],2,nucleus,"C271, C274, C284, C289, H306, C309, C321, C324",C2H2_ZnFinger,Structural,zf-RING-like,,
+YPR031W,NP_015356 ,NTO1,Q12311,NP_015356.1 Nto1p [Saccharomyces cerevisiae S288c],5,nucleus,"C266, C269, C283, G285, C286, D287, H291, C294, C307, C310, C320, C323, H340, C343, C376, C379, C389, C394, T396, H399, C402, C435, H438",TrebleClef,Structural,"zf-HC5HC2H,zf-HC5HC2H_2,PHD_2,PHD",,
+YAL051W,NP_009349 ,OAF1,P39720,NP_009349.3 oleate-activated transcription factor OAF1 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C66, C69, C76, C83, C86, C93",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKR064W,NP_012990 ,OAF3,P36023,NP_012990.1 Oaf3p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C19, C22, C29, C35, C38, C47",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YGL094C,NP_011421 ,PAN2,P53010,NP_011421.1 poly(A)-specific ribonuclease [Saccharomyces cerevisiae S288c],1,cytosol,C658-C660-C713-C716,ZincRibbon,Structural,UCH_1,3.1.13.4,hydrolase
+YBL005W,NP_009548 ,PDR3,P33200,NP_009548.1 drug-responsive transcription factor PDR3 [Saccharomyces cerevisiae S288c],2,nucleus,"C15, C18, C25, C31, C34, C41",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR266C,NP_013368 ,PDR8,Q06149,NP_013368.1 Pdr8p [Saccharomyces cerevisiae S288c],2,nucleus,"C31, C34, C41, C48, C51, C59",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR323C,NP_010610 ,PEP7,P32609,NP_010610.3 Pep7p [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C221, C224, C237, C240, C245, C252, C289, C292",TrebleClef,Structural,FYVE,,
+YDR265W,NP_010551 ,PEX10,Q05568,NP_010551.1 ubiquitin-protein ligase peroxin 10 [Saccharomyces cerevisiae S288c],2,peroxisome,"C286, C289, C298, C301, H303, C306, C309, C320, C323","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-C3HC4_3,Prok-RING_4,zf-C3HC4_2",,
+YMR026C,NP_013739 ,PEX12,Q04370,NP_013739.1 ubiquitin-protein ligase peroxin 12 [Saccharomyces cerevisiae S288c],1,peroxisome,"C334, C337, C354, C357","TrebleClef, Loosened_ZnRibbon, ZincRibbon",Structural,zf-C3HC4_3,,
+YJL210W,NP_012325,PEX2,P32800,NP_012325.1 ubiquitin-protein ligase peroxin 2 [Saccharomyces cerevisiae S288c],2,peroxisome,"C222, C225, C237, C243, C246, C256, C259",Unknown,Structural,RING-type,,
+YDR313C,NP_010599 ,PIB1,Q06651,NP_010599.1 phosphatidylinositol-3-phosphate-binding ubiquitin-protein ligase [Saccharomyces cerevisiae S288c],4,vacuolar membrane,"C23, C26, H37, C39, C41, C42, C47, C50, C80, C83, C154, C157, H173, C177, C225, C228, H248, C251","TrebleClef, ZincRibbon",Structural,"RNF220,zf-RING_2,zf-RING_11,FYVE,zf-RING_UBOX",2.3.2.27,transferase
+YOR363C,NP_015008 ,PIP2,P52960,NP_015008.3 oleate-activated transcription factor PIP2 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C25, C28, C35, C42, C45, C52",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YML107C,NP_013600 ,PML39,Q03760,NP_013600.2 Pml39p [Saccharomyces cerevisiae S288c],1,nucleus,"C268, C271, H288, C292",Unknown,Structural,zf-C3HC (Pfam),,
+YDL102W,NP_010181 ,POL3,P15436,NP_010181.2 DNA-directed DNA polymerase delta POL3 [Saccharomyces cerevisiae S288c],1,nucleus,"C1009, C1012, C1024, C1027",Unknown,Structural,zf-C4pol (Pfam),2.7.7.7,transferase
+YLR014C,NP_013114 ,PPR1,P07272,NP_013114.1 Ppr1p [Saccharomyces cerevisiae S288c],2,nucleus,"C34, C37, C44, C51, C54, C61",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDL043C,NP_010241 ,PRP11,Q07350,NP_010241.1 Prp11p [Saccharomyces cerevisiae S288c],1,nucleus,"C68, C71, H84, H90",C2H2_ZnFinger,Structural,zf-met,,
+YDL030W,NP_010254 ,PRP9,P19736,NP_010254.1 SF3a splicing factor complex subunit PRP9 [Saccharomyces cerevisiae S288c],2,nucleus,"C282, C285, H298, H304",C2H2_ZnFinger,Structural,zf-C2H2_jaz,,
+YOL054W,NP_014587 ,PSH1,Q12161,NP_014587.1 ubiquitin-protein ligase PSH1 [Saccharomyces cerevisiae S288c],2,nucleus,"C30, C33, C45, H47, C50, C53, C68, C71, S73, C150, C153, C168, C171, D258","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_5,zf-C3HC4_4,zf-C3HC4_3,zf-C3HC4_2,Prok-RING_4,zf-RING_UBOX",,
+YMR137C,NP_013857,PSO2,P30620,NP_013857.1 Pso2p [Saccharomyces cerevisiae S288c],1,nucleus,"C147, C150, C166, C169",Unknown,Structural,Zinc-finger,3.1.-.-,hydrolase
+YKL015W,NP_012910 ,PUT3,P25502,NP_012910.1 Put3p [Saccharomyces cerevisiae S288c],2,nucleus,"C34, C37, C44, C50, C53, C60",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKR090W,NP_013016 ,PXL1,P36166,NP_013016.4 Pxl1p [Saccharomyces cerevisiae S288c],4,cytosol,"C556, C559, H581, C584, C587, C590, C609, H612, C621, C624, H642, C645, C648, C651, C669, H672",TrebleClef,Structural,LIM,,
+YPR186C,NP_015512 ,PZF1,P39933,NP_015512.1 Pzf1p [Saccharomyces cerevisiae S288c],9,nucleus,"H98, H102, C110, C113, C165, C168, H181, H185, H186, C82, C85, H126","ZincRibbon, C2H2_ZnFinger",Structural,"zf-C2H2_4,zf-H2C2_2",,
+YBR114W,NP_009672 ,RAD16,P31244,NP_009672.1 DNA repair protein RAD16 [Saccharomyces cerevisiae S288c],2,nucleus,"C537, C540, C552, H554, C557, C560, C577, C580","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,zf-C3HC4,3.6.4.-,hydrolase
+YCR066W,NP_009992 ,RAD18,P10862,NP_009992.1 E3 ubiquitin-protein ligase RAD18 [Saccharomyces cerevisiae S288c],2,nucleus,"C28, C31, C43, H45, C48, C51, C62, C65, C190, C193","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_6,zf-RING_5,zf-C3HC4_4,zf-C3HC4_3,zf-C3HC4_2,Prok-RING_4,zf-RING_UBOX",2.3.2.27,transferase
+YLR032W,NP_013132 ,RAD5,P32849,NP_013132.1 DNA helicase RAD5 [Saccharomyces cerevisiae S288c],2,nucleus,"C914, C917, C932, H934, C937, C940, C957, C960","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_UBOX,zf-C3HC4_3,zf-RING_5",3.6.4.-,hydrolase
+YOR380W,NP_015025 ,RDR1,Q08904,NP_015025.3 Rdr1p [Saccharomyces cerevisiae S288c],2,nucleus,"C20, C23, C30, C36, C39, C46",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YCR106W,NP_010031 ,RDS1,P25611,NP_010031.1 Rds1p [Saccharomyces cerevisiae S288c],2,Unknown,"C15, C18, C25, C32, C35, C42",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPR094W,NP_015419 ,RDS3,Q06835,NP_015419.1 U2 snRNP complex subunit RDS3 [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C11, C23, C26, C30, C33, C46, C49, C58, C61, C73, C76, C86",ZincRibbon,Structural,PHF5,,
+YBR267W,NP_009825 ,REI1,P38344,NP_009825.4 Rei1p [Saccharomyces cerevisiae S288c],2,cytosol,"C164, C167, H182, H187, C217, C220, H233, H239",C2H2_ZnFinger,Structural,zf-C2H2_2,,
+YPL167C,NP_015158 ,REV3,P14284,NP_015158.1 Rev3p [Saccharomyces cerevisiae S288c],1,mitochondrion,"C1398, C1401, C1414, C1417",Unknown,Structural,zf-C4pol (Pfam),2.7.7.7,transferase
+YMR182C,NP_013907 ,RGM1,Q00453,NP_013907.1 Rgm1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C21, C27, H40, H44, C52, C55, H68, H73",C2H2_ZnFinger,Structural,"zf-C2H2,zf-C2H2_6,zf-H2C2_2",,
+YKL038W,NP_012886 ,RGT1,P32862,NP_012886.3 Rgt1p [Saccharomyces cerevisiae S288c],2,nucleus,"C47, C50, C57, C66, C69, C76",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YHL027W,NP_011836 ,RIM101,P33400,NP_011836.1 alkaline-responsive transcriptional regulator RIM101 [Saccharomyces cerevisiae S288c],from 1 to 3,nucleus,"C148, C153, H166, H171",C2H2_ZnFinger,Structural,Unknown,,
+YDR255C,NP_010541 ,RMD5,Q12508,NP_010541.3 ubiquitin-protein ligase RMD5 [Saccharomyces cerevisiae S288c],1,cytosol,"C379, H381, C401",TrebleClef,Structural,zf-RING_UBOX,,
+YGR044C,NP_011558,RME1,P32338,NP_011558.1 Rme1p [Saccharomyces cerevisiae S288c],3,nucleus,"C180, C183, H196, E199, C206, C208, H229, H234, C258, C263, H276, H281",C2H2_ZnFinger,Structural,"C2H2-type, C2H2-type, C2H2-type",,
+YER169W,NP_011096 ,RPH1,P39956,NP_011096.1 Rph1p [Saccharomyces cerevisiae S288c],2,nucleus,"C281, H287, H727, H732, C740, C743, C711, C714",C2H2_ZnFinger,Structural,zf-H2C2_2,,
+YKR094C,NP_013020 ,RPL40B,P0CH09,NP_013020.3 ubiquitin-ribosomal 60S subunit protein L40B fusion protein [Saccharomyces cerevisiae S288c],1,cytosol,"C96, C99, C110, C115",ZincRibbon,Structural,Ribosomal_L40e,,
+YHR141C,NP_014237,RPL42B,P0CX28,NP_014237.2 ribosomal 60S subunit protein L42A [Saccharomyces cerevisiae S288c],1 or 2,cytosol,"C12, C17, H20, H23, C74, C77, C88",ZincRibbon,Structural,Ribosomal_L44 (Pfam),,
+YJR094W-A,NP_015368,RPL43B,P0CX26,NP_015368.1 ribosomal 60S subunit protein L43A [Saccharomyces cerevisiae S288c],1,cytosol,"C39, C42, C57, C60",ZincRibbon,Structural,C4-type,,
+YIR015W,NP_012280,RPR2,P40571,NP_012280.1 ribonuclease P protein subunit RPR2 [Saccharomyces cerevisiae S288c],1,nucleus,"C90, C93, C115, C117",ZincRibbon,Structural,Zinc-finger,3.1.26.5,hydrolase
+YHR021C,NP_011885 ,RPS27B,P38711,NP_011885.1 ribosomal 40S subunit protein S27B [Saccharomyces cerevisiae S288c],1,cytosol,"C37, C56, C59",ZincRibbon,Structural,Ribosomal_S27e,,
+YJL025W,NP_012509 ,RRN7,P40992,NP_012509.1 Rrn7p [Saccharomyces cerevisiae S288c],1,nucleus,"C10, C15, C29, H33",Unknown,Structural,zf-RRN7 (Pfam),,
+YJR127C,NP_012661 ,RSF2,P46974,NP_012661.3 Rsf2p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C153, C156, H169, C181, C184, H197, H202",C2H2_ZnFinger,Structural,Unknown,,
+YOL138C,NP_014503 ,RTC1,Q08281,NP_014503.2 Rtc1p [Saccharomyces cerevisiae S288c],2,vacuolar membrane,"C1283, C1286, C1293, C1296, C1310, H1312, H1315, C1318, C1331","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-RING_2,Zn_ribbon_17,zf-rbx1,zf-C3HC4_2",,
+YDR066C,NP_010351 ,RTR2,Q12378,NP_010351.1 putative protein-serine/threonine phosphatase [Saccharomyces cerevisiae S288c],1,cytosol,"C75, C80, C99, H103",C2H2_ZnFinger,Structural,RPAP2_Rtr1,3.1.3.16,hydrolase
+YOR077W,NP_014720 ,RTS2,P40962,NP_014720.1 Rts2p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C26, C29, H42, H48",C2H2_ZnFinger,Structural,zf-C2H2_jaz,,
+YFR005C,NP_116660 ,SAD1,P43589,NP_116660.1 mRNA splicing protein SAD1 [Saccharomyces cerevisiae S288c],1,nucleus,"C60, C63, H79, H85","TrebleClef, C2H2_ZnFinger",Structural,zf-UBP,,
+YMR127C,NP_013846,SAS2,P40963,NP_013846.1 Sas2p [Saccharomyces cerevisiae S288c],1,nucleus,"C103, C106, H119, C123",C2H2_ZnFinger,Structural,C2HC MYST-type,2.3.1.48,transferase
+YPR022C,NP_015347,SDD4,Q12139,NP_015347.1 Sdd4p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C33, H35, H51, H55",C2H2_ZnFinger,Structural,"C2H2-type, C2H2-type",,
+YBL066C,NP_009487 ,SEF1,P34228,NP_009487.2 Sef1p [Saccharomyces cerevisiae S288c],2,Unknown,"C57, C60, C67, C77, C80, C87",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YJL089W,NP_012446 ,SIP4,P46954,NP_012446.1 Sip4p [Saccharomyces cerevisiae S288c],2,nucleus,"C46, C49, C56, C63, C66, C73",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDL042C,NP_010242 ,SIR2,P06700,NP_010242.1 NAD-dependent histone deacetylase SIR2 [Saccharomyces cerevisiae S288c],1,nucleus,"C372, C375, C396, C399",ZincRibbon,Structural,SIR2,3.5.1.-,hydrolase
+YDR088C,NP_010373 ,SLU7,Q02775,NP_010373.3 mRNA splicing protein SLU7 [Saccharomyces cerevisiae S288c],1,nucleus,"C122, C125, H130, C135",Shuffled_ZnRibbonII,Structural,Unknown,,
+YBR228W,NP_009787,SLX1,P38324,NP_009787.3 endonuclease [Saccharomyces cerevisiae S288c],2,nucleus,"C218, C221, C241, C246, H251, C254, C279, C282",C2H2_ZnFinger,Structural,SLX1-type,3.1.-.-,hydrolase
+YER116C,NP_011041 ,SLX8,P40072,NP_011041.3 SUMO-targeted ubiquitin ligase complex subunit SLX8 [Saccharomyces cerevisiae S288c],2,nucleus,"C206, C209, C221, H223, C226, C229, C240, C246, C249, S251","TrebleClef, Loosened_ZnRibbon, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-C3HC4_3,zf-C3HC4_2",2.3.2.27,transferase
+YDR478W,NP_010766 ,SNM1,P40993,NP_010766.3 Snm1p [Saccharomyces cerevisiae S288c],1,nucleus,"C61, C64, C106, C109",ZincRibbon,Structural,Rpr2,,
+YGL131C,NP_011384 ,SNT2,P53127,NP_011384.1 DNA-binding E3 ubiquitin-protein ligase SNT2 [Saccharomyces cerevisiae S288c],6,"cytosol, nucleus","C320, C323, C335, C338, H343, C346, C363, C366, C1041, C1044, C1058, C1061, H1066, C1069, C1091, C1094, H1143, C1146, C1179, C1182, C1192, C1195, H1200, C1203",TrebleClef,Structural,"zf-HC5HC2H,zf-HC5HC2H_2,PHD",2.3.2.27,transferase
+YDL098C,NP_010185 ,SNU23,Q12368,NP_010185.1 U4/U6-U5 snRNP complex subunit SNU23 [Saccharomyces cerevisiae S288c],1,nucleus,"C82, C85, H98, H104",C2H2_ZnFinger,Structural,"zf-C2H2_jaz,zf-met",,
+YPL138C,NP_015187 ,SPP1,Q03012,NP_015187.1 Spp1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C25, C27, C39, G41, C42, D43, H47, C50, C66, C69",TrebleClef,Structural,PHD,,
+YNL204C,NP_014195 ,SPS18,P32572,NP_014195.1 Sps18p [Saccharomyces cerevisiae S288c],1,Unknown,"C28, C31, C48, C51",TrebleClef,Structural,ArfGap,,
+YJL127C,NP_012408 ,SPT10,P35208,NP_012408.1 Spt10p [Saccharomyces cerevisiae S288c],1,nucleus,"H351, H355, C385, C388",Unknown,Structural,zf-H2C2 (Pfam),,
+YCR018C,NP_009944 ,SRD1,P09007,NP_009944.2 Srd1p [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C168, C171, C190, C193",TrebleClef,Structural,GATA,,
+YMR019W,NP_013732 ,STB4,P50104,NP_013732.1 Stb4p [Saccharomyces cerevisiae S288c],2,nucleus,"C87, C90, C97, C103, C106, C113",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YHR178W,NP_012048 ,STB5,P38699,NP_012048.3 Stb5p [Saccharomyces cerevisiae S288c],2,nucleus,"C22, C25, C32, C39, C42, C49",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR463W,NP_010751,STP1,Q00947,NP_010751.4 Stp1p [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C162, C165, H178, H182, C190, C203, H218, H223, C242, C245, H259, C265",C2H2_ZnFinger,Structural,"C2H2-type, C2H2-type, C2H2-type",,
+YHR006W,NP_011870,STP2,P38704,NP_011870.1 Stp2p [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C206, C209, H222, H226, C234, C247, H262, H267, C286, C289, C309",C2H2_ZnFinger,Structural,"C2H2-type, C2H2-type, C2H2-type",,
+YDL048C,NP_010235,STP4,Q07351,NP_010235.1 Stp4p [Saccharomyces cerevisiae S288c],3,"cytosol, nucleus","C306, C309, H322, H326",C2H2_ZnFinger,Structural,C2H2-type,,
+YDR126W,NP_010411 ,SWF1,Q04629,NP_010411.1 palmitoyltransferase SWF1 [Saccharomyces cerevisiae S288c],2,ER,"C136, C139, H149, C150, C153, C156, D161, H162, H163, C164, C170",ZincRibbon,Structural,zf-DHHC (Pfam),2.3.1.225,transferase
+YDR146C,NP_010430 ,SWI5,P08153,NP_010430.1 DNA-binding transcription factor SWI5 [Saccharomyces cerevisiae S288c],from 1 to 3,"cytosol, nucleus","C552, C557, H570, H574",C2H2_ZnFinger,Structural,Unknown,,
+YBR150C,NP_009708 ,TBS1,P38114,NP_009708.1 Tbs1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C107, C110, C117, C127, C130, C137",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YML081W,NP_013630 ,TDA9,Q04545,NP_013630.1 Tda9p [Saccharomyces cerevisiae S288c],2,nucleus,"C63, C66, H79, H83, C91, C94, H107, H112",C2H2_ZnFinger,Structural,Unknown,,
+YPR056W,NP_015381,TFB4,Q12004,NP_015381.1 TFIIH/NER complex subunit TFB4 [Saccharomyces cerevisiae S288c],1,nucleus,"C289, C291, C315, C318",ZincRibbon,Structural,C4-type,,
+YPL007C,NP_015318 ,TFC8,Q12308,NP_015318.1 transcription factor TFIIIC subunit TFC8 [Saccharomyces cerevisiae S288c],1,nucleus,"C530, H541, C545",Unknown,Structural,zf-TFIIIC (Pfam),,
+YBR240C,NP_009799 ,THI2,P38141,NP_009799.3 Thi2p [Saccharomyces cerevisiae S288c],2,nucleus,"C30, C33, C40, C47, C50, C57",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YBR091C,NP_009649 ,TIM12,P32830,NP_009649.1 Tim12p [Saccharomyces cerevisiae S288c],1,mitochondrion,"C40, C44, C61, C66",Unknown,Structural,zf-Tim10_DDP (Pfam),,
+YOR052C,NP_014695 ,TMC1,Q08422,NP_014695.1 Tmc1p [Saccharomyces cerevisiae S288c],2,nucleus,"C85, C90, C101, C104, C109, H112, H118, C120",TrebleClef,Structural,zf-AN1,,
+YER184C,NP_011111 ,TOG1,P39961,NP_011111.1 Tog1p [Saccharomyces cerevisiae S288c],2,nucleus,"C18, C21, C28, C34, C37, C44",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YOL125W,NP_014516 ,TRM13,Q12383,NP_014516.1 tRNA:m4X modification enzyme [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C75, H81, H91, C95",C2H2_ZnFinger,Structural,zf-U11-48K,2.1.1.225,transferase
+YKL034W,NP_012890 ,TUL1,P36096,NP_012890.1 ubiquitin-protein ligase TUL1 [Saccharomyces cerevisiae S288c],2,Golgi,"C699, C702, C729, H731, H734, C737, C748, C751","TrebleClef, ZincRibbon, Zn2Cys6_ZnFinger",Structural,"zf-C3HC4,zf-RING_2,zf-RING_5,zf-C3HC4_2,zf-RING_UBOX,zf-rbx1",2.3.2.27,transferase
+YBR012W-B,NP_009567,TY1B-BR,Q12193,NP_009567.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR098C-B,NP_058140,TY1B-DR1,Q03855,NP_058140.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR210C-D,NP_620387,TY1B-DR3,Q99231,NP_620387.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR261C-D,NP_058148,TY1B-DR4,Q07793,NP_058148.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR365W-B,NP_058152,TY1B-DR6,P0C2I3,NP_058152.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YER138C,NP_011064,TY1B-ER1,Q03612,NP_011064.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YER160C,NP_011087,TY1B-ER2,Q03619,NP_011087.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGR027W-B,NP_058158,TY1B-GR1,Q12141,NP_058158.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGR038C-B,NP_058160,TY1B-GR2,Q12269,NP_058160.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGR161C-D,NP_058165,TY1B-GR3,Q12316,NP_058165.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YHR214C-B,NP_012086,TY1B-H,O13535,NP_012086.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H637, H642, C475, C478",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YLR035C-A,NP_013136,TY1B-LR1,Q12088,NP_013136.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YLR157C-B,NP_058169,TY1B-LR2,P0C2I5,NP_058169.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YLR227W-B,NP_058171,TY1B-LR3,P0C2I6,NP_058171.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YML045W,NP_013668,TY1B-ML1,Q04711,NP_013668.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YML039W,NP_013672,TY1B-ML2,Q03434,NP_013672.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YMR050C,NP_013765,TY1B-MR2,Q04670,NP_013765.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YNL284C-B,NP_058178,TY1B-NL1,Q12112,NP_058178.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YOL103W-B,NP_058181,TY1B-OL,Q12273,NP_058181.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YOR142W-B/YOR3367W,NP_058183,TY1B-OR,Q92393,NP_058183.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YPL257W-B,NP_058189,TY1B-PL,Q12414,NP_058189.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YPR137C-B,NP_058191,TY1B-PR1,P0C2I9,NP_058191.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YPR158W-B,NP_058193,TY1B-PR2,P0C2J0,NP_058193.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YPR158C-D,NP_058195,TY1B-PR3,P0C2J1,NP_058195.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H599, H604, C637, C640",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YCL019W,NP_009909,TY2B-C,P25384,NP_009909.2 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR034C-D,NP_058138,TY2B-DR1,Q12472,NP_058138.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR210W-B,NP_058142,TY2B-DR2,Q03494,NP_058142.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YDR261W-B,NP_058146,TY2B-DR3,Q07791,NP_058146.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YFL002W-A,NP_116653,TY2B-F,P0CX63,NP_116653.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGR161W-B,NP_058163,TY2B-GR2,P0CX64,NP_058163.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YOR192C-B,NP_058185,TY2B-OR1,Q12113,NP_058185.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YOR343W-B,NP_620389,TY2B-OR2,Q12501,NP_620389.3 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YGR109W-A,NP_058162 ,TY3A-G,Q12173,NP_058162.3 gag protein [Saccharomyces cerevisiae S288c],1,cytosol,"C267, C270, H275, C280",Shuffled_ZnRibbonII,Structural,Unknown,,
+YGR109W-B,NP_011624 ,TY3B-G,Q99315,NP_011624.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"C267, C270, H275, C280, E860",Shuffled_ZnRibbonII,Structural,Unknown,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YIL082W-A,NP_012184,TY3B-I,Q7LHG5,NP_012184.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"C267, C270, H275, C280, E886",Shuffled_ZnRibbonII,Structural,Unknown,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YHL009W-A,NP_058134,TY4A-H,Q6Q5P6,NP_058134.1 gag protein [Saccharomyces cerevisiae S288c],1,nucleus,,,Structural,,,
+YJL114W,NP_012422,TY4A-J,P47023,NP_012422.2 gag protein [Saccharomyces cerevisiae S288c],1,nucleus,,,Structural,,,
+YHL009W-B/YHL008W-A,NP_058133,TY4B-H,P0C2J7,NP_058133.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H561, H566, C596, C599",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YJL113W,NP_012421,TY4B-J,P47024,NP_012421.2 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,"mitochondrion, nucleus","H562, H567, C597, C600",Unknown,Structural,Integrase-type zinc finger-like,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YPR066W,NP_015391 ,UBA3,Q99344,NP_015391.1 NEDD8-activating protein UBA3 [Saccharomyces cerevisiae S288c],1,cytosol,"C150, C153",TrebleClef,Structural,ThiF,6.3.2.-,ligase
+YKR098C,NP_013024 ,UBP11,P36026,NP_013024.1 ubiquitin-specific protease UBP11 [Saccharomyces cerevisiae S288c],1,Unknown,C462-C465-C520-C523,ZincRibbon,Structural,UCH_1,3.4.19.12,hydrolase
+YBL067C,NP_009486 ,UBP13,P38187,NP_009486.3 ubiquitin-specific protease UBP13 [Saccharomyces cerevisiae S288c],1,Unknown,C488-C491-C537-C540,ZincRibbon,Structural,UCH_1,3.4.19.12,hydrolase
+YER144C,NP_011071 ,UBP5,P39944,NP_011071.3 putative ubiquitin-specific protease UBP5 [Saccharomyces cerevisiae S288c],1,Unknown,C619-C622-C668-C671,ZincRibbon,Structural,"UCH_1,Rhodanese",3.4.19.12,hydrolase
+YIL156W,NP_012110 ,UBP7,P40453,NP_012110.1 ubiquitin-specific protease UBP7 [Saccharomyces cerevisiae S288c],1,cytosol,C777-C780-C838-C841,ZincRibbon,Structural,UCH_1,3.4.19.12,hydrolase
+YMR223W,NP_013950 ,UBP8,P50102,NP_013950.1 ubiquitin-specific protease UBP8 [Saccharomyces cerevisiae S288c],5,nucleus,"C46, C49, C60, C63, C68, H73, H77, H83, C96, C99, H170, C174, C182, C185, H250, C271, C273, H276, C289, C292, C336, C339","TrebleClef, C2H2_ZnFinger",Structural,"zf-UBP,UCH_1,UCH",3.4.19.12,hydrolase
+YER098W,NP_011024 ,UBP9,P39967,NP_011024.1 putative ubiquitin-specific protease UBP9 [Saccharomyces cerevisiae S288c],1,Unknown,C487-C490-C536-C539,ZincRibbon,Structural,UCH_1,3.4.19.12,hydrolase
+YLR024C,NP_013124 ,UBR2,Q07963,NP_013124.1 putative ubiquitin-protein ligase UBR2 [Saccharomyces cerevisiae S288c],3 or 4,cytosol,"C98, C111, C114, C123, C126, H132, H135, C150, C152, C167",NoCluster,Structural,zf-UBR,2.3.2.27,transferase
+YDL170W,NP_010111 ,UGA3,P26370,NP_010111.1 Uga3p [Saccharomyces cerevisiae S288c],2,nucleus,"C17, C20, C27, C34, C37, C44",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR213W,NP_010499 ,UPC2,Q12151,NP_010499.1 Upc2p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C51, C54, C61, C68, C71, C78",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YDR520C,NP_010808 ,URC2,Q04411,NP_010808.3 Urc2p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C72, C75, C82, C91, C94, C101",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPL230W,NP_015094 ,USV1,Q12132,NP_015094.1 Usv1p [Saccharomyces cerevisiae S288c],2,nucleus,"C43, C49, H62, H66, C74, C77, H90, H95",C2H2_ZnFinger,Structural,"zf-C2H2,zf-H2C2_2",,
+YER128W,NP_011054 ,VFA1,P40080,NP_011054.3 Vfa1p [Saccharomyces cerevisiae S288c],1,endosome,"C18, C21, C41, C44",Unknown,Structural,Vfa1 (Pfam),,
+YLR417W,NP_013521 ,VPS36,Q06696,NP_013521.3 ESCRT-II subunit protein VPS36 [Saccharomyces cerevisiae S288c],2,endosome,"C120, C123, C143, C146, C183, C186, C197, C200",ZincRibbon,Structural,Vps36-NZF-N,,
+YML041C,NP_013671,VPS71,Q03433,NP_013671.1 Vps71p [Saccharomyces cerevisiae S288c],2,nucleus,C244-C247-C256-C259-C264-C268-H272-C277,C2H2_ZnFinger,Structural,HIT-type,,
+YAL002W,NP_009399,VPS8,P39702,NP_009399.2 CORVET complex membrane-binding subunit VPS8 [Saccharomyces cerevisiae S288c],2,endosome,"C1198, C1201, C1241, H1243, H1246, C1249, C1262, C1265",Unknown,Structural,RING-type,,
+YLR090W,NP_013191 ,XDJ1,P39102,NP_013191.1 Xdj1p [Saccharomyces cerevisiae S288c],2,mitochondrion,"C159, C162, C181, C184, C208, C211, C228, C231",Shuffled_ZnRibbon,Structural,DnaJ_CXXCXGXG,,
+YCR087C-A ,NP_010011 ,YCR087C-A ,P37263,NP_010011.1 hypothetical protein YCR087C-A [Saccharomyces cerevisiae S288c],1 or 2,Unknown,"C32, C35, H48, C51",Loosened_ZnRibbon,Structural,zf-LYAR,,
+YER137C,NP_011063 ,YER137C,P40083,NP_011063.3 hypothetical protein YER137C [Saccharomyces cerevisiae S288c],1,Unknown,"C125, C128, H133, C138",Unknown,Structural,zf-C2H2_10,,
+YFL052W,NP_116603,YFF2,P43551,NP_116603.1 DNA-binding domain containing protein [Saccharomyces cerevisiae S288c],2,nucleus,"C8, C11, C18, C24, C27, C34",Zn2Cys6_ZnFinger,Structural,Zn_clus (Pfam),,
+YGR067C,NP_011581 ,YGA2,P53243,NP_011581.4 hypothetical protein YGR067C [Saccharomyces cerevisiae S288c],1 or 2,Unknown,"C38, V40, C41, H43, H54, H59, C10, C13",C2H2_ZnFinger,Structural,zf-C2H2,,
+YLR298C,NP_013401 ,YHC1,Q05900,NP_013401.1 Yhc1p [Saccharomyces cerevisiae S288c],1,nucleus,"C6, C9, H24, H30",C2H2_ZnFinger,Structural,zf-U1,,
+YJL206C ,NP_012329 ,YJL206C ,P39529,NP_012329.1 hypothetical protein YJL206C [Saccharomyces cerevisiae S288c],2,Unknown,"C47, C50, C57, C63, C66, C73",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKL222C,NP_012700 ,YKL222C,P35995,NP_012700.1 hypothetical protein YKL222C [Saccharomyces cerevisiae S288c],2,nucleus,"C24, C27, C34, C41, C44, C52",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YKR023W,NP_012948 ,YKR023W,P36119,NP_012948.3 hypothetical protein YKR023W [Saccharomyces cerevisiae S288c],2,cytosol,"C176, C178, H183, C192, C195, C200, C210, C213",Unknown,Structural,zf-C2HC5 (Pfam),,
+YLL054C,NP_013046 ,YLL054C,Q12244,NP_013046.2 hypothetical protein YLL054C [Saccharomyces cerevisiae S288c],2,Unknown,"C15, C18, C25, C32, C35, C42",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YLR278C,NP_013380 ,YLR278C,Q05854,NP_013380.1 hypothetical protein YLR278C [Saccharomyces cerevisiae S288c],2,nucleus,"C41, C44, C51, C58, C61, C68",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YOR064C,NP_014707 ,YNG1,Q08465,NP_014707.1 Yng1p [Saccharomyces cerevisiae S288c],2,nucleus,"C158, C160, Y165, C171, C176, H182, C185, C198, C202",TrebleClef,Structural,Unknown,,
+YHR090C,NP_011958 ,YNG2,P38806,NP_011958.1 histone acetyltransferase YNG2 [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C225, C227, C238, C243, H249, C252, C265, C268",TrebleClef,Structural,PHD,,
+YNR063W,NP_014461 ,YNR063W,P53749,NP_014461.3 hypothetical protein YNR063W [Saccharomyces cerevisiae S288c],2,Unknown,"C16, C19, C26, C32, C35, C44",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPR015C ,NP_015340 ,YP015,Q12531,NP_015340.1 hypothetical protein YPR015C [Saccharomyces cerevisiae S288c],2 or 3,Unknown,"C187, C190, K192, C194, H203, H207, C215, C220, K222, H233, H237",C2H2_ZnFinger,Structural,zf-C2H2,,
+YPR196W,NP_015522 ,YP196,Q06595,NP_015522.1 putative maltose-responsive transcription factor [Saccharomyces cerevisiae S288c],2,Unknown,"C8, C11, C18, C24, C27, C34",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YOR172W,NP_014815 ,YRM1,Q12340,NP_014815.3 Yrm1p [Saccharomyces cerevisiae S288c],2,"cytosol, nucleus","C31, C34, C41, C48, C51, C59",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YOR162C,NP_014805 ,YRR1,Q12172,NP_014805.3 Yrr1p [Saccharomyces cerevisiae S288c],2,nucleus,"C54, C57, C64, C71, C74, C82",Zn2Cys6_ZnFinger,Structural,Zn_clus,,
+YPR107C,NP_015432 ,YTH1,Q06102,NP_015432.1 cleavage polyadenylation factor RNA-binding subunit YTH1 [Saccharomyces cerevisiae S288c],5,"cytosol, nucleus","C67, C75, C81, H85, C95, C104, C110, H114",ZincNecklaces,Structural,zf-CCCH_3,,
+YIL023C,NP_012241 ,YKE4,P40544,NP_012241.1 Zn(2+) transporter YKE4 [Saccharomyces cerevisiae S288c],N/A,ER,Unknown,Unknown,Transport,ZIP (Pfam),,
+YNR039C,NP_014437,ZRG17,P53735,NP_014437.1.,N/A,ER,,,Transport,,,
+YLR130C,NP_013231 ,ZRT2,Q12436,NP_013231.1 low-affinity Zn(2+) transporter ZRT2 [Saccharomyces cerevisiae S288c],N/A,plasma membrane,Unknown,Unknown,Transport,ZIP (Pfam),,
+YOR034C,NP_014677 ,AKR2,Q12013,NP_014677.1 putative palmitoyltransferase AKR2 [Saccharomyces cerevisiae S288c],1 or 2,Golgi,"C448, D473, H474, C476",Unknown,Unknown,Unknown,2.3.1.225,transferase
+YNL054W-B,NP_001268,CHKA,P35790,NP_001268465.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,Unknown,Unknown,Unknown,Unknown,"2.7.1.32, 2.7.1.82",transferase
+YDL209C,NP_010072 ,CWC2,Q12046,NP_010072.1 Cwc2p [Saccharomyces cerevisiae S288c],1,nucleus,"C73, C81, C87, H91",ZincNecklaces,Unknown,Torus,,
+YLR246W,NP_013347 ,ERF2,Q06551,NP_013347.1 palmitoyltransferase ERF2 [Saccharomyces cerevisiae S288c],1 or 2,ER,"C175, C178, C189, C192",Unknown,Unknown,Unknown,2.3.1.225,transferase
+YDR291W,NP_010577 ,HRQ1,Q05549,NP_010577.3 ATP-dependent 3'-5' DNA helicase [Saccharomyces cerevisiae S288c],1,nucleus,C979-C981-C985-C988,Unknown,Unknown,DUF1998,3.6.4.12,hydrolase
+YER051W,NP_010971 ,JHD1,P40034,NP_010971.1 [Histone H3]-lysine-36 demethylase [Saccharomyces cerevisiae S288c],2,Unknown,"C928, C931, C944, H946, H949, C952, C969, C972",Unknown,Unknown,Unknown,1.14.11.27,oxidoreductase
+YNL218W,NP_014181 ,MGS1,P40151,NP_014181.1 ssDNA-dependent ATPase MGS1 [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C14, C17, H29, C33",Unknown,Unknown,Unknown,,
+YOR274W,NP_014917 ,MOD5,P07884,NP_014917.3 tRNA dimethylallyltransferase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C375, C378, H397, H403",Unknown,Unknown,Unknown,2.5.1.75,transferase
+YBL049W,NP_009504 ,MOH1,P38191,NP_009504.1 Moh1p [Saccharomyces cerevisiae S288c],1,Unknown,"C45, C48, C101, C104",Unknown,Unknown,Yippee-Mis18,,
+YOL033W,NP_014609 ,MSE1,P48525,NP_014609.1 glutamate--tRNA ligase MSE1 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C140, C142, Y165, C169",NoCluster,Unknown,tRNA-synt_1c,6.1.1.17,ligase
+YHR035W,NP_011900 ,NEL1,P38769,NP_011900.1 Nel1p [Saccharomyces cerevisiae S288c],1,cytosol,"C27, C30, C48, C51",Unknown,Unknown,Unknown,,
+YNL326C,NP_014073 ,PFA3,P42836,NP_014073.1 palmitoyltransferase PFA3 [Saccharomyces cerevisiae S288c],1 or 2,vacuole,"C106, C109, C120, C123",Unknown,Unknown,Unknown,2.3.1.225,transferase
+YOL003C,NP_014640 ,PFA4,Q12006,NP_014640.1 palmitoyltransferase PFA4 [Saccharomyces cerevisiae S288c],1 or 2,ER,"C80, C83, C94, C97",Unknown,Unknown,Unknown,2.3.1.225,transferase
+YDR459C,NP_010747 ,PFA5,Q03289,NP_010747.1 palmitoyltransferase PFA5 [Saccharomyces cerevisiae S288c],2,plasma membrane,"C131, C134, H143, C151, D156, H157, C159",Unknown,Unknown,Unknown,2.3.1.225,transferase
+YPL096W,NP_015229 ,PNG1,Q02890,NP_015229.1 peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase [Saccharomyces cerevisiae S288c],1,"cytosol, nucleus","C129, C132, C165, C168",Unknown,Unknown,Unknown,3.5.1.52,hydrolase
+YMR201C,NP_013928,RAD14,P28519,NP_013928.1 Rad14p [Saccharomyces cerevisiae S288c],1,nucleus,"C191, C194, C213, C216",Unknown,Unknown,Unknown,,
+YDR419W,NP_010707 ,RAD30,Q04049,NP_010707.3 DNA-directed DNA polymerase eta [Saccharomyces cerevisiae S288c],1,"mitochrondrion, nucleus","C53, C84, H568, H572",Unknown,Unknown,Unknown,2.7.7.7,transferase
+YGL163C,NP_011352 ,RAD54,P32863,NP_011352.1 DNA-dependent ATPase RAD54 [Saccharomyces cerevisiae S288c],1,nucleus,"H835, C840, C843",Unknown,Unknown,Unknown,3.6.4.-,hydrolase
+YPL133C,NP_015192,RDS2,P19541,NP_015192.1 Rds2p [Saccharomyces cerevisiae S288c],2 o 3,nucleus,"C18, C20, C27,C33, C36, C45",Unknown,Unknown,Unknown,,
+YPL183W-A,NP_015141 ,RTC6,O14464,NP_015141.1 putative mitochondrial 54S ribosomal protein RTC6 [Saccharomyces cerevisiae S288c],1,mitochondrion,"C66, C69, C82, H88",ZincRibbon,Unknown,Ribosomal_L36,,
+YBL052C,NP_009501 ,SAS3,P34218,NP_009501.1 Sas3p [Saccharomyces cerevisiae S288c],1,nucleus,"C303, C306, H319, C323",Unknown,Unknown,Unknown,2.3.1.48,transferase
+YHR119W,NP_011987 ,SET1,P38827,NP_011987.1 histone methyltransferase SET1 [Saccharomyces cerevisiae S288c],1,nucleus,"C1019, C1068, C1070, C1075",ZincNecklaces,Unknown,SET,2.1.1.43,transferase
+YPL165C,NP_015160 ,SET6,Q12529,NP_015160.1 Set6p [Saccharomyces cerevisiae S288c],1,Unknown,"C306, C360, C362, C365",ZincNecklaces,Unknown,SET,2.1.1.-,transferase
+YMR190C,NP_013915 ,SGS1,P35187,NP_013915.1 ATP-dependent DNA helicase SGS1 [Saccharomyces cerevisiae S288c],1,nucleus,"C1047, C1065, C1069, C1072",TrebleClef,Unknown,RecQ_Zn_bind,3.6.4.12,hydrolase
+YLR375W,NP_013479 ,STP3,Q05937,NP_013479.3 Stp3p [Saccharomyces cerevisiae S288c],1,nucleus,"C171, C174, H187, H191",Unknown,Unknown,Unknown,,
+YBL100W-B,NP_009450,TY2B-B,Q12491,NP_009450.1 gag-pol fusion protein [Saccharomyces cerevisiae S288c],1,nucleus,"H595, H600, C633, C636",Unknown,Unknown,Unknown,"3.4.23.-, 2.7.7.49, 2.7.7.7, 3.1.26.4","hydrolase, transferase"
+YJL114W,NP_012422,TY4A-J,P47023,NP_012422.2 gag protein [Saccharomyces cerevisiae S288c],1,Unknown,C274-C277-C342-C345-C351-C355,,Unknown,Unknown,,
+YOR387C,NP_015032 ,YOR387C,Q08910,NP_015032.3 hypothetical protein YOR387C [Saccharomyces cerevisiae S288c],1,cytosol,Unknown,Unknown,Unknown,Vel1p,,
+YJL105W,NP_012430 ,SET4,P42948,NP_012430.1 Set4p [Saccharomyces cerevisiae S288c],2,Unknown,"C163, C165, C178, C181, H186, C189, C204, C207, C430, C516","ZincNecklaces, TrebleClef","Unknown,Structural","SET,PHD_2,PHD",,
+YLR433C,NP_013537,CNA1,P23287,NP_013537.1 calcineurin catalytic subunit A [Saccharomyces cerevisiae S288c],1 or 2,D119-H121-D147-N179-H228-H317,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YML016C,NP_013696,PPZ1,P26570,NP_013696.1 salt homeostasis regulator [Saccharomyces cerevisiae S288c],1 or 2,D419-H421-D447-N479-H528-H603,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YPL224C,NP_015100,MMT2,Q08970,NP_015100.2 Mmt2p [Saccharomyces cerevisiae S288c],Unknown,Unknown,Unknown,Substrate - transport,Cation_efflux,,,
+YMR177W,NP_013902,MMT1,Q03218,NP_013902.1 Mmt1p [Saccharomyces cerevisiae S288c],Unknown,Unknown,Unknown,Substrate - transport,Cation_efflux,,,
+YDL047W,NP_010236,SIT4,P20604,NP_010236.1 type 2A-related serine/threonine-protein phosphatase SIT4 [Saccharomyces cerevisiae S288c],1 or 2,D53-H55-D82-N114-H164-H238,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YDL134C,NP_010147,PPH21,P23594,NP_010147.1 phosphoprotein phosphatase 2A catalytic subunit PPH21 [Saccharomyces cerevisiae S288c],1 or 2,D117-H119-D145-N177-H227-H301,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YDL188C,NP_010093,PPH22,P23595,NP_010093.1 phosphoprotein phosphatase 2A catalytic subunit PPH22 [Saccharomyces cerevisiae S288c],1 or 2,D125-H127-D153-N185-H235-H309,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YER133W,NP_011059,GLC7,P32598,NP_011059.3 type 1 serine/threonine-protein phosphatase catalytic subunit GLC7 [Saccharomyces cerevisiae S288c],1 or 2,D63-H65-D91-N123-H172-H247,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YGR123C,NP_011639,PPT1,P53043,NP_011639.3 protein serine/threonine phosphatase [Saccharomyces cerevisiae S288c],1 or 2,D249-H251-D278-N310-H359-H434,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YML057W,NP_013655,CMP2,P14747,NP_013655.1 calcineurin catalytic subunit A [Saccharomyces cerevisiae S288c],1 or 2,D144-H146-D172-N204-H253-H359,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YDR436W,NP_010724,PPZ2,P33329,NP_010724.1 salt homeostasis regulator [Saccharomyces cerevisiae S288c],1 or 2,D454-H456-D482-N514-H563-H638,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YNR032W,NP_014429,PPG1,P32838,NP_014429.3 putative serine/threonine-protein kinase PPG1 [Saccharomyces cerevisiae S288c],1 or 2,D50-H52-D78-N110-H161-H247,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YDR075W,NP_010360,PPH3,P32345,NP_010360.1 phosphoprotein phosphatase PP4 catalytic subunit PPH3 [Saccharomyces cerevisiae S288c],1 or 2,D51-H53-D79-N111-H161-H235,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YPL179W,NP_015146,PPQ1,P32945,NP_015146.1 Ppq1p [Saccharomyces cerevisiae S288c],1 or 2,D301-H303-D329-N361-H410-H485,NO_CLUS,Catalytic,Metallophos,3.1.3.16,hydrolase,
+YMR224C,NP_013951,MRE11,P32829,NP_013951.1 MRX complex nuclease subunit [Saccharomyces cerevisiae S288c],1 or 2,D16-H18-D56-N124-H241,NO_CLUS,Catalytic,Metallophos,,,
+YDR452W,NP_010740,PPN1,Q04119,NP_010740.3 endopolyphosphatase [Saccharomyces cerevisiae S288c],1 or 2,D102-H104-D171-N224-H328,NO_CLUS,Catalytic,Metallophos,3.6.1.10; 3.6.1.-; 3.6.1.11,hydrolase,
+YDL185W,NP_010096 ,VMA1,P17255,NP_010096.1 H(+)-transporting V1 sector ATPase subunit A [Saccharomyces cerevisiae S288c],1,E363-H725-H736,clus_9_Sheet,Catalytic,Hom_end_hint,3.6.3.14; 3.1.-.-,hydrolase,
+YDR182W,NP_010468,CDC1,P40986,NP_010468.1 putative lipid phosphatase CDC1 [Saccharomyces cerevisiae S288c],1 or 2,D95-D144-N183-H323,NO_CLUS,Catalytic,Metallophos,3.1.-.-,hydrolase,
+YLR361C,NP_013465,DCR2,Q05924,NP_013465.1 phosphoprotein phosphatase [Saccharomyces cerevisiae S288c],1 or 2,D255-H257-D302-N337-H444-H498-H500,NO_CLUS,Catalytic,Metallophos,3.1.-.-,hydrolase,
+YKL149C,NP_012773,DBR1,P24309,NP_012773.1 RNA lariat debranching enzyme [Saccharomyces cerevisiae S288c],1 or 2,H13-D40-H231,NO_CLUS,Catalytic,Metallophos,3.1.-.-,hydrolase,
+YNL217W,NP_014182,YNL217W,P40152,NP_014182.1 putative serine/threonine-protein phosphatase [Saccharomyces cerevisiae S288c],1 or 2,D68-H70-D118-Q288,NO_CLUS,Catalytic,Metallophos,3.1.-.-,hydrolase,
+YIL039W,NP_012225,TED1,P40533,NP_012225.1 Ted1p [Saccharomyces cerevisiae S288c],1 or 2,D133-N195-H315-H379,NO_CLUS,Catalytic,Metallophos,,,
+YOR137C,NP_014780,SIA1,Q12212,NP_014780.3 Sia1p [Saccharomyces cerevisiae S288c],1 or 2,H319-D356-H550,NO_CLUS,Catalytic,Metallophos,,,
+YHR202W,NP_012072,YHR202W,P38887,NP_012072.3 hypothetical protein YHR202W [Saccharomyces cerevisiae S288c],1 or 2,Unknown,NO_CLUS,Catalytic,Metallophos,,,
+YHR012W,NP_011876,VPS29,P38759,NP_011876.1 retromer subunit VPS29 [Saccharomyces cerevisiae S288c],1,D8-H10-D46-Q229,clus_9_Sheet,Catalytic,Metallophos_2,,,
+YGL207W,NP_011308,SPT16,P32558,NP_011308.1 chromatin-remodeling protein SPT16 [Saccharomyces cerevisiae S288c],from 1 to 4,Unknown,clus_9_Sheet,Catalytic,Peptidase_M24,,,
+YLR307W,NP_013410 ,CDA1,Q06702,NP_013410.1 chitin deacetylase CDA1 [Saccharomyces cerevisiae S288c],1,D116-H162-H166,NO_CLUS,Catalytic,Polysacc_deac_1,3.5.1.41,hydrolase,
+YLR308W,NP_013411 ,CDA2,Q06703,NP_013411.1 chitin deacetylase CDA2 [Saccharomyces cerevisiae S288c],1,D126-H172-H176,NO_CLUS,Catalytic,Polysacc_deac_1,3.5.1.41,hydrolase,
+YER010C,NP_010926,YER010C,P40011,NP_010926.3 bifunctional 4-hydroxy-4-methyl-2-oxoglutarate aldolase/oxaloacetate decarboxylase [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Catalytic,RraA-like,4.1.3.17; 4.1.1.3,lyase,
+YKL165C,NP_012756,MCD4,P36051,NP_012756.1 mannose-ethanolamine phosphotransferase MCD4 [Saccharomyces cerevisiae S288c],1,D62-T102-D271-H272,clus_9_Sheet,Catalytic,Sulfatase,2.-.-.-,transferase,
+YMR262W,NP_013989,YMR262W,P38430,NP_013989.2 putative endodeoxyribonuclease [Saccharomyces cerevisiae S288c],2,D262,NO_CLUS,Catalytic,TatD_DNase,3.1.21.-,hydrolase,
+YMR105C,NP_013823,PGM2,P37012,NP_013823.1 phosphoglucomutase PGM2 [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Unknown,Unknown,5.4.2.2,isomerase,
+YGR276C,NP_011792,RNH70,P53331,NP_011792.1 Rnh70p [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Unknown,Unknown,3.1.-.-,hydrolase,
+YLR059C,NP_013160,REX2,P54964,NP_013160.1 Rex2p [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Unknown,Unknown,3.1.-.-,hydrolase,
+YOL080C,NP_014561,REX4,Q08237,NP_014561.1 putative 3'-5' exonuclease [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Unknown,Unknown,3.1.-.-,hydrolase,
+YDR236C,NP_010522,FMN1,Q03778,NP_010522.1 riboflavin kinase [Saccharomyces cerevisiae S288c],1,Unknown,Unknown,Unknown,Unknown,2.7.1.26,transferase,
+YMR187C,NP_013912,YMR187C,Q03236,NP_013912.1 hypothetical protein YMR187C [Saccharomyces cerevisiae S288c],1,C17-C12-H33-C37,Unknown,Unknown,Unknown,,,
+YOL029C,NP_014613,YOL029C,Q08187,NP_014613.1 hypothetical protein YOL029C [Saccharomyces cerevisiae S288c],1,C64-C67-H72-C77,Unknown,Unknown,Unknown,,,
+YHL009W-A,NP_058134,YHL009W-A,Q6Q5P6,NP_058134.1 gag protein [Saccharomyces cerevisiae S288c],1,C341-C344-C350-C354,Unknown,Unknown,Unknown,,,
+YMR006C,NP_013719,PLB2,Q03674,NP_013719.1 lysophospholipase [Saccharomyces cerevisiae S288c],1,C553-C556-C574-C577,Unknown,Unknown,Unknown,3.1.1.5,hydrolase,
+YBL091C,NP_009462 ,MAP2,P38174,NP_009462.2 methionine aminopeptidase [Saccharomyces cerevisiae S288c],1 or 2,D194-D205-H274-E307-E402,clus_9_Sheet,Catalytic,Peptidase_M24,3.4.11.18,hydrolase,
+YHR170W,NP_012040,NMD3,P38861,NP_012040.1 ribosome-binding protein NMD3 [Saccharomyces cerevisiae S288c],1,C19-C22-C35-C38,Unknown,Unknown,NMD3,,,
+YDR492W,NP_010780 ,IZH1,Q03419,NP_010780.1 PAQR-type receptor [Saccharomyces cerevisiae S288c],1,H139-H285-H289,clus_6_Helix,Catalytic,HlyIII,,,
+YLR023C,NP_013123 ,IZH3,Q07959,NP_013123.1 Izh3p [Saccharomyces cerevisiae S288c],1,H316-H514-H518,clus_6_Helix,Catalytic,HlyIII,,,
+YOL002C,NP_014641 ,IZH2,Q12442,NP_014641.2 PAQR-type receptor [Saccharomyces cerevisiae S288c],1,H136-H282-H286,clus_6_Helix,Catalytic,HlyIII,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

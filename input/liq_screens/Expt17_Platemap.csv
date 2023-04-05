@@ -1,0 +1,97 @@
+﻿well_ID,sample,background,rep_ID,condition,smudge,control
+A1,BLANK,,,,no,no
+A2,BLANK,,,,no,no
+A3,BLANK,,,,no,no
+A4,BLANK,,,,no,no
+A5,BLANK,,,,no,no
+A6,BLANK,,,,no,no
+A7,BLANK,,,,no,no
+A8,BLANK,,,,no,no
+A9,BLANK,,,,no,no
+A10,BLANK,,,,no,no
+A11,BLANK,,,,no,no
+A12,BLANK,,,,no,no
+B1,BLANK,,,,no,no
+B2,*ybr196c-aΔ*,BY4741,yARC0492,YPD,no,no
+B3,*ybr196c-aΔ*,BY4741,yARC0493,YPD,no,no
+B4,*ybr196c-a::STOP*,BY4741,yARC0542,YPD,no,no
+B5,*ybr196c-a::STOP*,BY4741,yARC0543,YPD,no,no
+B6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,YPD,no,no
+B7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,YPD,no,no
+B8,BY4741,BY4741,yARC0504,YPD,no,yes
+B9,BY4741,BY4741,yARC0505,YPD,no,yes
+B10,BLANK,,,YPD,no,no
+B11,BLANK,,,YPD,no,no
+B12,BLANK,,,,no,no
+C1,BLANK,,,,no,no
+C2,*ybr196c-aΔ*,BY4741,yARC0492,25ug/ml Fluconazole,no,no
+C3,*ybr196c-aΔ*,BY4741,yARC0493,25ug/ml Fluconazole,no,no
+C4,*ybr196c-a::STOP*,BY4741,yARC0542,25ug/ml Fluconazole,no,no
+C5,*ybr196c-a::STOP*,BY4741,yARC0543,25ug/ml Fluconazole,no,no
+C6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,25ug/ml Fluconazole,no,no
+C7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,25ug/ml Fluconazole,no,no
+C8,BY4741,BY4741,yARC0504,25ug/ml Fluconazole,no,yes
+C9,BY4741,BY4741,yARC0505,25ug/ml Fluconazole,no,yes
+C10,BLANK,,,25ug/ml Fluconazole,no,no
+C11,BLANK,,,25ug/ml Fluconazole,no,no
+C12,BLANK,,,,no,no
+D1,BLANK,,,,no,no
+D2,*ybr196c-aΔ*,BY4741,yARC0492,1M NaCl,no,no
+D3,*ybr196c-aΔ*,BY4741,yARC0493,1M NaCl,no,no
+D4,*ybr196c-a::STOP*,BY4741,yARC0542,1M NaCl,no,no
+D5,*ybr196c-a::STOP*,BY4741,yARC0543,1M NaCl,no,no
+D6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,1M NaCl,no,no
+D7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,1M NaCl,no,no
+D8,BY4741,BY4741,yARC0504,1M NaCl,no,yes
+D9,BY4741,BY4741,yARC0505,1M NaCl,no,yes
+D10,BLANK,,,1M NaCl,no,no
+D11,BLANK,,,1M NaCl,no,no
+D12,BLANK,,,,no,no
+E1,BLANK,,,,no,no
+E2,*ybr196c-aΔ*,BY4741,yARC0492,30 mM H2O2,no,no
+E3,*ybr196c-aΔ*,BY4741,yARC0493,30 mM H2O2,no,no
+E4,*ybr196c-a::STOP*,BY4741,yARC0542,30 mM H2O2,no,no
+E5,*ybr196c-a::STOP*,BY4741,yARC0543,30 mM H2O2,no,no
+E6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,30 mM H2O2,no,no
+E7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,30 mM H2O2,no,no
+E8,BY4741,BY4741,yARC0504,30 mM H2O2,no,yes
+E9,BY4741,BY4741,yARC0505,30 mM H2O2,no,yes
+E10,BLANK,,,30 mM H2O2,no,no
+E11,BLANK,,,30 mM H2O2,no,no
+E12,BLANK,,,,no,no
+F1,BLANK,,,,no,no
+F2,*ybr196c-aΔ*,BY4741,yARC0492,DMSO,no,no
+F3,*ybr196c-aΔ*,BY4741,yARC0493,DMSO,no,no
+F4,*ybr196c-a::STOP*,BY4741,yARC0542,DMSO,no,no
+F5,*ybr196c-a::STOP*,BY4741,yARC0543,DMSO,no,no
+F6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,DMSO,no,no
+F7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,DMSO,no,no
+F8,BY4741,BY4741,yARC0504,DMSO,no,yes
+F9,BY4741,BY4741,yARC0505,DMSO,no,yes
+F10,BLANK,,,DMSO,no,no
+F11,BLANK,,,DMSO,no,no
+F12,BLANK,,,,no,no
+G1,BLANK,,,,no,no
+G2,*ybr196c-aΔ*,BY4741,yARC0492,0.6uM Tunicamycin,no,no
+G3,*ybr196c-aΔ*,BY4741,yARC0493,0.6uM Tunicamycin,no,no
+G4,*ybr196c-a::STOP*,BY4741,yARC0542,0.6uM Tunicamycin,no,no
+G5,*ybr196c-a::STOP*,BY4741,yARC0543,0.6uM Tunicamycin,no,no
+G6,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,0.6uM Tunicamycin,no,no
+G7,*ybr196c-aΔ::KanMX*,BY4741,Expt9_D12,0.6uM Tunicamycin,no,no
+G8,BY4741,BY4741,yARC0504,0.6uM Tunicamycin,no,yes
+G9,BY4741,BY4741,yARC0505,0.6uM Tunicamycin,no,yes
+G10,BLANK,,,0.6uM Tunicamycin,no,no
+G11,BLANK,,,0.6uM Tunicamycin,no,no
+G12,BLANK,,,,no,no
+H1,BLANK,,,,no,no
+H2,BLANK,,,,no,no
+H3,BLANK,,,,no,no
+H4,BLANK,,,,no,no
+H5,BLANK,,,,no,no
+H6,BLANK,,,,no,no
+H7,BLANK,,,,no,no
+H8,BLANK,,,,no,no
+H9,BLANK,,,,no,no
+H10,BLANK,,,,no,no
+H11,BLANK,,,,no,no
+H12,BLANK,,,,no,no

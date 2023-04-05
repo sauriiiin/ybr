@@ -1,25 +1,265 @@
 ---
-title: "R Notebook"
-output: html_notebook
+title: "MinION Direct RNAseq Analysis"
+author: "Saurin Parikh"
+date: "09/22/2022"
+output:
+  html_document:
+    toc: true
+    number_sections: false
+    toc_float:
+      collapsed: false
+    toc_depth: 2
+    df_print: paged
+    highlight: kate
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    highlight: breezedark
+  fontsize: 13pt
+  geometry: margin=0.5in
 ---
 
-
-
-```{r}
-plot(cars)
+```{bash Combine all fastq.gz files into one}
+cd /home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/basecalling/pass
+cat *.gz > sample30a.fastq.gz
 ```
 
-```{bash}
-#!/bin/bash
-filename='~/home/sbp29/R/Projects/ybr/input/longread/samples2align.txt'
-echo Start
-while read p; do
-    minimap2 -ax splice -k14 -uf /home/aar75/GCF_000146045.2_R64_genomic.fna "/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/${p}.fastq.gz"  > "/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/${p}.sam";
-    samtools view "${p}.sam" -bh -t /home/aar75/GCF_000146045.2_R64_genomic.fna -F 2308  > "${p}.bam";
-    samtools sort -@ 25 "${p}.bam" -o "${p}.bam";
-    samtools index "${p}.bam";
-    bedtools bamtobed -i "${p}.bam" > "${p}.bed";
-
-done < $filename
+```{bash Map reads}
+cd /home/sbp29/minimap2-2.24_x64-linux
+./minimap2 -ax splice -k14 -uf /home/sbp29/RNASeq/YBR/GCF_000146045.2_R64_genomic.fna "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/basecalling/pass/sample30a.fastq.gz"  > "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.sam";
 ```
+
+```{bash Samtools}
+cd /home/sbp29
+samtools view "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.sam" -bh -t /home/sbp29/RNASeq/YBR/GCF_000146045.2_R64_genomic.fna -F 2308  > "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bam";
+samtools sort -@ 25 "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bam" -o "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bam";
+samtools index "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bam";
+```
+
+```{bash Bedtools}
+cd /home/sbp29
+bedtools bamtobed -i "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bam" > "/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bed";
+```
+
+
+```{r Initialize, message = FALSE, eval=TRUE, include=FALSE}
+library(dplyr)
+library(RMariaDB)
+library(stringr)
+library(Rsubread)
+library(reshape2)
+library(ggplot2)
+library(cowplot)
+
+source("~/R/Projects/adaptivefitness/R/functions/initialize.sql.R")
+conn <- initialize.sql("saurin_test")
+
+out_path <- "~/R/Projects/ybr/output"
+fig_path <- "~/R/Projects/ybr/output/figs"
+
+##### FIGURE SIZE
+one.c <- 90 #single column
+one.5c <- 140 #1.5 column
+two.c <- 190 #full width
+
+##### TEXT SIZE
+titles <- 8
+txt <- 8
+lbls <- 9
+```
+
+```{r Import Data, message = FALSE, eval=TRUE, include=TRUE}
+## ORF INFORMATION
+orfid_crossmap <- dbGetQuery(conn, 'select * from CARVUNIS_YEAST.orf_ids_crossmap')
+orfid_crossmap <- orfid_crossmap[,c(1,8)]
+colnames(orfid_crossmap) <- c('gene_id', 'orf_id')
+
+orf_info<-readRDS('/home/aar75/rna_seq/Salmon_4_6_22/translatome.rds')
+
+## ANNOTATION FILE
+annot <- read.table(file = '/home/sbp29/RNASeq/YBR/translated_orfs_with_transient_status.gff3')
+annot <- annot[,c(9,1,4,5,7)]
+annot$V9 <- str_remove(str_split(annot$V9, ';', simplify = T)[,1], 'ID=')
+colnames(annot) <- c('GeneID','Chr','Start','End','Strand')
+annot$Chr[annot$Chr == 'chrI'] <- 'chr1'
+annot$Chr[annot$Chr == 'chrII'] <- 'chr2'
+annot$Chr[annot$Chr == 'chrIII'] <- 'chr3'
+annot$Chr[annot$Chr == 'chrIV'] <- 'chr4'
+annot$Chr[annot$Chr == 'chrV'] <- 'chr5'
+annot$Chr[annot$Chr == 'chrVI'] <- 'chr6'
+annot$Chr[annot$Chr == 'chrVII'] <- 'chr7'
+annot$Chr[annot$Chr == 'chrVIII'] <- 'chr8'
+annot$Chr[annot$Chr == 'chrIX'] <- 'chr9'
+annot$Chr[annot$Chr == 'chrX'] <- 'chr10'
+annot$Chr[annot$Chr == 'chrXI'] <- 'chr11'
+annot$Chr[annot$Chr == 'chrXII'] <- 'chr12'
+annot$Chr[annot$Chr == 'chrXIII'] <- 'chr13'
+annot$Chr[annot$Chr == 'chrXIV'] <- 'chr14'
+annot$Chr[annot$Chr == 'chrXV'] <- 'chr15'
+annot$Chr[annot$Chr == 'chrXVI'] <- 'chr16'
+
+## DIRECT RNASEQ DATA
+# sample_30a<-read.delim('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30a.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+sample_30a2<-read.delim('/home/sbp29/RNASeq/YBR/minION/2208/sample_30a_/sample30a.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+# sample_30b<-read.delim('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30b.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+sample_30b2<-read.delim('/home/sbp29/RNASeq/YBR/minION/2208/sample_30b/sample30b.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+# sample_30c<-read.delim('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30c.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+sample_30c2<-read.delim('/home/sbp29/RNASeq/YBR/minION/2208/sample_30c/sample30c.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+# sample_30d<-read.delim('/home/aar75/rna_seq/longreads/nanopore_ybr/20220819/30d.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+sample_30d2<-read.delim('/home/sbp29/RNASeq/YBR/minION/2208/sample_30d/sample30d.bed',header=F,col.names=c('chr','start','stop','name','score','strand'))
+
+samples <- rbind(
+  # cbind(sample_30b, sample = 'wt'),
+  cbind(sample_30b2, sample = 'wt2'),
+  # cbind(sample_30a, sample = 'crispy'),
+  cbind(sample_30a2, sample = 'crispy2'),
+  # cbind(sample_30d, sample = 'syn'),
+  cbind(sample_30d2, sample = 'syn2'),
+  # cbind(sample_30c, sample = 'stop'),
+  cbind(sample_30c2, sample = 'stop2')
+) %>% data.frame()
+# head(samples)
+
+samples %>%
+  # mutate(n_bases = stop - start + 1) %>%
+  group_by(sample) %>%
+  count() %>% data.frame()
+```
+
+
+```{r Transcript Architechture of YBR Locus}
+# i <- 14086
+loci_range <- seq(14086-1,14086+4,1) #seq(1,nrow(annot),1)
+ybr_transcripts <- samples
+for(i in loci_range){
+  temp <- samples[(samples$chr == annot$Chr[i] & samples$strand == annot$Strand[i]) &
+                    ((samples$start <= annot$Start[i] & samples$stop >= annot$Start[i]) |
+                       (samples$start <= annot$End[i] & samples$stop >= annot$End[i]) |
+                       (samples$start >= annot$Start[i] & samples$stop <= annot$End[i]) |
+                       (samples$start <= annot$Start[i] & samples$stop >= annot$End[i])),]
+  if (nrow(temp) > 0) {
+    temp2 <- cbind(temp, hello = 1)
+    colnames(temp2) <- c(colnames(temp2)[-8], annot$GeneID[i])
+    ybr_transcripts <- merge(ybr_transcripts, temp2, by = colnames(temp2)[-8], all.x = T)
+  }
+}
+ybr_transcripts <- ybr_transcripts[rowSums(ybr_transcripts[,8:ncol(ybr_transcripts)], na.rm = T) > 0,]
+ybr_transcripts$t_length <- ybr_transcripts$stop - ybr_transcripts$start
+
+ybr_transcripts <- ybr_transcripts[order(ybr_transcripts$sample, ybr_transcripts$stop, -ybr_transcripts$t_length),]
+ybr_transcripts <- ybr_transcripts %>%
+  mutate(t_order = seq(1,nrow(ybr_transcripts),1))
+head(ybr_transcripts)
+
+ybr_transcripts %>%
+  group_by(sample) %>% count()
+  
+ybr_loci <- annot[loci_range,]
+ybr_loci <- merge(merge(ybr_loci, orfid_crossmap, by.x = 'GeneID', by.y = 'gene_id'),
+                  orf_info[,c('orf_id','transcript','gene_systematic_name','rfc','is_transient')],
+                  by = 'orf_id')
+ybr_loci <- ybr_loci[order(ybr_loci$Start),]
+ybr_loci <- ybr_loci %>%
+  mutate(o_order = seq(1,nrow(ybr_loci),1),
+         o_label_position = (Start+End)/2,
+         o_label = sprintf('%s (%s)', GeneID, gene_systematic_name))
+```
+
+```{r YBR Transcript Sharing}
+head(ybr_transcripts)
+ybr_transcripts[ybr_transcripts$orf14869 == 1 & !is.na(ybr_transcripts$orf14869),]
+
+```
+
+
+
+
+```{r Visualize YBR Locus}
+loci_zoom <- c(612000, 616000)
+
+plot.transcripts <- ybr_transcripts[,c('start','stop','name','strand','sample','t_length','t_order')] %>%
+  melt(id.vars = c('strand','sample','name','t_order','t_length')) %>%
+  filter(sample == 'syn') %>%
+  ggplot(aes(x = value, y = as.factor(t_order))) +
+  geom_vline(xintercept = unique(c(ybr_loci$Start, ybr_loci$End)), linetype = 'dashed', col = 'blue', size = 0.3) +
+  geom_line(size = 0.1) +
+  facet_grid(.~sample) +
+  coord_cartesian(xlim = loci_zoom) +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+        axis.text = element_blank(),
+        axis.title = element_blank())
+
+plot.loci <- ybr_loci %>%
+  melt(id.vars = colnames(ybr_loci)[c(-4,-5)]) %>%
+  ggplot(aes(x = value, y = o_order)) +
+  geom_vline(xintercept = unique(c(ybr_loci$Start, ybr_loci$End)), linetype = 'dashed', col = 'blue', size = 0.3) +
+  geom_line(aes(group = o_order)) +
+  geom_text(aes(x = o_label_position, y = o_order+0.3, label = o_label), size = 2, hjust = 0.5) +
+  # scale_y_continuous(breaks = seq(1,20,1)) +
+  coord_cartesian(xlim = loci_zoom) +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+        axis.text.y = element_blank(),
+        axis.title.y = element_blank())
+
+
+plot.ybr.loci <- plot_grid(plot.transcripts, plot.loci,
+          nrow = 2, rel_heights = c(5,1),
+          align = 'v')
+
+ggsave(sprintf("%s/YBR_LOCUS_TRANSCRIPTS_SYN.jpg",fig_path), plot.ybr.loci,
+       height = two.c, width = 230, units = 'mm',
+       bg = 'white',
+       dpi = 300)
+
+
+
+```
+
+
+```{r Counts using featurecount}
+fc <- featureCounts(files=c('/home/sbp29/RNASeq/YBR/minION/2208/sample_30a/sample30a.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30b/sample30b.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30c/sample30c.sam',
+                            '/home/sbp29/RNASeq/YBR/minION/2208/sample_30d/sample30d.sam'),
+                    annot.ext=annot,
+                    minOverlap = 20,
+                    allowMultiOverlap = TRUE,
+                    isLongRead = TRUE)
+
+head(fc$counts)
+fc$counts %>%
+  melt() %>%
+  group_by(Var2) %>%
+  summarize(s = sum(value))
+
+counts <- fc$counts %>% data.frame()
+colnames(counts) <- c('crispy','wt','stop','syn')
+counts$gene_id <- rownames(counts)
+rownames(counts) <- NULL
+
+counts <- merge(counts, orfid_crossmap, by = 'gene_id')
+counts <- merge(orf_info, counts, by = 'orf_id', all.y = T)
+
+counts[,c('orf_id','chr','crispy','wt','stop','syn')] %>%
+  melt(id.vars = c('orf_id','chr')) %>%
+  filter(variable == 'wt') %>%
+  group_by(variable, chr) %>%
+  summarize(s = sum(value)) %>%
+  data.frame()
+
+counts %>%
+  filter(gene_systematic_name == 'YBR196C-A')
+
+counts$crispy[counts$gene_systematic_name == 'YBR196C-A' & !is.na(counts$gene_systematic_name)] <- 0
+```
+
+
+
+
+
+
+
+
 

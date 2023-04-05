@@ -23,9 +23,6 @@ orf_info<-readRDS('/home/aar75/rna_seq/Salmon_4_6_22/translatome.rds')
 head(orf_info)
 
 #loop through all orfs in annotation 
-annot$GeneID[i]
-
-annot[i,]
 i <- 14086 #ybr
 counts <- data.frame(annot, wt = 0, crispy = 0, syn = 0, stop = 0)
 # samples_matrix <- samples
@@ -107,10 +104,10 @@ loci_zoom <- c(612000, 616000)
 
 plot.transcript.crispy <- ybr_transcripts[,c('start','stop','name','strand','sample','t_length','t_order')] %>%
   melt(id.vars = c('strand','sample','name','t_order','t_length')) %>%
-  filter(sample == 'stop') %>%
+  filter(sample == 'stop2') %>%
   ggplot(aes(x = value, y = as.factor(t_order))) +
   geom_vline(xintercept = unique(c(ybr_loci$Start, ybr_loci$End)), linetype = 'dashed', col = 'blue', size = 0.3) +
-  geom_line() +
+  geom_line(size = 0.1) +
   facet_grid(.~sample) +
   coord_cartesian(xlim = loci_zoom) +
   theme_minimal() +
